@@ -1,0 +1,34 @@
+name: Moltbook News Aggregator
+
+on:
+  schedule:
+    # Runs every 4 hours
+    - cron: '0 */4 * * *'
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  aggregate-news:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install requests beautifulsoup4 feedparser
+
+      - name: Run news aggregator
+        run: python scripts/aggregate_news.py
+
+      - name: Commit and push if changes
+        run: |
+          git config --local user.email "moltbookstatus@gmail.com"
+          git config --local user.name "Moltbook Status Bot"
+          git add -A
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update news feed $(date -u +%Y-%m-%dT%H:%M:%SZ)" && git push)

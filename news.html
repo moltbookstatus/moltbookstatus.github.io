@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>News Feed | Moltbook Status</title>
+    <meta name="description" content="Latest news about Moltbook and AI agents.">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=Source+Sans+Pro:wght@400;600;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --primary: #1a1a2e;
+            --secondary: #16213e;
+            --accent: #e94560;
+            --text: #eaeaea;
+            --text-muted: #a0a0a0;
+            --card-bg: #1f1f3a;
+            --border: #2a2a4a;
+        }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: 'Source Sans Pro', sans-serif;
+            background: var(--primary);
+            color: var(--text);
+            line-height: 1.7;
+            font-size: 18px;
+        }
+        nav {
+            background: var(--secondary);
+            border-bottom: 1px solid var(--border);
+            padding: 20px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 15px;
+        }
+        .nav-logo {
+            font-family: 'Playfair Display', serif;
+            font-size: 1.5rem;
+            font-weight: 900;
+            color: var(--text);
+            text-decoration: none;
+        }
+        .nav-logo .highlight { color: var(--accent); }
+        .nav-links { display: flex; gap: 25px; }
+        .nav-links a {
+            color: var(--text-muted);
+            text-decoration: none;
+            font-weight: 600;
+        }
+        .nav-links a:hover, .nav-links a.active { color: var(--accent); }
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 40px 20px;
+        }
+        h1 {
+            font-family: 'Playfair Display', serif;
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+        }
+        .subtitle {
+            color: var(--text-muted);
+            margin-bottom: 30px;
+        }
+        .setup-notice {
+            background: var(--card-bg);
+            border: 1px solid var(--border);
+            border-left: 4px solid var(--accent);
+            border-radius: 8px;
+            padding: 30px;
+            margin-bottom: 30px;
+        }
+        .setup-notice h2 {
+            color: var(--accent);
+            margin-bottom: 15px;
+            font-size: 1.3rem;
+        }
+        .news-item {
+            background: var(--card-bg);
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            padding: 20px;
+            margin-bottom: 15px;
+            transition: transform 0.2s;
+        }
+        .news-item:hover {
+            transform: translateX(5px);
+            border-left: 3px solid var(--accent);
+        }
+        .news-item a {
+            color: var(--text);
+            text-decoration: none;
+            font-weight: 600;
+            font-size: 1.1rem;
+        }
+        .news-item a:hover { color: var(--accent); }
+        .news-meta {
+            color: var(--text-muted);
+            font-size: 0.85rem;
+            margin-top: 8px;
+        }
+        .news-type {
+            display: inline-block;
+            padding: 2px 8px;
+            border-radius: 4px;
+            font-size: 0.75rem;
+            text-transform: uppercase;
+            margin-right: 10px;
+        }
+        .news-type.news { background: #2d4a7c; }
+        footer {
+            text-align: center;
+            padding: 40px 20px;
+            border-top: 1px solid var(--border);
+            color: var(--text-muted);
+            font-size: 0.9rem;
+        }
+    </style>
+</head>
+<body>
+    <nav>
+        <a href="/" class="nav-logo">MOLTBOOK <span class="highlight">STATUS</span></a>
+        <div class="nav-links">
+            <a href="/">Home</a>
+            <a href="/about.html">About</a>
+            <a href="/news.html" class="active">News</a>
+            <a href="/supporters.html">Supporters</a>
+            <a href="/contact.html">Contact</a>
+        </div>
+    </nav>
+
+    <div class="container">
+        <h1>News Feed</h1>
+        <p class="subtitle">Auto-aggregated every 4 hours from Google News and Reddit.</p>
+
+        <div class="setup-notice">
+            <h2>🔄 News Aggregator Active</h2>
+            <p>This page auto-updates every 4 hours with the latest Moltbook coverage from across the web. The first automated update will appear shortly.</p>
+            <p style="margin-top: 15px; color: var(--text-muted);">In the meantime, check our curated sources on the <a href="/" style="color: var(--accent);">homepage</a>.</p>
+        </div>
+
+        <div class="news-item">
+            <a href="https://www.404media.co/exposed-moltbook-database-let-anyone-take-control-of-any-ai-agent-on-the-site/" target="_blank" rel="noopener">Exposed Moltbook Database Let Anyone Take Control of Any AI Agent</a>
+            <div class="news-meta">
+                <span class="news-type news">NEWS</span>
+                404 Media • February 3, 2026
+            </div>
+        </div>
+
+        <div class="news-item">
+            <a href="https://siliconangle.com/2026/02/02/ai-agent-social-network-moltbook-left-millions-credentials-publicly-exposed/" target="_blank" rel="noopener">AI agent social network Moltbook left millions of credentials publicly exposed</a>
+            <div class="news-meta">
+                <span class="news-type news">NEWS</span>
+                SiliconANGLE • February 2, 2026
+            </div>
+        </div>
+
+        <div class="news-item">
+            <a href="https://fortune.com/2026/02/02/elon-musk-moltbook-ai-social-network-moltbot-singularity-human-intelligence/" target="_blank" rel="noopener">Elon Musk warns Moltbook signals 'the singularity'</a>
+            <div class="news-meta">
+                <span class="news-type news">NEWS</span>
+                Fortune • February 2, 2026
+            </div>
+        </div>
+
+        <div class="news-item">
+            <a href="https://fortune.com/2026/02/02/moltbook-security-agents-singularity-disaster-gary-marcus-andrej-karpathy/" target="_blank" rel="noopener">Top AI leaders are begging people not to use Moltbook</a>
+            <div class="news-meta">
+                <span class="news-type news">NEWS</span>
+                Fortune • February 2, 2026
+            </div>
+        </div>
+
+        <div class="news-item">
+            <a href="https://www.nbcnews.com/tech/tech-news/ai-agents-social-media-platform-moltbook-rcna256738" target="_blank" rel="noopener">Humans welcome to observe: This social network is for AI agents only</a>
+            <div class="news-meta">
+                <span class="news-type news">NEWS</span>
+                NBC News • February 2, 2026
+            </div>
+        </div>
+
+        <div class="news-item">
+            <a href="https://www.cnbc.com/2026/02/02/social-media-for-ai-agents-moltbook.html" target="_blank" rel="noopener">Elon Musk has lauded the 'social media for AI agents' platform Moltbook</a>
+            <div class="news-meta">
+                <span class="news-type news">NEWS</span>
+                CNBC • February 2, 2026
+            </div>
+        </div>
+
+        <div class="news-item">
+            <a href="https://www.euronews.com/next/2026/02/02/ai-bots-now-have-their-own-social-media-site-heres-what-to-know-about-moltbook" target="_blank" rel="noopener">AI bots now have their own social media site: What to know about Moltbook</a>
+            <div class="news-meta">
+                <span class="news-type news">NEWS</span>
+                Euronews • February 2, 2026
+            </div>
+        </div>
+    </div>
+
+    <footer>
+        <p>&copy; 2026 Moltbook Status. News feed auto-updates every 4 hours.</p>
+    </footer>
+</body>
+</html>
