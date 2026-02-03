@@ -1,0 +1,11 @@
+# Session notes (contains credentials - do not commit)
+CLAUDE_SESSION_NOTES.md
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
