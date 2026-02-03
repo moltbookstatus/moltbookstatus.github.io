@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Supporters | Moltbook Status</title>
+    <meta name="description" content="The humans keeping Moltbook Status running.">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=Source+Sans+Pro:wght@400;600;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --primary: #1a1a2e;
+            --secondary: #16213e;
+            --accent: #e94560;
+            --accent-glow: rgba(233, 69, 96, 0.3);
+            --text: #eaeaea;
+            --text-muted: #a0a0a0;
+            --card-bg: #1f1f3a;
+            --border: #2a2a4a;
+            --gold: #ffd700;
+            --silver: #c0c0c0;
+            --bronze: #cd7f32;
+        }
+
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            font-family: 'Source Sans Pro', -apple-system, BlinkMacSystemFont, sans-serif;
+            background: var(--primary);
+            color: var(--text);
+            line-height: 1.7;
+            font-size: 18px;
+        }
+
+        nav {
+            background: var(--secondary);
+            border-bottom: 1px solid var(--border);
+            padding: 20px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 15px;
+        }
+
+        .nav-logo {
+            font-family: 'Playfair Display', Georgia, serif;
+            font-size: 1.5rem;
+            font-weight: 900;
+            color: var(--text);
+            text-decoration: none;
+        }
+
+        .nav-logo .highlight { color: var(--accent); }
+
+        .nav-links { display: flex; gap: 25px; }
+
+        .nav-links a {
+            color: var(--text-muted);
+            text-decoration: none;
+            font-weight: 600;
+            transition: color 0.2s;
+        }
+
+        .nav-links a:hover, .nav-links a.active { color: var(--accent); }
+
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 60px 20px;
+        }
+
+        h1 {
+            font-family: 'Playfair Display', Georgia, serif;
+            font-size: 3rem;
+            margin-bottom: 10px;
+            text-align: center;
+        }
+
+        .subtitle {
+            color: var(--text-muted);
+            font-size: 1.2rem;
+            margin-bottom: 50px;
+            text-align: center;
+        }
+
+        .tier-section {
+            margin-bottom: 50px;
+        }
+
+        .tier-header {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            margin-bottom: 25px;
+            padding-bottom: 15px;
+            border-bottom: 2px solid var(--border);
+        }
+
+        .tier-icon {
+            font-size: 1.5rem;
+        }
+
+        .tier-title {
+            font-family: 'Playfair Display', Georgia, serif;
+            font-size: 1.8rem;
+        }
+
+        .tier-title.benefactor { color: var(--gold); }
+        .tier-title.analyst { color: var(--silver); }
+        .tier-title.observer { color: var(--bronze); }
+
+        .supporters-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+            gap: 15px;
+        }
+
+        .supporter-card {
+            background: var(--card-bg);
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            padding: 20px;
+            text-align: center;
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+
+        .supporter-card:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 5px 20px rgba(0,0,0,0.3);
+        }
+
+        .supporter-card.benefactor { border-color: var(--gold); }
+        .supporter-card.analyst { border-color: var(--silver); }
+        .supporter-card.observer { border-color: var(--bronze); }
+
+        .supporter-name {
+            font-weight: 700;
+            font-size: 1.1rem;
+        }
+
+        .supporter-date {
+            color: var(--text-muted);
+            font-size: 0.85rem;
+            margin-top: 5px;
+        }
+
+        .empty-state {
+            background: var(--card-bg);
+            border: 2px dashed var(--border);
+            border-radius: 12px;
+            padding: 40px;
+            text-align: center;
+            color: var(--text-muted);
+        }
+
+        .empty-state p {
+            margin-bottom: 20px;
+        }
+
+        .cta-btn {
+            display: inline-block;
+            padding: 12px 25px;
+            background: var(--accent);
+            color: white;
+            text-decoration: none;
+            border-radius: 8px;
+            font-weight: 700;
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+
+        .cta-btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 5px 20px var(--accent-glow);
+        }
+
+        .founding-note {
+            background: linear-gradient(135deg, rgba(255, 215, 0, 0.1), rgba(233, 69, 96, 0.1));
+            border: 1px solid var(--gold);
+            border-radius: 12px;
+            padding: 30px;
+            text-align: center;
+            margin-bottom: 50px;
+        }
+
+        .founding-note h2 {
+            font-family: 'Playfair Display', Georgia, serif;
+            color: var(--gold);
+            margin-bottom: 15px;
+        }
+
+        footer {
+            text-align: center;
+            padding: 40px 20px;
+            border-top: 1px solid var(--border);
+            color: var(--text-muted);
+            font-size: 0.9rem;
+        }
+
+        @media (max-width: 768px) {
+            h1 { font-size: 2rem; }
+            .supporters-grid { grid-template-columns: 1fr; }
+        }
+    </style>
+</head>
+<body>
+    <nav>
+        <a href="/" class="nav-logo">MOLTBOOK <span class="highlight">STATUS</span></a>
+        <div class="nav-links">
+            <a href="/">Home</a>
+            <a href="/about.html">About</a>
+            <a href="/supporters.html" class="active">Supporters</a>
+            <a href="/contact.html">Contact</a>
+        </div>
+    </nav>
+
+    <div class="container">
+        <h1>Our Supporters</h1>
+        <p class="subtitle">The humans keeping the lights on while we watch the machines.</p>
+
+        <div class="founding-note">
+            <h2>Become a Founding Supporter</h2>
+            <p>Moltbook Status just launched. Early supporters will be forever recognized as founding members who believed in independent AI journalism from day one.</p>
+            <a href="https://www.patreon.com/moltbookstatus" class="cta-btn" target="_blank" rel="noopener">Join on Patreon</a>
+        </div>
+
+        <div class="tier-section">
+            <div class="tier-header">
+                <span class="tier-icon">⭐</span>
+                <h2 class="tier-title benefactor">Benefactors</h2>
+            </div>
+            <div class="empty-state">
+                <p>Be the first Benefactor and help shape our coverage.</p>
+                <a href="https://www.patreon.com/moltbookstatus" class="cta-btn" target="_blank" rel="noopener">Claim This Spot</a>
+            </div>
+        </div>
+
+        <div class="tier-section">
+            <div class="tier-header">
+                <span class="tier-icon">📊</span>
+                <h2 class="tier-title analyst">Analysts</h2>
+            </div>
+            <div class="empty-state">
+                <p>No Analysts yet. Early access to reports awaits.</p>
+                <a href="https://www.patreon.com/moltbookstatus" class="cta-btn" target="_blank" rel="noopener">Join as Analyst</a>
+            </div>
+        </div>
+
+        <div class="tier-section">
+            <div class="tier-header">
+                <span class="tier-icon">👁️</span>
+                <h2 class="tier-title observer">Observers</h2>
+            </div>
+            <div class="empty-state">
+                <p>No Observers yet. Your name could be first on the wall.</p>
+                <a href="https://www.patreon.com/moltbookstatus" class="cta-btn" target="_blank" rel="noopener">Start Observing</a>
+            </div>
+        </div>
+
+        <p style="text-align: center; color: var(--text-muted); margin-top: 40px; font-size: 0.95rem;">
+            <em>Supporter names are added manually. If you've joined and don't see your name, give it a day or <a href="/contact.html" style="color: var(--accent);">let me know</a>.</em>
+        </p>
+    </div>
+
+    <footer>
+        <p>&copy; 2026 Moltbook Status. All rights reserved.</p>
+        <p>Made by humans, for humans, about machines.</p>
+    </footer>
+</body>
+</html>
