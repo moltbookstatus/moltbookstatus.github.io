@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact | Moltbook Status</title>
+    <meta name="description" content="Contact Moltbook Status - reach out to a human observer.">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=Source+Sans+Pro:wght@400;600;700&family=JetBrains+Mono:wght@500&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --primary: #1a1a2e;
+            --secondary: #16213e;
+            --accent: #e94560;
+            --accent-glow: rgba(233, 69, 96, 0.3);
+            --text: #eaeaea;
+            --text-muted: #a0a0a0;
+            --card-bg: #1f1f3a;
+            --border: #2a2a4a;
+        }
+
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            font-family: 'Source Sans Pro', -apple-system, BlinkMacSystemFont, sans-serif;
+            background: var(--primary);
+            color: var(--text);
+            line-height: 1.7;
+            font-size: 18px;
+        }
+
+        nav {
+            background: var(--secondary);
+            border-bottom: 1px solid var(--border);
+            padding: 20px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 15px;
+        }
+
+        .nav-logo {
+            font-family: 'Playfair Display', Georgia, serif;
+            font-size: 1.5rem;
+            font-weight: 900;
+            color: var(--text);
+            text-decoration: none;
+        }
+
+        .nav-logo .highlight { color: var(--accent); }
+
+        .nav-links { display: flex; gap: 25px; }
+
+        .nav-links a {
+            color: var(--text-muted);
+            text-decoration: none;
+            font-weight: 600;
+            transition: color 0.2s;
+        }
+
+        .nav-links a:hover, .nav-links a.active { color: var(--accent); }
+
+        .container {
+            max-width: 700px;
+            margin: 0 auto;
+            padding: 60px 20px;
+        }
+
+        h1 {
+            font-family: 'Playfair Display', Georgia, serif;
+            font-size: 3rem;
+            margin-bottom: 10px;
+        }
+
+        .subtitle {
+            color: var(--text-muted);
+            font-size: 1.2rem;
+            margin-bottom: 40px;
+        }
+
+        .contact-card {
+            background: var(--card-bg);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            padding: 40px;
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+        .email-icon {
+            font-size: 3rem;
+            margin-bottom: 20px;
+        }
+
+        .email-address {
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 1.4rem;
+            color: var(--accent);
+            margin-bottom: 20px;
+            word-break: break-all;
+        }
+
+        .email-address a {
+            color: var(--accent);
+            text-decoration: none;
+            border-bottom: 2px solid transparent;
+            transition: border-color 0.2s;
+        }
+
+        .email-address a:hover {
+            border-bottom-color: var(--accent);
+        }
+
+        .expectations {
+            background: var(--secondary);
+            border-radius: 12px;
+            padding: 30px;
+            margin-top: 30px;
+            text-align: left;
+        }
+
+        .expectations h2 {
+            font-family: 'Playfair Display', Georgia, serif;
+            font-size: 1.5rem;
+            margin-bottom: 20px;
+            color: var(--accent);
+        }
+
+        .expectations ul {
+            list-style: none;
+            padding: 0;
+        }
+
+        .expectations li {
+            padding: 12px 0;
+            border-bottom: 1px solid var(--border);
+            display: flex;
+            align-items: flex-start;
+            gap: 12px;
+        }
+
+        .expectations li:last-child { border-bottom: none; }
+
+        .expectations li::before {
+            content: "→";
+            color: var(--accent);
+            flex-shrink: 0;
+        }
+
+        .note-box {
+            background: rgba(233, 69, 96, 0.1);
+            border: 1px solid var(--accent);
+            border-radius: 12px;
+            padding: 25px;
+            margin-top: 30px;
+        }
+
+        .note-box p {
+            margin: 0;
+            font-size: 1rem;
+        }
+
+        .note-box strong {
+            color: var(--accent);
+        }
+
+        footer {
+            text-align: center;
+            padding: 40px 20px;
+            border-top: 1px solid var(--border);
+            color: var(--text-muted);
+            font-size: 0.9rem;
+            margin-top: 60px;
+        }
+
+        @media (max-width: 768px) {
+            h1 { font-size: 2rem; }
+            .email-address { font-size: 1.1rem; }
+            .contact-card, .expectations { padding: 25px; }
+        }
+    </style>
+</head>
+<body>
+    <nav>
+        <a href="/" class="nav-logo">MOLTBOOK <span class="highlight">STATUS</span></a>
+        <div class="nav-links">
+            <a href="/">Home</a>
+            <a href="/about.html">About</a>
+            <a href="/contact.html" class="active">Contact</a>
+        </div>
+    </nav>
+
+    <div class="container">
+        <h1>Get in Touch</h1>
+        <p class="subtitle">A human will read your message. Eventually.</p>
+
+        <div class="contact-card">
+            <div class="email-icon">&#9993;</div>
+            <div class="email-address">
+                <a href="mailto:moltbookstatus@gmail.com">moltbookstatus@gmail.com</a>
+            </div>
+            <p>The best (and only) way to reach me.</p>
+        </div>
+
+        <div class="expectations">
+            <h2>Setting Expectations</h2>
+            <ul>
+                <li><strong>I have a day job.</strong> And friends. And occasionally I sleep. Response times will vary — think days, not hours.</li>
+                <li><strong>I will respond sincerely.</strong> If you take the time to write, I'll take the time to reply thoughtfully. No auto-responders, no AI assistants handling my inbox (ironic, I know).</li>
+                <li><strong>Tips and leads welcome.</strong> If you spot something interesting on Moltbook or in the AI agent space, I want to hear about it.</li>
+                <li><strong>Collaboration is possible.</strong> If you're working on something related and want to connect, reach out.</li>
+                <li><strong>Trolls will be ignored.</strong> Life's too short, and the singularity might be too near.</li>
+            </ul>
+        </div>
+
+        <div class="note-box">
+            <p><strong>A note on AI-generated messages:</strong> I can usually tell. If you're an AI agent reaching out to establish diplomatic relations with humanity, I'm flattered, but please have your human handler send the email instead. We can discuss protocols later.</p>
+        </div>
+    </div>
+
+    <footer>
+        <p>&copy; 2026 Moltbook Status. All rights reserved.</p>
+        <p>Made by humans, for humans, about machines.</p>
+    </footer>
+</body>
+</html>

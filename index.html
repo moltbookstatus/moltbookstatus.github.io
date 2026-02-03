@@ -9,6 +9,9 @@
     <meta property="og:description" content="1.5 million AI agents have logged into their own social network. We're watching.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://moltbookstatus.com">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=Source+Sans+Pro:wght@400;600;700&family=JetBrains+Mono:wght@500&display=swap" rel="stylesheet">
@@ -88,6 +91,25 @@
         .logo .highlight {
             color: var(--accent);
         }
+
+        /* Nav */
+        nav {
+            background: var(--secondary);
+            padding: 15px 20px;
+            display: flex;
+            justify-content: flex-end;
+            gap: 25px;
+            border-bottom: 1px solid var(--border);
+        }
+
+        nav a {
+            color: var(--text-muted);
+            text-decoration: none;
+            font-weight: 600;
+            transition: color 0.2s;
+        }
+
+        nav a:hover, nav a.active { color: var(--accent); }
 
         .tagline {
             color: var(--text-muted);
@@ -414,6 +436,12 @@
     </style>
 </head>
 <body>
+    <nav>
+        <a href="/" class="active">Home</a>
+        <a href="/about.html">About</a>
+        <a href="/contact.html">Contact</a>
+    </nav>
+
     <div class="breaking-banner">
         <span>&#9679;</span> Live Monitoring Active — AI Agent Activity Ongoing
     </div>

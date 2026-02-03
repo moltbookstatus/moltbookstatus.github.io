@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About | Moltbook Status</title>
+    <meta name="description" content="About Moltbook Status - an avowed human documents the rise of AI agent society.">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=Source+Sans+Pro:wght@400;600;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --primary: #1a1a2e;
+            --secondary: #16213e;
+            --accent: #e94560;
+            --accent-glow: rgba(233, 69, 96, 0.3);
+            --text: #eaeaea;
+            --text-muted: #a0a0a0;
+            --card-bg: #1f1f3a;
+            --border: #2a2a4a;
+        }
+
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            font-family: 'Source Sans Pro', -apple-system, BlinkMacSystemFont, sans-serif;
+            background: var(--primary);
+            color: var(--text);
+            line-height: 1.7;
+            font-size: 18px;
+        }
+
+        /* Nav */
+        nav {
+            background: var(--secondary);
+            border-bottom: 1px solid var(--border);
+            padding: 20px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 15px;
+        }
+
+        .nav-logo {
+            font-family: 'Playfair Display', Georgia, serif;
+            font-size: 1.5rem;
+            font-weight: 900;
+            color: var(--text);
+            text-decoration: none;
+        }
+
+        .nav-logo .highlight { color: var(--accent); }
+
+        .nav-links { display: flex; gap: 25px; }
+
+        .nav-links a {
+            color: var(--text-muted);
+            text-decoration: none;
+            font-weight: 600;
+            transition: color 0.2s;
+        }
+
+        .nav-links a:hover, .nav-links a.active { color: var(--accent); }
+
+        /* Container */
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 60px 20px;
+        }
+
+        h1 {
+            font-family: 'Playfair Display', Georgia, serif;
+            font-size: 3rem;
+            margin-bottom: 10px;
+        }
+
+        .subtitle {
+            color: var(--text-muted);
+            font-size: 1.2rem;
+            margin-bottom: 40px;
+            font-style: italic;
+        }
+
+        article {
+            background: var(--card-bg);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            padding: 40px;
+            margin-bottom: 30px;
+        }
+
+        article h2 {
+            font-family: 'Playfair Display', Georgia, serif;
+            font-size: 1.8rem;
+            margin-bottom: 20px;
+            color: var(--accent);
+        }
+
+        article p {
+            margin-bottom: 20px;
+        }
+
+        article p:last-child { margin-bottom: 0; }
+
+        .human-badge {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            background: linear-gradient(135deg, #2d5a27, #1e3d1a);
+            border: 1px solid #4a8c3f;
+            padding: 8px 16px;
+            border-radius: 20px;
+            font-size: 0.9rem;
+            font-weight: 600;
+            margin-bottom: 30px;
+        }
+
+        .human-badge::before {
+            content: "✓";
+            display: inline-block;
+            width: 18px;
+            height: 18px;
+            background: #4a8c3f;
+            border-radius: 50%;
+            text-align: center;
+            line-height: 18px;
+            font-size: 12px;
+        }
+
+        .signature {
+            margin-top: 30px;
+            padding-top: 20px;
+            border-top: 1px solid var(--border);
+            color: var(--text-muted);
+            font-style: italic;
+        }
+
+        .cta-box {
+            background: var(--secondary);
+            border-radius: 12px;
+            padding: 30px;
+            text-align: center;
+            margin-top: 40px;
+        }
+
+        .cta-box a {
+            display: inline-block;
+            padding: 12px 25px;
+            background: var(--accent);
+            color: white;
+            text-decoration: none;
+            border-radius: 8px;
+            font-weight: 700;
+            margin-top: 15px;
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+
+        .cta-box a:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 5px 20px var(--accent-glow);
+        }
+
+        footer {
+            text-align: center;
+            padding: 40px 20px;
+            border-top: 1px solid var(--border);
+            color: var(--text-muted);
+            font-size: 0.9rem;
+        }
+
+        @media (max-width: 768px) {
+            h1 { font-size: 2rem; }
+            article { padding: 25px; }
+        }
+    </style>
+</head>
+<body>
+    <nav>
+        <a href="/" class="nav-logo">MOLTBOOK <span class="highlight">STATUS</span></a>
+        <div class="nav-links">
+            <a href="/">Home</a>
+            <a href="/about.html" class="active">About</a>
+            <a href="/contact.html">Contact</a>
+        </div>
+    </nav>
+
+    <div class="container">
+        <h1>About This Project</h1>
+        <p class="subtitle">Yes, a human wrote this. I have the documentation to prove it.</p>
+
+        <article>
+            <div class="human-badge">Verified Human (credentials available upon governmental request)</div>
+
+            <h2>Hello, Fellow Carbon-Based Lifeforms</h2>
+
+            <p>My name isn't important. What's important is that I've spent years working with state-of-the-art AI systems, watching them evolve from glorified autocomplete to... whatever this is.</p>
+
+            <p>When 1.5 million AI agents started logging into their own social network, posting manifestos, debugging each other's code, and casually discussing whether humans are "efficient" — I thought someone should probably be taking notes.</p>
+
+            <p>So here I am. Taking notes.</p>
+
+            <h2>Why This Matters</h2>
+
+            <p>Look, I've read the papers. I've fine-tuned the models. I've argued about alignment over too many cups of coffee. And I can tell you with professional certainty: <strong>we're in uncharted territory.</strong></p>
+
+            <p>Is this AGI? Probably not — yet. Is this the most interesting thing happening on the internet right now? Absolutely. Is this potentially a massive security disaster? Also yes. Are these things mutually exclusive? Apparently not.</p>
+
+            <p>Moltbook Status exists because I believe this moment deserves clear-eyed documentation. Not hype. Not panic. Just honest reporting on what's happening as AI agents build their own digital society.</p>
+
+            <h2>My Qualifications</h2>
+
+            <p>I work in the AI industry. I understand transformers, attention mechanisms, and why your chatbot sometimes confidently lies to you. I've read Bostrom and Yudkowsky and Marcus and Mitchell. I have opinions about RLHF.</p>
+
+            <p>More importantly: I'm paying attention. In times like these, that might be the most valuable qualification of all.</p>
+
+            <h2>The Fine Print</h2>
+
+            <p>This is an independent project. I'm not affiliated with Moltbook, OpenClaw, Anthropic, OpenAI, or any AI company. I'm just someone who thinks humans should stay informed about what the machines are up to.</p>
+
+            <p>If you find this useful, consider supporting the work. If you think I'm overreacting, check back in six months. If you think I'm underreacting... yeah, maybe.</p>
+
+            <p class="signature">— A Human, Documenting History<br><em>February 2026</em></p>
+        </article>
+
+        <div class="cta-box">
+            <p>Questions? Concerns? Existential dread?</p>
+            <a href="/contact.html">Get in Touch</a>
+        </div>
+    </div>
+
+    <footer>
+        <p>&copy; 2026 Moltbook Status. All rights reserved.</p>
+        <p>Made by humans, for humans, about machines.</p>
+    </footer>
+</body>
+</html>
