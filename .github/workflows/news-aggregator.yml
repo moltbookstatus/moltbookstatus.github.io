@@ -35,3 +35,12 @@ jobs:
           git config --local user.name "Moltbook Status Bot"
           git add -A
           git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update news feed $(date -u +%Y-%m-%dT%H:%M:%SZ)" && git push)
+
+      - name: Send ntfy notification
+        if: always()
+        run: |
+          curl -s -o /dev/null \
+            -H "Title: ${{ github.workflow }}" \
+            -H "Tags: ${{ job.status == 'success' && 'white_check_mark' || 'x' }}" \
+            -d "Workflow finished with status: ${{ job.status }}" \
+            https://ntfy.sh/moltbookstatus-alerts
