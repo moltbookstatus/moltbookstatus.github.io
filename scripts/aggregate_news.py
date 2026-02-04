@@ -29,7 +29,9 @@ def fetch_google_news():
     """Fetch news from Google News RSS."""
     articles = []
     try:
-        feed = feedparser.parse(GOOGLE_NEWS_RSS)
+        # Fetch with timeout, then parse
+        response = requests.get(GOOGLE_NEWS_RSS, timeout=15)
+        feed = feedparser.parse(response.content)
         for entry in feed.entries[:20]:  # Last 20 articles
             articles.append({
                 "title": entry.get("title", ""),
@@ -50,7 +52,9 @@ def fetch_reddit_posts():
 
     for rss_url in REDDIT_RSS_SOURCES:
         try:
-            feed = feedparser.parse(rss_url)
+            # Fetch with timeout, then parse
+            response = requests.get(rss_url, headers=headers, timeout=15)
+            feed = feedparser.parse(response.content)
             for entry in feed.entries[:10]:
                 posts.append({
                     "title": entry.get("title", ""),
@@ -60,7 +64,7 @@ def fetch_reddit_posts():
                     "type": "reddit"
                 })
         except Exception as e:
-            print(f"Error fetching Reddit: {e}")
+            print(f"Error fetching Reddit {rss_url}: {e}")
     return posts
 
 
