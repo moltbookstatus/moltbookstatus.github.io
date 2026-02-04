@@ -1,6 +1,14 @@
 # Session notes (contains credentials - do not commit)
 CLAUDE_SESSION_NOTES.md
 
+# Credentials and secrets
+*.env
+.env*
+credentials.json
+secrets.json
+*.pem
+*.key
+
 # OS files
 .DS_Store
 Thumbs.db
