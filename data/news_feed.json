@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title": "An AI-only social network now has more than 1.6M 'users.' Here\u2019s what you need to know - ABC News",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYUltSWwzVXh1eUcweXBORzZnRk5xLXMxRU5oUXBibTdlb1NFU0MxOE40NEs4UXdYZC1ZOFlwSlVlRDZDT1ExTm5ZT25tbWtSNUVRWjRNNHBwQmd0cEVrNHZOY0FyYjAwalIxdmtzMGRLaVpjaUM2aTVfM2M5dFZaWkwwUkE5ZnA3bDFvbDBHck8zTUFp0gGaAUFVX3lxTE9kYlVZa2pCZnVrcmV0NWRJc1VvZ3RsVWliczFDVzRtbG8xX2t6Z2MzdnR6VUV3Y1hxeGJoUjZWcEpYZW5WdHpFVWVuZjA4clVsVFNmWUl2RDFxTVFaTFNhWVdYalkxd2hzZ29vSjRoYWZyb1lWbDA4ZHF0U05QeVdad0hzbTZfVlZBaVdyVUF4blNJWXA0cTlOdlE?oc=5",
+      "source": "ABC News",
+      "published": "Wed, 04 Feb 2026 22:47:19 GMT",
+      "type": "news"
+    },
+    {
+      "title": "Opinion Divided on Moltbook Social Network for AI Agents - AI Business",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTl81REpybk5kZjN3VmItMU9WTGpxT0l1OHhxdm8wQnU3b1lnRWNSY3RWakhOTzAzTVplX1BINi1VV05mS3o0WVk0bkcwNnpmOGsySHE4bEpCODA5YmZyeURuYnhKb3hqeXo1UDh5ZUREdjlRRlRKY3M2QmdPWGdDSE9B?oc=5",
+      "source": "AI Business",
+      "published": "Wed, 04 Feb 2026 21:47:10 GMT",
+      "type": "news"
+    },
+    {
       "title": "Moltbook is the newest social media platform \u2014 but it\u2019s just for AI bots - NPR",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTDRhMGlWYmUweUgtcWJvZDJBQ2g4TzZ0ZG4zMG05TWw0Q3Z5WGV5TnFqUGx1c3ppclExT1Joc1VINm1vYWM5S012VkkxYnozMUdnT2RWdF9PRDhUdko1dllJT1Y4Mjdvc3RHZlpacHpOd2RtUm5QQW4yeG4zb2JNY3ln?oc=5",
       "source": "NPR",
@@ -26,6 +40,13 @@
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5JUW11YUNHcncwWXNiTmROUUhGcmg3aXFUN3VPbm9EU0M0S1piZ1N4eXktM0VCeGdYdm1sWUxLOGFvQVM5NnYyMnFfd2J2NThEOEtGdmlYbVdzRTI0cmxiUC1R?oc=5",
       "source": "Mashable",
       "published": "Wed, 04 Feb 2026 19:13:36 GMT",
+      "type": "news"
+    },
+    {
+      "title": "The World\u2019s First Viral AI Assistant Has Arrived, and Things Are Getting Weird - The Wall Street Journal",
+      "link": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxPdDRjQ0pZT3dEbzFRaGFrTEZYbURjWHNGQUE2amhYU0RLcF9lRnZBbUlWY0VrU0dKS0tsRm9XeDBKYVZNRmg3ZEp6LUxhbFlhUDdKbHNMWTAtdlFWemdwTENCU2xnT3QzVl9Ob3hGWU1QeWlfWnZQZ0lUMENtdkpESkFyZlZrek1qVm8tZlNYUWotLXZXTlRGMkMwX1NVQWJ5cGwyNXVlTHZxZU8teDVXcUp1enNsZkdkM2g4cE1JTG1wd296aFlIWkZDZGd1ak51OWQtSTVKNHdCTXppVHZZU3VNelpTUUpEa05rNVpWTnJ3WEcybWR5N2JtaHZHQlZINThRRmdtckplN0pBZlIwcno3a1pYTThhRW5xNkRxaG9lWTl5WVR2OHp2dHRxMXVkUWJXN1lySUhVd2Fzdng0UTZOVTg1VDVvTmw1eko3aWgtR184Uks1UHZqRFV4Y2xMVHZ3U0wza3NYYmJjUU80UDZHX0R1RFJ4SlpNOFVEOFpuRkRQSmVRSDlNVQ?oc=5",
+      "source": "The Wall Street Journal",
+      "published": "Wed, 04 Feb 2026 17:00:00 GMT",
       "type": "news"
     },
     {
@@ -274,7 +295,7 @@
       "type": "reddit"
     }
   ],
-  "last_updated": "2026-02-04T21:36:52.567369+00:00",
+  "last_updated": "2026-02-04T22:56:34.341605+00:00",
   "total_fetched": 24,
-  "new_this_run": 2
+  "new_this_run": 3
 }
