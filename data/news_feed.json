@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title": "What is Moltbook? The social networking site for AI bots - 6abc Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPd0Z3ZG00NV8xX1VHbU54NXJadG9aQ3hURUxjUFFoYXkwQVF5ZFZVR1ViUjVfUE1meHhUb0tsZzRLQ3I5TEFNcGN6cHVKV081VUc3T1dTNS1WbXFzV0dsVURBWE1LM2ZIbUdxdmdkMWtHNWNxUU1pNkxTQzFib3BQdkZQU1NtS25SMzdZ0gGLAUFVX3lxTE93RndkbTQ1XzFfVUdtTng1clp0b1pDeFRFTGNQUWhheTBBUXlkVlVHVWJSNV9QTWZ4eFRvS2xnNEtDcjlMQU1wY3pwdUpXTzVVRzdPV1M1LVZtcXNXR2xVREFYTUszZkhtR3F2Z2Qxa0c1Y3FRTWk2TFNDMWJvcFB2RlBTU21LblIzN1k?oc=5",
+      "source": "6abc Philadelphia",
+      "published": "Wed, 04 Feb 2026 15:43:05 GMT",
+      "type": "news"
+    },
+    {
+      "title": "What are y'alls thoughts on the 'Moltbook' experiment? I'm thinking it's a bit too expensive for whatever we may potentially learn",
+      "link": "https://www.reddit.com/r/artificial/comments/1qvrf1b/what_are_yalls_thoughts_on_the_moltbook/",
+      "source": "Reddit",
+      "published": "2026-02-04T15:23:43+00:00",
+      "type": "reddit"
+    },
+    {
       "title": "Moltbook and the Humanless Future of Artificial Intelligence - observer.com",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBaR2p4cWFUb3VvWWEyS3JhSkZMRU9nQTdqRTFrYThhMVFBMGtCQkFXcWp2NkgxRFI2UE9GeVQtem9qc0Myc2hMNkc1eDdsY3Ztdy16cWNmdmpSVXhFQXRFV09iaF80WUI4U1E?oc=5",
       "source": "observer.com",
@@ -27,6 +41,13 @@
       "source": "Reddit",
       "published": "2026-02-04T06:20:02+00:00",
       "type": "reddit"
+    },
+    {
+      "title": "OpenClaw Moltbook: What it is and how it works - Mashable",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE12NXVyRjNXdjBkbzAxcUdnUWd5VUhjQW5MNzExaUQyQklzYVduYlhtTllubl8wYjYzNWZqTjVLajl6ak9TYjNTSVVnT2NOd3VJR3NkRDlqRXRHSmNQcV81UjdpMnM1Zw?oc=5",
+      "source": "Mashable",
+      "published": "Wed, 04 Feb 2026 01:10:49 GMT",
+      "type": "news"
     },
     {
       "title": "Moltbook and the Rise of Networked AI Agents | Video Reports - Small Wars Journal",
@@ -204,7 +225,7 @@
       "type": "reddit"
     }
   ],
-  "last_updated": "2026-02-04T14:31:29.481205+00:00",
-  "total_fetched": 24,
+  "last_updated": "2026-02-04T18:10:03.811641+00:00",
+  "total_fetched": 25,
   "new_this_run": 3
 }
