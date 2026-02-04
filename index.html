@@ -625,21 +625,17 @@
                     text.textContent = 'Moltbook Platform: Offline';
                 }
 
-                // Format the last checked time
+                // Format the last checked time in user's local timezone
                 if (data.last_checked) {
                     const checked = new Date(data.last_checked);
-                    const now = new Date();
-                    const diffMs = now - checked;
-                    const diffMins = Math.floor(diffMs / 60000);
-
-                    if (diffMins < 1) {
-                        updated.textContent = 'Last checked: Just now';
-                    } else if (diffMins < 60) {
-                        updated.textContent = `Last checked: ${diffMins}m ago`;
-                    } else {
-                        const diffHours = Math.floor(diffMins / 60);
-                        updated.textContent = `Last checked: ${diffHours}h ago`;
-                    }
+                    const formatted = checked.toLocaleString(undefined, {
+                        month: 'short',
+                        day: 'numeric',
+                        hour: 'numeric',
+                        minute: '2-digit',
+                        hour12: true
+                    });
+                    updated.textContent = `Last checked: ${formatted}`;
                 }
             } catch (e) {
                 // If we can't fetch status, show unknown
