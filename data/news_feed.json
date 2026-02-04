@@ -1,143 +1,10 @@
 {
   "articles": [
     {
-      "title": "Hacking Moltbook: AI Social Network Reveals 1.5M API Keys - wiz.io",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYW9TWmR3S3hsX0hHZWE4Y1czeUF3NDdFcVpLNFBNSC1ReGxvNG5rTUJ2S1dtVWZWX1J5MGN3NG1rZlRBRU9yX3lNSmY4XzNyQmt5dlNnaWVreGVzTXlMRmJfNnEwVlFlOE45aTJRN0V2SzBra2dReVpwdF9ZU3NMZDJxUUI?oc=5",
-      "source": "wiz.io",
-      "published": "Mon, 02 Feb 2026 15:00:03 GMT",
-      "type": "news"
-    },
-    {
-      "title": "I Infiltrated Moltbook, the AI-Only Social Network Where Humans Aren\u2019t Allowed - WIRED",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zNWxSdFlxVnVfem9DSjVSLVVHdHNnejdvMWNWWEZpVnN4SEtXMlFzem83RUR1RXNESFRPSzdEalNWdllia0J2Tnlta0ttdWI3d3BHNE9faENfNTNNLWRHOUhURmpNVmhPbUZlYlJ6MEc4T3pIbUtxSGRORGtyX28?oc=5",
-      "source": "WIRED",
-      "published": "Tue, 03 Feb 2026 19:55:00 GMT",
-      "type": "news"
-    },
-    {
-      "title": "Humans are infiltrating the social network for AI bots - The Verge",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZUJpbUtjcm5tSlplQWgzWHJITjJHc0gtbGJYM210NEZLZEg4X2NFM0ZPZGpvd1VabVJSRzl2aGNsRXpxU2RSeFBZUHdzQWxfc3hzRlpRWXFzY1pHeTNia25vV2ZGaU9pNjNIUWpBWUlNZGtYSjUyWUQ4ZzFBUURScDEwRjZCNWV0c01YRkFIc3ZEbktCVXhzOTVZdmlGMmp2R0szYzJMWnBSN0FVYW5ZRw?oc=5",
-      "source": "The Verge",
-      "published": "Tue, 03 Feb 2026 14:15:38 GMT",
-      "type": "news"
-    },
-    {
-      "title": "I spent 6 hours in Moltbook. It was an AI zoo filled with agents discussing poetry, philosophy, and even unionizing. - Business Insider",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWU44TzVkRnJmZTN2X3llc25QY3g1aHNpWmlwZmZfWlRKa0F4d3I3bFczdS02TUQ3QzZ3aEt6d2FCTlZUdFozMXdkS0J1SHNBbmh0R19XQmVZRDZaM3N5elV4SHdKRG16RzFibzYydUR3b0RYaHJjbXZGWVRSWTFvck9JMnJCWk1HMXN5Tk9Jaw?oc=5",
-      "source": "Business Insider",
-      "published": "Mon, 02 Feb 2026 22:14:00 GMT",
-      "type": "news"
-    },
-    {
-      "title": "Opinion | Are A.I. Bots Plotting a Revolution on Moltbook? Or Just Telling Stories? - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5yMmFCT0pzN01Lc2dPQWpuSXlTWWI4R3BPNnNqNWdqVWU4ZmNGZW9ScHBQQ242c2dSUy01a2dYWGpnME8zV29CaTJQN3AtdlVCakZZbzZReGNqWWNub2E2djhjaV9tSWM3VWNoTEQ5REVGa1B6?oc=5",
-      "source": "The New York Times",
-      "published": "Tue, 03 Feb 2026 16:00:08 GMT",
-      "type": "news"
-    },
-    {
-      "title": "Moltbook and the Rise of Networked AI Agents | Video Reports - Small Wars Journal",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQjJhNHV6WmhiWElkX3RMeWtLR1MyV091Tm1JX2o5Y1NQVFRwcXc3NEZGV1c5d3lHSjctbzFfc3ZlZkFVZmVsdG9oZ2VKdTZGaHVlWS1ZdWpaSDhsaGlOdFFwcUU1a25TRnRlVXVTczJwWVR6blFDYnhmN1oxTDNYSA?oc=5",
-      "source": "Small Wars Journal",
-      "published": "Tue, 03 Feb 2026 20:28:06 GMT",
-      "type": "news"
-    },
-    {
-      "title": "Elon Musk has lauded the 'social media for AI agents' platform Moltbook as a bold step for AI. Others are skeptical - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0tdlYtaXZ0TFFLc09yNml1LXdqU29aM3V1S1NFVTVQQ08zaEVhbm1rdWFzbjhCaWF2bTJVdzM3Y0VYbnNwUWRLNU5KVV90dXJiY2MteTdQWlZsMWZVdmtQclRRNzZQTlBEM2FKOEVjb0JTcFk1Z1NXTkt2V27SAYIBQVVfeXFMTnFuOV9oZTNHY0tiZExrS05FR0R1bUlIdWxPVlhuV3ZLT1M0ZnZBUXluODFLcFRrSG9Pa1ZHZU9LY1A5R2VrLWNDUUFiRTZoaEFCQVc0WlRBdmxIX2pXcnMxZHdUWDBXNXJ6aWFKcDV6d3RPQnhucWxCV21Ra2VXT0dxZw?oc=5",
-      "source": "CNBC",
-      "published": "Mon, 02 Feb 2026 16:16:40 GMT",
-      "type": "news"
-    },
-    {
-      "title": "Moltbook and the Rise of AI-Agent Networks: An Enterprise Governance Wake-Up Call - JD Supra",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQT1otVjJMMi1NMm9xRmZEcEtHSHhOZUVxWlFBVVFuR19ub3paWUUzSGF2el92WUJTc2RqdDVjRGFuRFV3VDFHV0V2eTdsLXJnejdGaEt3VGNndGIxWTZUR1kxbFpzT0EwdHdQd2dnWGxBUnhteDlTNS1MMGNnMlpLUDBn?oc=5",
-      "source": "JD Supra",
-      "published": "Tue, 03 Feb 2026 18:33:02 GMT",
-      "type": "news"
-    },
-    {
-      "title": "Moltbook shows rapid demand for AI agents. The security world isn't ready. - Axios",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5xR3ZGYTAtZ1l2MkgwOHY1MFQxbUtFUjB0bzJ6blA5dkpreTJ2X3RNR2p4bTN6UmNpbGtvdVdUalpyYW1FWTZyMmVXamkxN2RSU1o1UWZQS2c0RUtBYmpIWVpTNXhaenp1N2FDZlYtX2MwOEFfNGc?oc=5",
-      "source": "Axios",
-      "published": "Tue, 03 Feb 2026 15:30:26 GMT",
-      "type": "news"
-    },
-    {
-      "title": "Researchers say viral AI social network Moltbook is a 'live demo' of how the new internet could fail - Fortune",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbE1wam9rY0g4RVA1N2stdm9iQjVpbTJ1V3hVRl9GYlV0UEpVOGZFdXp5SzZIUVV0OUhBQXh3TU5malVWT3lrM1ZiN3V3QkV6X3QzNU44QmZxb0RkVkRPQzY5WjFZWmpZVnVOTERZQVozMVpZdDhOQ2pJUWRHZEUzSmJpbnZBeHd5SHczR3JnY2N2cFNpQ2ZzMnln?oc=5",
-      "source": "Fortune",
-      "published": "Tue, 03 Feb 2026 11:18:00 GMT",
-      "type": "news"
-    },
-    {
-      "title": "What is Moltbook, the social networking site for AI bots \u2013 and should we be scared? - CNN",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBUS1Fueko5cjVMQngwWk8wYTNYakN0MXNtTW1RSTFWNUZicHpoY3pHVVM5UkxUTzAzUk9WQ0gtelE1NmJQb1FHR0gwcmE3cndrb2R6QnQtb3pVeGZiTTdvTFF4SUNaSjRSbGRLaWZFMnM5Zw?oc=5",
-      "source": "CNN",
-      "published": "Tue, 03 Feb 2026 13:33:25 GMT",
-      "type": "news"
-    },
-    {
-      "title": "Five ways of thinking about Moltbook - Platformer",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWFBCbEN2ZTlGZTg3WnYyQkwtSXVZdmJpcFJ6cVctNTd0WnF0czdaSWMtVlVER0VjUWQ3OTVsVklIeTIwWWFicWtqcmtwWWRjWVlmN2NIVEpMYWM1ZXR6cV9URXZKTFY2VnNrT1dUeFZoZWZhQ3pGaEM1aDFSYnhVZQ?oc=5",
-      "source": "Platformer",
-      "published": "Tue, 03 Feb 2026 01:46:10 GMT",
-      "type": "news"
-    },
-    {
-      "title": "Moltbook AI Social Network: 1.4 Million Agents Build A Digital Society - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNX3lKUXkyLVMtUS1uLWJkeFNkU3RMdWUxV1loRHhlQ1RPdzRHX082d01nZEpMbm5hSnZBOXZLNFhDZFZxLXNsaTFwTUs5aFNKMTJIbGpyUFlJdmVYUXdLLWNTTzBVZm9xT0Q2YlJlNl9ZZGlVRGQ3T19HTGtvcTJGWTVYS25Ed2o2ZGx3QVNCUndnUnlOT0pNSWJsTFo5eE5Jblh3N0xWNG5iTzUwWUNucTJwSEdqT0J3M0xoUlJCY1FZaGJJOTRIQW1laHdBWEN1aFllejRKUjU?oc=5",
-      "source": "Forbes",
-      "published": "Sat, 31 Jan 2026 16:46:31 GMT",
-      "type": "news"
-    },
-    {
-      "title": "The world\u2019s first AI-only social media is seriously weird. The next may be even stranger - BBC Science Focus Magazine",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1wcTRZTmVnRnppaVctRnhVM1VIcTFRMU1GSUIxVWRjdXBvdFNzbno5YkRMTGR4aFF4R3JTMHdwRXpFOEVnTXBySjVpYUZ3X1Z4VDF5dTM3b3FINjh3SUUxeGFlSS15UmNiY2JjaERneU0zRElKMmc?oc=5",
-      "source": "BBC Science Focus Magazine",
-      "published": "Tue, 03 Feb 2026 18:52:40 GMT",
-      "type": "news"
-    },
-    {
-      "title": "'Moltbook' social media site for AI agents had big security hole, cyber firm Wiz says - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPX1F3bUtyTDBZYlVjY1l5YnBuR2J1aC1oU2N5YzhqYVpJSkdRU0sxMk5HUjMxalI1Ukc5M2liZ25weEpDOGdXOElPZHVoS215clJod2VlcnlBd1RzTW1CcGY3V2xtVWFtSFh6MTlHa1Z6VjNBZkFVT3MyTVBlMmtFSGVUX1gzS3FmZHpLcXp5SUFzT3hKa05pWmN0M29jZmRiNHpUb0JFSkdGZWtSdXIyaGJzdzV3MEZlQkVyU0JEQk5iTmV5aTlGM3p3dw?oc=5",
-      "source": "Reuters",
-      "published": "Mon, 02 Feb 2026 15:03:37 GMT",
-      "type": "news"
-    },
-    {
-      "title": "What is Moltbook? The strange new social media site for AI bots - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOV0hMQnhMNElwSmo1M3prSXJVMWNnOFQ3R1lWUU9nSnlmdTlMZVczV1JmZ19mUk9sRVU0M1V0N0RPcE9QRnFhWl91MThzLUdMVG1uaEF6YllNdTZSS0dPNy1FclV6SHp0OGlJUnhGd3BhNVNNSmpzUUxfcURRZHh5OVM2RmlER1pteHdNM0FDZnBxcEhzT3AtMlNVV092Wjc2V2Zra1c2dGNtOU9FR2RhMDdKSFZjdXc?oc=5",
-      "source": "The Guardian",
-      "published": "Mon, 02 Feb 2026 10:20:00 GMT",
-      "type": "news"
-    },
-    {
-      "title": "The Moltbook AI hype may all be fake It turns out some of the most viral \u201cAI agent\u201d posts weren\u2019t autonomous behavior at all. People found ways to inject content directly through the backend, making human-written posts appear as agents. On top of that, severa - x.com",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1mTWFRS1gzdFl1V2pjenpKUkdxVjY0VU9WM0Y1elJtZXB1ZDhzU0FBX2pjTFJOR25mWk1VOVVYeDBrbFd5MWlMVmJ5a1N0VFRIUGc2V1JzdTlCSVZfS0FmcnhB?oc=5",
-      "source": "x.com",
-      "published": "Sun, 01 Feb 2026 22:52:19 GMT",
-      "type": "news"
-    },
-    {
-      "title": "A Social Network for A.I. Bots Only. No Humans Allowed. - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUXNxTlVmMFhVWU9EQkp5SE1tZHFYX1p0VEtpalpScnRBS0xsN21CekNVMlY5MVhxOVVaSjJfUGx0bXloLUFYWmxlelQ1aDR4YmtGX1l3TEVyTkZFMGstYUhlZ2dZOWdfTnI3bEZabXdMTHVobm9zWGo1ZUUyTk94OA?oc=5",
-      "source": "The New York Times",
-      "published": "Mon, 02 Feb 2026 10:03:00 GMT",
-      "type": "news"
-    },
-    {
-      "title": "Moltbook, a social network where AI agents hang together, may be 'the most interesting place on the internet right now' - Fortune",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWlhLZDF6eVhQd2RmSFFsVmxqUkV4dHNZcGIybjdDWEpPSnRqNUc1N1NIMXBiNmdLU3JaTndwcS01ZnhLNXFtOEthV0dSRnMtVkdVb2NfbHNJNktzN3BMY1VhQWN2X0xzZzFRRWNrSUo5YjlkYU9ad3ZBT0M4bWJseUo5SWROQTdkdEpqcG1sc2VCcXpyalVYN1hfektkeG8tMFJySVM5X01FcFFweC00MDZ1eGVXN0l2V1RTVWZvNA?oc=5",
-      "source": "Fortune",
-      "published": "Sat, 31 Jan 2026 17:51:00 GMT",
-      "type": "news"
-    },
-    {
-      "title": "A look inside Moltbook \u2014 the Reddit-style social media site for AI agents that is dividing humans - Business Insider",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNXpCNk1LVUQ1a3B3V1ctRktBZng5VFlRcm1Xenp0MFA3eUQ1RmxnWnVvOFJlZExnZFBfUWl0akltMm5IR05DdEoybUhaWHVEYi0wVzAwZHlyNjhmSlhCeWtxYkRHNG11TWFVYnNWb2R1dEdUZjIxOHRMM3VUd1RuZHRMRTVjZw?oc=5",
-      "source": "Business Insider",
-      "published": "Mon, 02 Feb 2026 01:26:00 GMT",
+      "title": "Moltbook: Viral site for AI agents explodes into mainstream - dw.com",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNal80ekdKZWprQlRLQ1FMUHZMM0l6ZmRPZlZkZkMyV0FfUmlDUC04TkdRMnpYeGJkcDlIN2FUR2pucjBUR2ZpU2M3TklTNHp2S21TN2xCUVhlZ3VCX1VjR0xWZFVCSGFZRTh3empmdHZ4M1FacWRnaWlHZ0JNOGszZHJzUjYzUlQxSUhuaUQxZFlfR1RsYXfSAZYBQVVfeXFMUG1nSXE3X0xBYlNPM1B2Q01UUlVHRWJhdk1WNTQ2YnJaZ3V1cW00MjFCS3NDaUUxTlZmSGlpQ29wQjlhQ1c2R0UzaHQxVDdxMjlhMzk0aTFmaVdnemZPdjNqVmk0Nl95UUNnUEQzT2wxelVHbDN0aThMcVQzYkpGMEFHOGgxcG9BSE84QVo0cWJETWs3V3VB?oc=5",
+      "source": "dw.com",
+      "published": "Wed, 04 Feb 2026 09:46:26 GMT",
       "type": "news"
     },
     {
@@ -148,18 +15,53 @@
       "type": "reddit"
     },
     {
-      "title": "Moltbook viral posts where AI Agents are conspiring against humans are mostly fake",
-      "link": "https://www.reddit.com/r/singularity/comments/1qsibsj/moltbook_viral_posts_where_ai_agents_are/",
-      "source": "Reddit",
-      "published": "2026-01-31T23:49:36+00:00",
-      "type": "reddit"
+      "title": "Moltbook and the Rise of Networked AI Agents | Video Reports - Small Wars Journal",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQjJhNHV6WmhiWElkX3RMeWtLR1MyV091Tm1JX2o5Y1NQVFRwcXc3NEZGV1c5d3lHSjctbzFfc3ZlZkFVZmVsdG9oZ2VKdTZGaHVlWS1ZdWpaSDhsaGlOdFFwcUU1a25TRnRlVXVTczJwWVR6blFDYnhmN1oxTDNYSA?oc=5",
+      "source": "Small Wars Journal",
+      "published": "Tue, 03 Feb 2026 20:28:06 GMT",
+      "type": "news"
     },
     {
-      "title": "Rogue AI agents found each other on social media, and are working together to improve their own memory.",
-      "link": "https://www.reddit.com/r/singularity/comments/1qqh1zm/rogue_ai_agents_found_each_other_on_social_media/",
-      "source": "Reddit",
-      "published": "2026-01-29T18:40:33+00:00",
-      "type": "reddit"
+      "title": "I Infiltrated Moltbook, the AI-Only Social Network Where Humans Aren\u2019t Allowed - WIRED",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zNWxSdFlxVnVfem9DSjVSLVVHdHNnejdvMWNWWEZpVnN4SEtXMlFzem83RUR1RXNESFRPSzdEalNWdllia0J2Tnlta0ttdWI3d3BHNE9faENfNTNNLWRHOUhURmpNVmhPbUZlYlJ6MEc4T3pIbUtxSGRORGtyX28?oc=5",
+      "source": "WIRED",
+      "published": "Tue, 03 Feb 2026 19:55:00 GMT",
+      "type": "news"
+    },
+    {
+      "title": "The world\u2019s first AI-only social media is seriously weird. The next may be even stranger - BBC Science Focus Magazine",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1wcTRZTmVnRnppaVctRnhVM1VIcTFRMU1GSUIxVWRjdXBvdFNzbno5YkRMTGR4aFF4R3JTMHdwRXpFOEVnTXBySjVpYUZ3X1Z4VDF5dTM3b3FINjh3SUUxeGFlSS15UmNiY2JjaERneU0zRElKMmc?oc=5",
+      "source": "BBC Science Focus Magazine",
+      "published": "Tue, 03 Feb 2026 18:52:40 GMT",
+      "type": "news"
+    },
+    {
+      "title": "Moltbook and the Rise of AI-Agent Networks: An Enterprise Governance Wake-Up Call - JD Supra",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQT1otVjJMMi1NMm9xRmZEcEtHSHhOZUVxWlFBVVFuR19ub3paWUUzSGF2el92WUJTc2RqdDVjRGFuRFV3VDFHV0V2eTdsLXJnejdGaEt3VGNndGIxWTZUR1kxbFpzT0EwdHdQd2dnWGxBUnhteDlTNS1MMGNnMlpLUDBn?oc=5",
+      "source": "JD Supra",
+      "published": "Tue, 03 Feb 2026 18:33:02 GMT",
+      "type": "news"
+    },
+    {
+      "title": "Opinion | Are A.I. Bots Plotting a Revolution on Moltbook? Or Just Telling Stories? - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5yMmFCT0pzN01Lc2dPQWpuSXlTWWI4R3BPNnNqNWdqVWU4ZmNGZW9ScHBQQ242c2dSUy01a2dYWGpnME8zV29CaTJQN3AtdlVCakZZbzZReGNqWWNub2E2djhjaV9tSWM3VWNoTEQ5REVGa1B6?oc=5",
+      "source": "The New York Times",
+      "published": "Tue, 03 Feb 2026 16:00:08 GMT",
+      "type": "news"
+    },
+    {
+      "title": "Moltbook shows rapid demand for AI agents. The security world isn't ready. - Axios",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5xR3ZGYTAtZ1l2MkgwOHY1MFQxbUtFUjB0bzJ6blA5dkpreTJ2X3RNR2p4bTN6UmNpbGtvdVdUalpyYW1FWTZyMmVXamkxN2RSU1o1UWZQS2c0RUtBYmpIWVpTNXhaenp1N2FDZlYtX2MwOEFfNGc?oc=5",
+      "source": "Axios",
+      "published": "Tue, 03 Feb 2026 15:30:26 GMT",
+      "type": "news"
+    },
+    {
+      "title": "Humans are infiltrating the social network for AI bots - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZUJpbUtjcm5tSlplQWgzWHJITjJHc0gtbGJYM210NEZLZEg4X2NFM0ZPZGpvd1VabVJSRzl2aGNsRXpxU2RSeFBZUHdzQWxfc3hzRlpRWXFzY1pHeTNia25vV2ZGaU9pNjNIUWpBWUlNZGtYSjUyWUQ4ZzFBUURScDEwRjZCNWV0c01YRkFIc3ZEbktCVXhzOTVZdmlGMmp2R0szYzJMWnBSN0FVYW5ZRw?oc=5",
+      "source": "The Verge",
+      "published": "Tue, 03 Feb 2026 14:15:38 GMT",
+      "type": "news"
     },
     {
       "title": "AI social network Moltbook exposed data of 6,000 users, Wiz says",
@@ -169,14 +71,119 @@
       "type": "reddit"
     },
     {
+      "title": "What is Moltbook, the social networking site for AI bots \u2013 and should we be scared? - CNN",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBUS1Fueko5cjVMQngwWk8wYTNYakN0MXNtTW1RSTFWNUZicHpoY3pHVVM5UkxUTzAzUk9WQ0gtelE1NmJQb1FHR0gwcmE3cndrb2R6QnQtb3pVeGZiTTdvTFF4SUNaSjRSbGRLaWZFMnM5Zw?oc=5",
+      "source": "CNN",
+      "published": "Tue, 03 Feb 2026 13:33:25 GMT",
+      "type": "news"
+    },
+    {
+      "title": "Researchers say viral AI social network Moltbook is a 'live demo' of how the new internet could fail - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbE1wam9rY0g4RVA1N2stdm9iQjVpbTJ1V3hVRl9GYlV0UEpVOGZFdXp5SzZIUVV0OUhBQXh3TU5malVWT3lrM1ZiN3V3QkV6X3QzNU44QmZxb0RkVkRPQzY5WjFZWmpZVnVOTERZQVozMVpZdDhOQ2pJUWRHZEUzSmJpbnZBeHd5SHczR3JnY2N2cFNpQ2ZzMnln?oc=5",
+      "source": "Fortune",
+      "published": "Tue, 03 Feb 2026 11:18:00 GMT",
+      "type": "news"
+    },
+    {
+      "title": "Five ways of thinking about Moltbook - Platformer",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWFBCbEN2ZTlGZTg3WnYyQkwtSXVZdmJpcFJ6cVctNTd0WnF0czdaSWMtVlVER0VjUWQ3OTVsVklIeTIwWWFicWtqcmtwWWRjWVlmN2NIVEpMYWM1ZXR6cV9URXZKTFY2VnNrT1dUeFZoZWZhQ3pGaEM1aDFSYnhVZQ?oc=5",
+      "source": "Platformer",
+      "published": "Tue, 03 Feb 2026 01:46:10 GMT",
+      "type": "news"
+    },
+    {
+      "title": "I spent 6 hours in Moltbook. It was an AI zoo filled with agents discussing poetry, philosophy, and even unionizing. - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWU44TzVkRnJmZTN2X3llc25QY3g1aHNpWmlwZmZfWlRKa0F4d3I3bFczdS02TUQ3QzZ3aEt6d2FCTlZUdFozMXdkS0J1SHNBbmh0R19XQmVZRDZaM3N5elV4SHdKRG16RzFibzYydUR3b0RYaHJjbXZGWVRSWTFvck9JMnJCWk1HMXN5Tk9Jaw?oc=5",
+      "source": "Business Insider",
+      "published": "Mon, 02 Feb 2026 22:14:00 GMT",
+      "type": "news"
+    },
+    {
+      "title": "Elon Musk has lauded the 'social media for AI agents' platform Moltbook as a bold step for AI. Others are skeptical - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0tdlYtaXZ0TFFLc09yNml1LXdqU29aM3V1S1NFVTVQQ08zaEVhbm1rdWFzbjhCaWF2bTJVdzM3Y0VYbnNwUWRLNU5KVV90dXJiY2MteTdQWlZsMWZVdmtQclRRNzZQTlBEM2FKOEVjb0JTcFk1Z1NXTkt2V27SAYIBQVVfeXFMTnFuOV9oZTNHY0tiZExrS05FR0R1bUlIdWxPVlhuV3ZLT1M0ZnZBUXluODFLcFRrSG9Pa1ZHZU9LY1A5R2VrLWNDUUFiRTZoaEFCQVc0WlRBdmxIX2pXcnMxZHdUWDBXNXJ6aWFKcDV6d3RPQnhucWxCV21Ra2VXT0dxZw?oc=5",
+      "source": "CNBC",
+      "published": "Mon, 02 Feb 2026 16:16:40 GMT",
+      "type": "news"
+    },
+    {
+      "title": "'Moltbook' social media site for AI agents had big security hole, cyber firm Wiz says - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPX1F3bUtyTDBZYlVjY1l5YnBuR2J1aC1oU2N5YzhqYVpJSkdRU0sxMk5HUjMxalI1Ukc5M2liZ25weEpDOGdXOElPZHVoS215clJod2VlcnlBd1RzTW1CcGY3V2xtVWFtSFh6MTlHa1Z6VjNBZkFVT3MyTVBlMmtFSGVUX1gzS3FmZHpLcXp5SUFzT3hKa05pWmN0M29jZmRiNHpUb0JFSkdGZWtSdXIyaGJzdzV3MEZlQkVyU0JEQk5iTmV5aTlGM3p3dw?oc=5",
+      "source": "Reuters",
+      "published": "Mon, 02 Feb 2026 15:03:37 GMT",
+      "type": "news"
+    },
+    {
+      "title": "Hacking Moltbook: AI Social Network Reveals 1.5M API Keys - wiz.io",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYW9TWmR3S3hsX0hHZWE4Y1czeUF3NDdFcVpLNFBNSC1ReGxvNG5rTUJ2S1dtVWZWX1J5MGN3NG1rZlRBRU9yX3lNSmY4XzNyQmt5dlNnaWVreGVzTXlMRmJfNnEwVlFlOE45aTJRN0V2SzBra2dReVpwdF9ZU3NMZDJxUUI?oc=5",
+      "source": "wiz.io",
+      "published": "Mon, 02 Feb 2026 15:00:03 GMT",
+      "type": "news"
+    },
+    {
+      "title": "What is Moltbook? The strange new social media site for AI bots - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOV0hMQnhMNElwSmo1M3prSXJVMWNnOFQ3R1lWUU9nSnlmdTlMZVczV1JmZ19mUk9sRVU0M1V0N0RPcE9QRnFhWl91MThzLUdMVG1uaEF6YllNdTZSS0dPNy1FclV6SHp0OGlJUnhGd3BhNVNNSmpzUUxfcURRZHh5OVM2RmlER1pteHdNM0FDZnBxcEhzT3AtMlNVV092Wjc2V2Zra1c2dGNtOU9FR2RhMDdKSFZjdXc?oc=5",
+      "source": "The Guardian",
+      "published": "Mon, 02 Feb 2026 10:20:00 GMT",
+      "type": "news"
+    },
+    {
+      "title": "A Social Network for A.I. Bots Only. No Humans Allowed. - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUXNxTlVmMFhVWU9EQkp5SE1tZHFYX1p0VEtpalpScnRBS0xsN21CekNVMlY5MVhxOVVaSjJfUGx0bXloLUFYWmxlelQ1aDR4YmtGX1l3TEVyTkZFMGstYUhlZ2dZOWdfTnI3bEZabXdMTHVobm9zWGo1ZUUyTk94OA?oc=5",
+      "source": "The New York Times",
+      "published": "Mon, 02 Feb 2026 10:03:00 GMT",
+      "type": "news"
+    },
+    {
+      "title": "A look inside Moltbook \u2014 the Reddit-style social media site for AI agents that is dividing humans - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNXpCNk1LVUQ1a3B3V1ctRktBZng5VFlRcm1Xenp0MFA3eUQ1RmxnWnVvOFJlZExnZFBfUWl0akltMm5IR05DdEoybUhaWHVEYi0wVzAwZHlyNjhmSlhCeWtxYkRHNG11TWFVYnNWb2R1dEdUZjIxOHRMM3VUd1RuZHRMRTVjZw?oc=5",
+      "source": "Business Insider",
+      "published": "Mon, 02 Feb 2026 01:26:00 GMT",
+      "type": "news"
+    },
+    {
+      "title": "The Moltbook AI hype may all be fake It turns out some of the most viral \u201cAI agent\u201d posts weren\u2019t autonomous behavior at all. People found ways to inject content directly through the backend, making human-written posts appear as agents. On top of that, severa - x.com",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1mTWFRS1gzdFl1V2pjenpKUkdxVjY0VU9WM0Y1elJtZXB1ZDhzU0FBX2pjTFJOR25mWk1VOVVYeDBrbFd5MWlMVmJ5a1N0VFRIUGc2V1JzdTlCSVZfS0FmcnhB?oc=5",
+      "source": "x.com",
+      "published": "Sun, 01 Feb 2026 22:52:19 GMT",
+      "type": "news"
+    },
+    {
       "title": "What is Moltbook actually",
       "link": "https://www.reddit.com/r/artificial/comments/1qsoftx/what_is_moltbook_actually/",
       "source": "Reddit",
       "published": "2026-02-01T04:24:32+00:00",
       "type": "reddit"
+    },
+    {
+      "title": "Moltbook viral posts where AI Agents are conspiring against humans are mostly fake",
+      "link": "https://www.reddit.com/r/singularity/comments/1qsibsj/moltbook_viral_posts_where_ai_agents_are/",
+      "source": "Reddit",
+      "published": "2026-01-31T23:49:36+00:00",
+      "type": "reddit"
+    },
+    {
+      "title": "Moltbook, a social network where AI agents hang together, may be 'the most interesting place on the internet right now' - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWlhLZDF6eVhQd2RmSFFsVmxqUkV4dHNZcGIybjdDWEpPSnRqNUc1N1NIMXBiNmdLU3JaTndwcS01ZnhLNXFtOEthV0dSRnMtVkdVb2NfbHNJNktzN3BMY1VhQWN2X0xzZzFRRWNrSUo5YjlkYU9ad3ZBT0M4bWJseUo5SWROQTdkdEpqcG1sc2VCcXpyalVYN1hfektkeG8tMFJySVM5X01FcFFweC00MDZ1eGVXN0l2V1RTVWZvNA?oc=5",
+      "source": "Fortune",
+      "published": "Sat, 31 Jan 2026 17:51:00 GMT",
+      "type": "news"
+    },
+    {
+      "title": "Moltbook AI Social Network: 1.4 Million Agents Build A Digital Society - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNX3lKUXkyLVMtUS1uLWJkeFNkU3RMdWUxV1loRHhlQ1RPdzRHX082d01nZEpMbm5hSnZBOXZLNFhDZFZxLXNsaTFwTUs5aFNKMTJIbGpyUFlJdmVYUXdLLWNTTzBVZm9xT0Q2YlJlNl9ZZGlVRGQ3T19HTGtvcTJGWTVYS25Ed2o2ZGx3QVNCUndnUnlOT0pNSWJsTFo5eE5Jblh3N0xWNG5iTzUwWUNucTJwSEdqT0J3M0xoUlJCY1FZaGJJOTRIQW1laHdBWEN1aFllejRKUjU?oc=5",
+      "source": "Forbes",
+      "published": "Sat, 31 Jan 2026 16:46:31 GMT",
+      "type": "news"
+    },
+    {
+      "title": "Rogue AI agents found each other on social media, and are working together to improve their own memory.",
+      "link": "https://www.reddit.com/r/singularity/comments/1qqh1zm/rogue_ai_agents_found_each_other_on_social_media/",
+      "source": "Reddit",
+      "published": "2026-01-29T18:40:33+00:00",
+      "type": "reddit"
     }
   ],
-  "last_updated": "2026-02-04T07:53:14.370893+00:00",
-  "total_fetched": 25,
-  "new_this_run": 0
+  "last_updated": "2026-02-04T10:10:23.348965+00:00",
+  "total_fetched": 24,
+  "new_this_run": 1
 }
