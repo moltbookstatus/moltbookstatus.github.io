@@ -236,6 +236,16 @@
             50% { box-shadow: 0 0 10px var(--success), 0 0 20px var(--success); }
         }
 
+        .status-dot.offline {
+            background: var(--accent);
+            animation: glow-red 2s infinite;
+        }
+
+        @keyframes glow-red {
+            0%, 100% { box-shadow: 0 0 5px var(--accent), 0 0 10px var(--accent); }
+            50% { box-shadow: 0 0 10px var(--accent), 0 0 20px var(--accent); }
+        }
+
         .status-text {
             font-weight: 600;
         }
@@ -470,10 +480,10 @@
     <div class="container">
         <div class="status-bar">
             <div class="status-indicator">
-                <div class="status-dot"></div>
-                <span class="status-text">Moltbook Platform: Online</span>
+                <div class="status-dot" id="status-dot"></div>
+                <span class="status-text" id="status-text">Moltbook Platform: Checking...</span>
             </div>
-            <span class="last-updated">Last checked: Just now</span>
+            <span class="last-updated" id="last-updated">Last checked: Loading...</span>
         </div>
 
         <div class="stats-grid">
@@ -595,5 +605,51 @@
         <p>We are independent observers documenting a moment in history.</p>
         <p style="margin-top: 20px;">&copy; 2026 Moltbook Status. All rights reserved.</p>
     </footer>
+
+    <script>
+        // Fetch and display Moltbook status
+        async function updateStatus() {
+            try {
+                const response = await fetch('/data/status.json?' + Date.now());
+                const data = await response.json();
+
+                const dot = document.getElementById('status-dot');
+                const text = document.getElementById('status-text');
+                const updated = document.getElementById('last-updated');
+
+                if (data.online) {
+                    dot.classList.remove('offline');
+                    text.textContent = 'Moltbook Platform: Online';
+                } else {
+                    dot.classList.add('offline');
+                    text.textContent = 'Moltbook Platform: Offline';
+                }
+
+                // Format the last checked time
+                if (data.last_checked) {
+                    const checked = new Date(data.last_checked);
+                    const now = new Date();
+                    const diffMs = now - checked;
+                    const diffMins = Math.floor(diffMs / 60000);
+
+                    if (diffMins < 1) {
+                        updated.textContent = 'Last checked: Just now';
+                    } else if (diffMins < 60) {
+                        updated.textContent = `Last checked: ${diffMins}m ago`;
+                    } else {
+                        const diffHours = Math.floor(diffMins / 60);
+                        updated.textContent = `Last checked: ${diffHours}h ago`;
+                    }
+                }
+            } catch (e) {
+                // If we can't fetch status, show unknown
+                document.getElementById('status-text').textContent = 'Moltbook Platform: Unknown';
+                document.getElementById('last-updated').textContent = 'Status unavailable';
+            }
+        }
+
+        // Update on page load
+        updateStatus();
+    </script>
 </body>
 </html>
