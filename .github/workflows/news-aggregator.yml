@@ -34,7 +34,7 @@ jobs:
           git config --local user.email "moltbookstatus@gmail.com"
           git config --local user.name "Moltbook Status Bot"
           git add -A
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update news feed $(date -u +%Y-%m-%dT%H:%M:%SZ)" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update news feed $(date -u +%Y-%m-%dT%H:%M:%SZ)" && git pull --rebase && git push)
 
       - name: Send ntfy notification
         if: always()
