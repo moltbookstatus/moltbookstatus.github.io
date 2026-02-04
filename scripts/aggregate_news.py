@@ -8,11 +8,27 @@ import json
 import os
 import re
 from datetime import datetime, timezone
+from email.utils import parsedate_to_datetime
 from pathlib import Path
 
 import feedparser
 import requests
 from bs4 import BeautifulSoup
+
+
+def parse_date(date_str):
+    """Parse RSS date string to datetime for sorting."""
+    if not date_str:
+        return datetime.min.replace(tzinfo=timezone.utc)
+    try:
+        # RFC 2822 format (common in RSS)
+        return parsedate_to_datetime(date_str)
+    except Exception:
+        try:
+            # Try ISO format
+            return datetime.fromisoformat(date_str.replace('Z', '+00:00'))
+        except Exception:
+            return datetime.min.replace(tzinfo=timezone.utc)
 
 # News sources to check
 GOOGLE_NEWS_RSS = "https://news.google.com/rss/search?q=Moltbook+AI+agents&hl=en-US&gl=US&ceid=US:en"
@@ -230,7 +246,7 @@ def generate_news_page(articles):
 
     <div class="container">
         <h1>News Feed</h1>
-        <p class="subtitle">Auto-aggregated every 4 hours. Last updated: ''' + datetime.now(timezone.utc).strftime("%B %d, %Y at %H:%M UTC") + '''</p>
+        <p class="subtitle">Auto-aggregated every 2 hours. Last updated: ''' + datetime.now(timezone.utc).strftime("%B %d, %Y at %H:%M UTC") + '''</p>
 
 '''
 
@@ -280,8 +296,9 @@ def main():
     new_articles = [a for a in all_articles if a["link"] not in existing_links]
     print(f"Found {len(new_articles)} new articles")
 
-    # Merge: new first, then existing
+    # Merge and sort by date (newest first)
     merged = new_articles + existing.get("articles", [])
+    merged.sort(key=lambda a: parse_date(a.get("published", "")), reverse=True)
     merged = merged[:100]  # Keep last 100
 
     # Save
