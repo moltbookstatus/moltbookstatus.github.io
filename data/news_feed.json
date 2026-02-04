@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title": "Moltbook and the Humanless Future of Artificial Intelligence - observer.com",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBaR2p4cWFUb3VvWWEyS3JhSkZMRU9nQTdqRTFrYThhMVFBMGtCQkFXcWp2NkgxRFI2UE9GeVQtem9qc0Myc2hMNkc1eDdsY3Ztdy16cWNmdmpSVXhFQXRFV09iaF80WUI4U1E?oc=5",
+      "source": "observer.com",
+      "published": "Wed, 04 Feb 2026 14:01:10 GMT",
+      "type": "news"
+    },
+    {
+      "title": "Moltbook: Viral site for AI agents explodes into mainstream - DW.com",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbWdJcTdfTEFiU08zUHZDTVRSVUdFYmF2TVY1NDZiclpndXVxbTQyMUJLc0NpRTFOVmZIaWlDb3BCOWFDVzZHRTNodDFUN3EyOWEzOTRpMWZpV2d6Zk92M2pWaTQ2X3lRQ2dQRDNPbDF6VUdsM3RpOExxVDNiSkYwQUc4aDFwb0FITzhBWjRxYkRNazdXdUHSAZYBQVVfeXFMUG1nSXE3X0xBYlNPM1B2Q01UUlVHRWJhdk1WNTQ2YnJaZ3V1cW00MjFCS3NDaUUxTlZmSGlpQ29wQjlhQ1c2R0UzaHQxVDdxMjlhMzk0aTFmaVdnemZPdjNqVmk0Nl95UUNnUEQzT2wxelVHbDN0aThMcVQzYkpGMEFHOGgxcG9BSE84QVo0cWJETWs3V3VB?oc=5",
+      "source": "DW.com",
+      "published": "Wed, 04 Feb 2026 09:46:54 GMT",
+      "type": "news"
+    },
+    {
       "title": "Moltbook: Viral site for AI agents explodes into mainstream - dw.com",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNal80ekdKZWprQlRLQ1FMUHZMM0l6ZmRPZlZkZkMyV0FfUmlDUC04TkdRMnpYeGJkcDlIN2FUR2pucjBUR2ZpU2M3TklTNHp2S21TN2xCUVhlZ3VCX1VjR0xWZFVCSGFZRTh3empmdHZ4M1FacWRnaWlHZ0JNOGszZHJzUjYzUlQxSUhuaUQxZFlfR1RsYXfSAZYBQVVfeXFMUG1nSXE3X0xBYlNPM1B2Q01UUlVHRWJhdk1WNTQ2YnJaZ3V1cW00MjFCS3NDaUUxTlZmSGlpQ29wQjlhQ1c2R0UzaHQxVDdxMjlhMzk0aTFmaVdnemZPdjNqVmk0Nl95UUNnUEQzT2wxelVHbDN0aThMcVQzYkpGMEFHOGgxcG9BSE84QVo0cWJETWs3V3VB?oc=5",
       "source": "dw.com",
@@ -82,6 +96,13 @@
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbE1wam9rY0g4RVA1N2stdm9iQjVpbTJ1V3hVRl9GYlV0UEpVOGZFdXp5SzZIUVV0OUhBQXh3TU5malVWT3lrM1ZiN3V3QkV6X3QzNU44QmZxb0RkVkRPQzY5WjFZWmpZVnVOTERZQVozMVpZdDhOQ2pJUWRHZEUzSmJpbnZBeHd5SHczR3JnY2N2cFNpQ2ZzMnln?oc=5",
       "source": "Fortune",
       "published": "Tue, 03 Feb 2026 11:18:00 GMT",
+      "type": "news"
+    },
+    {
+      "title": "Moltbook Is a Social Network for AI Bots. Here\u2019s How It Works - Time Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE51UTJ2SWFKM2l2UXZ6TmNJdWdrQkJJSW05SWttMUo4OE90MFYzUGk2WW1DQnpJTDR6dE01NlJ2Umc4NVY3YS1USC1nRmZ1cEotQ2dEbWozb3BiRlRCWmgxVw?oc=5",
+      "source": "Time Magazine",
+      "published": "Tue, 03 Feb 2026 11:03:45 GMT",
       "type": "news"
     },
     {
@@ -183,7 +204,7 @@
       "type": "reddit"
     }
   ],
-  "last_updated": "2026-02-04T10:10:23.348965+00:00",
+  "last_updated": "2026-02-04T14:31:29.481205+00:00",
   "total_fetched": 24,
-  "new_this_run": 1
+  "new_this_run": 3
 }
