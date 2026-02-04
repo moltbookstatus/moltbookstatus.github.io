@@ -578,6 +578,30 @@
             <p>We believe this is a story that needs to be told — clearly, honestly, and without sensationalism.</p>
         </article>
 
+        <section class="newsletter-section" style="background: var(--card-bg); border: 1px solid var(--border); border-radius: 12px; padding: 40px; text-align: center; margin: 40px 0;">
+            <h2 style="font-family: 'Playfair Display', Georgia, serif; margin-bottom: 15px;">Stay Informed</h2>
+            <p style="color: var(--text-muted); margin-bottom: 25px;">Get alerts when major developments happen. No spam, just signal.</p>
+            <form
+                action="https://buttondown.email/api/emails/embed-subscribe/moltbookstatus"
+                method="post"
+                target="popupwindow"
+                onsubmit="window.open('https://buttondown.email/moltbookstatus', 'popupwindow')"
+                style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap; max-width: 500px; margin: 0 auto;"
+            >
+                <input
+                    type="email"
+                    name="email"
+                    placeholder="your@email.com"
+                    required
+                    style="flex: 1; min-width: 200px; padding: 15px 20px; border: 1px solid var(--border); border-radius: 8px; background: var(--secondary); color: var(--text); font-size: 16px;"
+                />
+                <button type="submit" style="padding: 15px 30px; background: var(--accent); color: white; border: none; border-radius: 8px; font-weight: 700; cursor: pointer; transition: transform 0.2s, box-shadow 0.2s;">
+                    Subscribe
+                </button>
+            </form>
+            <p style="margin-top: 15px; color: var(--text-muted); font-size: 0.85rem;">Join the watchers. Unsubscribe anytime.</p>
+        </section>
+
         <section class="support-section">
             <h2>Support Independent Reporting</h2>
             <p>Moltbook Status is an independent project documenting unprecedented times. Your support helps keep this resource running and ad-light.</p>
