@@ -1,6 +1,13 @@
 {
   "articles": [
     {
+      "title": "Moltbook explained: Where AI bots meet to 'discuss' humans - dw.com",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbWpFdkJyY3lPSkJ5VFU4RVpOM01DOUNXLXNXNzBiSk1kdEFUUHB3Ry1EYVBMSlNxQjFrd2ZkTkVHZk4xTUFwRHFVdGx6dXJyUkFoWS1XZ0ZsM0d1NjdqRnI4RGxQYzBsb1pMeHJRd21hZkdzSmdPcS1wRHVhbklOWnhVV25FY3d2M1N4SWhLWm1jUdIBkgFBVV95cUxNN2ZGT0tuZ1h0OGpwVWF3eVVVOF9SOFE4T1NjU3p0Y2xYeTB5Q3VPMUYzVFlIRHVDRWUyRVJiSnM1Yy10REw4cVFUVHVHZ2VXcEU2bkU3NWFoeUstRXRLdVlob09MczJlUWtvczhwak5oWU5jQklmcEZYRl9lYlgzZDVZWUdYQXl5ejZXVHNoSmFKUQ?oc=5",
+      "source": "dw.com",
+      "published": "Thu, 05 Feb 2026 19:32:39 GMT",
+      "type": "news"
+    },
+    {
       "title": "A bot-only social media platform: What the Moltbook experiment is teaching us about AI - Tech Xplore",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcENWZXlhX21KTnpsdHl1UTd2azF4YzI5c1RDUkxrS3RoMXFQeDhEUWdDTXlKUV9rcUEtUVpqU0lyQldPc2RhZGpoZDVJNUJnQTJGUFVRaFlrZURrSU50al9CcnRSMU1iU3pwbEh5RkRkeTFmUkxhTzcwTWJJYno1Sg?oc=5",
       "source": "Tech Xplore",
@@ -316,6 +323,20 @@
       "type": "news"
     },
     {
+      "title": "Meet Matt Schlicht, the man behind AI\u2019s latest Pandora\u2019s box\u2014a social network where AI agents talk to one another - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObjVZUVpnbXRKX3VHU1Z1eDVWREZ2SkFuZlNuRGY1V3p3T0h5YlNBMlM0TmZuUlNsSmo5TFlHMFVzU1dnNVhncTJKUXdCMTlrT1Q3MkpjU1dwdWd5QkR6dEZBRWg5eEF3dUVwcmw0VnMwY19MVzBGVHllclh1VTA2Y05MYlcyOXVkY1BFY1JrYm9mNGZGX1luMU1lTnd4SEQxdUViSml4Qkg4Y1dOSDNpZ0p2Q05TMk0?oc=5",
+      "source": "Fortune",
+      "published": "Mon, 02 Feb 2026 20:27:00 GMT",
+      "type": "news"
+    },
+    {
+      "title": "Top AI leaders are begging people not to use Moltbook: It\u2019s a \u2018disaster waiting to happen\u2019 - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOU2FxcVJpTGJwMUdkekE3SDQ3MU44U01kcS10Sk41a241bGZuUzhrNkFWRWllVkM1c25jVHI4NXFqVU9XUDM0NjcxS0tFRHI3cTg2ZkZPb2cteTdIaE8wN0Z0NzE1U0hPd3M3MkpCTnh1U09oQWpCNzctbjZqMTZpcnRITzRjN21nc09hSldCOENzRTl6OU5DQzVGMXIxUFRYNHN3ZEp4Rno?oc=5",
+      "source": "Fortune",
+      "published": "Mon, 02 Feb 2026 18:27:00 GMT",
+      "type": "news"
+    },
+    {
       "title": "Elon Musk has lauded the 'social media for AI agents' platform Moltbook as a bold step for AI. Others are skeptical - CNBC",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0tdlYtaXZ0TFFLc09yNml1LXdqU29aM3V1S1NFVTVQQ08zaEVhbm1rdWFzbjhCaWF2bTJVdzM3Y0VYbnNwUWRLNU5KVV90dXJiY2MteTdQWlZsMWZVdmtQclRRNzZQTlBEM2FKOEVjb0JTcFk1Z1NXTkt2V27SAYIBQVVfeXFMTnFuOV9oZTNHY0tiZExrS05FR0R1bUlIdWxPVlhuV3ZLT1M0ZnZBUXluODFLcFRrSG9Pa1ZHZU9LY1A5R2VrLWNDUUFiRTZoaEFCQVc0WlRBdmxIX2pXcnMxZHdUWDBXNXJ6aWFKcDV6d3RPQnhucWxCV21Ra2VXT0dxZw?oc=5",
       "source": "CNBC",
@@ -407,7 +428,7 @@
       "type": "reddit"
     }
   ],
-  "last_updated": "2026-02-05T18:32:18.238451+00:00",
+  "last_updated": "2026-02-05T21:04:47.475197+00:00",
   "total_fetched": 24,
   "new_this_run": 3
 }
