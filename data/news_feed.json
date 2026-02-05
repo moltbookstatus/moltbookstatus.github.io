@@ -1,6 +1,13 @@
 {
   "articles": [
     {
+      "title": "Ai Agents on Nostr can now setup and pay for their own hosting",
+      "link": "https://www.reddit.com/r/singularity/comments/1qwcr07/ai_agents_on_nostr_can_now_setup_and_pay_for/",
+      "source": "Reddit",
+      "published": "2026-02-05T05:30:08+00:00",
+      "type": "reddit"
+    },
+    {
       "title": "The Scariest Thing About Moltbook's Social Media Site for AI Agents - Video - CNET",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMXBNWEY5Z0FhdG5kZENQNHBsZXgtVkozSVVSZWdnQ1BmWTdBajR4dVZoWnl4ZWRPcGZSUU52c2VTbVJJTHU2aUR2Q1NSR0ZCbHUydzFKQmU3YW11LVlfaE84RmUxNm1pYV8xTUl4aFRMUHRrTng0SzBWb1Q5NVZjc0ZpZ1gyQWNxa0s2LUhQTVhGSU9PbjVUbzVRdw?oc=5",
       "source": "CNET",
@@ -54,6 +61,13 @@
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5JUW11YUNHcncwWXNiTmROUUhGcmg3aXFUN3VPbm9EU0M0S1piZ1N4eXktM0VCeGdYdm1sWUxLOGFvQVM5NnYyMnFfd2J2NThEOEtGdmlYbVdzRTI0cmxiUC1R?oc=5",
       "source": "Mashable",
       "published": "Wed, 04 Feb 2026 19:13:36 GMT",
+      "type": "news"
+    },
+    {
+      "title": "The World\u2019s First Viral AI Assistant Has Arrived, and Things Are Getting Weird - The Wall Street Journal",
+      "link": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxNNDNKenJkV1YwRl9uSnd1LXFWUldsYnp6cW1WVEdZTVVfTUhHWHVGSTdxYmljM3p6cUdoRk9uQVBhaUplVzhLXzVqX1hOT1Z3U2pkcHlpVlA4X3VVRmNUM2d4UTdQbV92blNIT3Y4R1dtZHdOTFdPYzY2YkhSWlpFc1IteHdNTUF2X04weGVWYzRYckZGYzhzZ0VxVGdKeHlMRVM5d0labURRenJzczRQSGUxQ3NKQm84SE9mVGNzbEhnY0FxS3hEc2JkY0lkN3RQQnd0WDdUWnFTYmdwTUt3ZXNjVmh1RVNUZV9VZUw5c1ByTk94a0M0Y1k2LUJRMEhuTDluakZ1VWFwMzRiSmZnRFZmbk5rLVU2d0gtUHJqcWxFVEo4TGw3MllwQWp4MWxLaDFSQlVkckFndk1SQ1F2TTNiTFFfa25mYWFDUDV1ejlCV2JUMFRBVlRSdDE1NHRDeHptS1A0VGMwc3AwQW92amp1Qk9FeXRtN3VscFMzSS1FbG1KdHJtczh4MA?oc=5",
+      "source": "The Wall Street Journal",
+      "published": "Wed, 04 Feb 2026 17:00:00 GMT",
       "type": "news"
     },
     {
@@ -239,6 +253,13 @@
       "type": "news"
     },
     {
+      "title": "Elon Musk warns a new social network where AI agents talk to one another is the beginning of \u2018the singularity\u2019 - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTDFDNmNGdGFmQkVTZUVBRGxMbVpVcFlYSERXNTBoVV8yYkI0T0hzekU4NWJlN0Z3dGpDQWJVTUdhSVZCS1lkQ3ZXbGdBTXEzNzdpcm41a09VVWY5N1R1TEcweHN4V0p6LVZDZDVLZjlBWjRyZ2tlaUdDZGpkZnV3T1NvYVpONmNNRDNDSU5KR2p3MGdRNFVVNGlCU3dvOEJiSlNUN1JYaGhFdlE?oc=5",
+      "source": "Fortune",
+      "published": "Mon, 02 Feb 2026 15:52:00 GMT",
+      "type": "news"
+    },
+    {
       "title": "'Moltbook' social media site for AI agents had big security hole, cyber firm Wiz says - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPX1F3bUtyTDBZYlVjY1l5YnBuR2J1aC1oU2N5YzhqYVpJSkdRU0sxMk5HUjMxalI1Ukc5M2liZ25weEpDOGdXOElPZHVoS215clJod2VlcnlBd1RzTW1CcGY3V2xtVWFtSFh6MTlHa1Z6VjNBZkFVT3MyTVBlMmtFSGVUX1gzS3FmZHpLcXp5SUFzT3hKa05pWmN0M29jZmRiNHpUb0JFSkdGZWtSdXIyaGJzdzV3MEZlQkVyU0JEQk5iTmV5aTlGM3p3dw?oc=5",
       "source": "Reuters",
@@ -316,7 +337,7 @@
       "type": "reddit"
     }
   ],
-  "last_updated": "2026-02-05T05:09:31.870452+00:00",
-  "total_fetched": 24,
+  "last_updated": "2026-02-05T08:01:48.501312+00:00",
+  "total_fetched": 25,
   "new_this_run": 3
 }
