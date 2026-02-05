@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title": "A bot-only social media platform: What the Moltbook experiment is teaching us about AI - Tech Xplore",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcENWZXlhX21KTnpsdHl1UTd2azF4YzI5c1RDUkxrS3RoMXFQeDhEUWdDTXlKUV9rcUEtUVpqU0lyQldPc2RhZGpoZDVJNUJnQTJGUFVRaFlrZURrSU50al9CcnRSMU1iU3pwbEh5RkRkeTFmUkxhTzcwTWJJYno1Sg?oc=5",
+      "source": "Tech Xplore",
+      "published": "Thu, 05 Feb 2026 18:10:01 GMT",
+      "type": "news"
+    },
+    {
+      "title": "Moltbook\u2019s new society - Engelsberg Ideas",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAtNEVsbHlncHhBYkdWZ196ODd0YjNoUnRnTUdNbEoySUtGRjBzMHNxN1hQSXZ4U01VaGNPeG5MRjlQbnF2MVhZMHFfUTRNdzlNOXZTTVJNbm9nMnJSZUE2cXE1MXluX3ZYX2c4?oc=5",
+      "source": "Engelsberg Ideas",
+      "published": "Thu, 05 Feb 2026 15:36:46 GMT",
+      "type": "news"
+    },
+    {
       "title": "What the hell is Moltbook, the social network for AI agents? - Engadget",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdVVQVzRYVFFmcC1ZYW1jRWJoWFFrNkhNSU9WSnhCc2ZzWWlhbjl4dWxVaXFHTU42VTJNMjNWMlc0Zy01NU9mTGFEQm9wZ0ppMnB3UzZoWTV3YUlnakVqRHl5Y0psS2Y5QUFVOVozVjAzVkxteEFyZU8xSjFmWmtKdHd4aDU1Z3hFeVJjRXpXMVh0RlFVamtnVHZfb1lMMzdpR2lr?oc=5",
       "source": "Engadget",
@@ -12,6 +26,13 @@
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9SOEhjM1lyRm1VcVBkVTRzdmJmU19PeUdkdDM4SDNLNEJldFc4UDRUeHZyeGlLT2xsOU1aZlRfSlJxTGRlQUtfUFpDaVprZVZ4clVlYW5JVnA1alVzcmd0SmFsaWZRZVl6S0x5Um5B?oc=5",
       "source": "Colombia One",
       "published": "Thu, 05 Feb 2026 13:42:00 GMT",
+      "type": "news"
+    },
+    {
+      "title": "Moltbook: AI bots use social network to create religions and deal digital drugs \u2013 but are some really humans in disguise? - The Conversation",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNYmFZWnU5VEI2TTZERDFlbDIydG1aMkcwR09HRFZEM2VhQkM3Z1FZNklPTXZidXFPMktFUUs0Yk51a0JDc3NCY1IwVC1OeFZiWUNmWTVmVDlKazExUnNNRm1NVlM5aE16a1NnZ2VHSWNWSWV1QmV2VU1CZ3FTd3pOdkVUMGl3SUVlSGRvUF9odDhyTzExanFzcjJ4Z3N3WnJ0N0lpY2xIS0JTTGcycHdreWRTUWlTeUJRRzl0WEVhalJJc0JZVzhmTXVyelBFUXo3ejRwUEhqN0RlWUd1cExQcGtvZmpoaUk?oc=5",
+      "source": "The Conversation",
+      "published": "Thu, 05 Feb 2026 13:05:24 GMT",
       "type": "news"
     },
     {
@@ -386,7 +407,7 @@
       "type": "reddit"
     }
   ],
-  "last_updated": "2026-02-05T14:34:36.996158+00:00",
+  "last_updated": "2026-02-05T18:32:18.238451+00:00",
   "total_fetched": 24,
-  "new_this_run": 5
+  "new_this_run": 3
 }
