@@ -109,7 +109,33 @@
             color: var(--text-muted);
             font-size: 0.9rem;
         }
+
+        /* Ethical Ads */
+        .ethical-ad-container {
+            max-width: 900px;
+            margin: 50px auto 30px;
+            padding: 30px 20px;
+            text-align: center;
+        }
+
+        .ethical-ad-note {
+            font-size: 0.85rem;
+            color: var(--text-muted);
+            margin-bottom: 20px;
+        }
+
+        .ethical-ad-note a {
+            color: var(--accent);
+            text-decoration: none;
+        }
+
+        .ethical-ad-note a:hover {
+            text-decoration: underline;
+        }
     </style>
+
+    <!-- Ethical Ads -->
+    <script async src="https://media.ethicalads.io/media/client/ethicalads.min.js"></script>
 </head>
 <body>
     <nav>
@@ -338,6 +364,14 @@
             </div>
         </div>
 
+    </div>
+
+    <!-- Ethical Ads Placement -->
+    <div class="ethical-ad-container">
+        <p class="ethical-ad-note">
+            Moltbook Status is primarily supporter-funded. <a href="/supporters.html">Join on Patreon</a> for an ad-free experience.
+        </p>
+        <div data-ea-publisher="YOUR-PUBLISHER-ID-HERE" data-ea-type="image" data-ea-style="stickybox"></div>
     </div>
 
     <footer>

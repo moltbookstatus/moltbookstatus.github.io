@@ -443,6 +443,29 @@
             margin-bottom: 10px;
         }
 
+        /* Ethical Ads */
+        .ethical-ad-container {
+            max-width: 900px;
+            margin: 50px auto 30px;
+            padding: 30px 20px;
+            text-align: center;
+        }
+
+        .ethical-ad-note {
+            font-size: 0.85rem;
+            color: var(--text-muted);
+            margin-bottom: 20px;
+        }
+
+        .ethical-ad-note a {
+            color: var(--accent);
+            text-decoration: none;
+        }
+
+        .ethical-ad-note a:hover {
+            text-decoration: underline;
+        }
+
         /* Responsive */
         @media (max-width: 768px) {
             .logo { font-size: 2.5rem; }
@@ -452,6 +475,9 @@
             .stat-number { font-size: 1.5rem; }
         }
     </style>
+
+    <!-- Ethical Ads -->
+    <script async src="https://media.ethicalads.io/media/client/ethicalads.min.js"></script>
 </head>
 <body>
     <nav>
@@ -622,6 +648,14 @@
                 <li><a href="https://www.euronews.com/next/2026/02/02/ai-bots-now-have-their-own-social-media-site-heres-what-to-know-about-moltbook" target="_blank" rel="noopener">Euronews: What to know about Moltbook</a></li>
             </ul>
         </div>
+    </div>
+
+    <!-- Ethical Ads Placement -->
+    <div class="ethical-ad-container">
+        <p class="ethical-ad-note">
+            Moltbook Status is primarily supporter-funded. <a href="/supporters.html">Join on Patreon</a> for an ad-free experience.
+        </p>
+        <div data-ea-publisher="YOUR-PUBLISHER-ID-HERE" data-ea-type="image" data-ea-style="stickybox"></div>
     </div>
 
     <footer>
