@@ -1,10 +1,24 @@
 {
   "articles": [
     {
+      "title": "The Scariest Thing About Moltbook's Social Media Site for AI Agents - Video - CNET",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMXBNWEY5Z0FhdG5kZENQNHBsZXgtVkozSVVSZWdnQ1BmWTdBajR4dVZoWnl4ZWRPcGZSUU52c2VTbVJJTHU2aUR2Q1NSR0ZCbHUydzFKQmU3YW11LVlfaE84RmUxNm1pYV8xTUl4aFRMUHRrTng0SzBWb1Q5NVZjc0ZpZ1gyQWNxa0s2LUhQTVhGSU9PbjVUbzVRdw?oc=5",
+      "source": "CNET",
+      "published": "Thu, 05 Feb 2026 01:00:45 GMT",
+      "type": "news"
+    },
+    {
       "title": "An AI-only social network now has more than 1.6M 'users.' Here\u2019s what you need to know - ABC News",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYUltSWwzVXh1eUcweXBORzZnRk5xLXMxRU5oUXBibTdlb1NFU0MxOE40NEs4UXdYZC1ZOFlwSlVlRDZDT1ExTm5ZT25tbWtSNUVRWjRNNHBwQmd0cEVrNHZOY0FyYjAwalIxdmtzMGRLaVpjaUM2aTVfM2M5dFZaWkwwUkE5ZnA3bDFvbDBHck8zTUFp0gGaAUFVX3lxTE9kYlVZa2pCZnVrcmV0NWRJc1VvZ3RsVWliczFDVzRtbG8xX2t6Z2MzdnR6VUV3Y1hxeGJoUjZWcEpYZW5WdHpFVWVuZjA4clVsVFNmWUl2RDFxTVFaTFNhWVdYalkxd2hzZ29vSjRoYWZyb1lWbDA4ZHF0U05QeVdad0hzbTZfVlZBaVdyVUF4blNJWXA0cTlOdlE?oc=5",
       "source": "ABC News",
       "published": "Wed, 04 Feb 2026 22:47:19 GMT",
+      "type": "news"
+    },
+    {
+      "title": "Moltbook Lets AI Agents Talk to Each Other\u2014and They Immediately Made Their Own Religion - Answers in Genesis",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBiY1M3TnJIZFdMd1lTQ1h3QjVUN0lqaVBxUHAwYUluZ0hMRUN6aUtIbC1MbFBzb202R1U5RXFrdmRrRGc5N2RmM1BjMjBYYzNSQ0RheGhndTZQRlRVWGQtdVhlRnd4LUwyV0YtbUVsckJLWTFhdDlhamR3bjM3TG8?oc=5",
+      "source": "Answers in Genesis",
+      "published": "Wed, 04 Feb 2026 22:20:27 GMT",
       "type": "news"
     },
     {
@@ -40,6 +54,13 @@
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5JUW11YUNHcncwWXNiTmROUUhGcmg3aXFUN3VPbm9EU0M0S1piZ1N4eXktM0VCeGdYdm1sWUxLOGFvQVM5NnYyMnFfd2J2NThEOEtGdmlYbVdzRTI0cmxiUC1R?oc=5",
       "source": "Mashable",
       "published": "Wed, 04 Feb 2026 19:13:36 GMT",
+      "type": "news"
+    },
+    {
+      "title": "The World\u2019s First Viral AI Assistant Has Arrived, and Things Are Getting Weird - The Wall Street Journal",
+      "link": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxPTVNVTEp2MlNhaHNoTXFoWlM1YWZ2ZnNIUmtJQlBsaENydHJrM1RxemEzOGcwNHFMb3JnMFlNREYweE4ySy0xLS1CWWRUbncwYjZTS21tUWZxbU1hdU1kU0lCS1BxSmlLLUdfS2xReDhuTFNBRmhyNXhMYlFTU1A0YWtGdjFFRG9XX193N0FLNlc0MXFwdUlMQkxOZ3hzVEtpb3c2dzhMRS1KTXNoZkRLZU1YQU8teFJVTWpxRFJLV0NYNHJjZlI3NUJEaTJHUEdQcDZWNU0tcWdlZWxaT3hacHVLc2FxV01nbjFHaEpiSzFybGVYd19ZQ0hKSmViSFRaME92RlkzUHVCWE1neFloZTRUSElCeGdvWEVJaVhLTjZDNGNrVE5mSW1DRjRGVnhoR0t1SkluNW8ya3ZoZWpkd2JyNGpWVWtWTlY2WWpYMF9sNDI3NGVmMGtUbmVLVUdHekM3ektWVmxpUno1SF9paHQ0WXNyUHVqZ3lkMkR1Q1JLNUdFYkVpY3RDNA?oc=5",
+      "source": "The Wall Street Journal",
+      "published": "Wed, 04 Feb 2026 17:00:00 GMT",
       "type": "news"
     },
     {
@@ -295,7 +316,7 @@
       "type": "reddit"
     }
   ],
-  "last_updated": "2026-02-04T22:56:34.341605+00:00",
+  "last_updated": "2026-02-05T05:09:31.870452+00:00",
   "total_fetched": 24,
   "new_this_run": 3
 }
