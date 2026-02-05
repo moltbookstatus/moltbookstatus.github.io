@@ -1,6 +1,13 @@
 {
   "articles": [
     {
+      "title": "The AI social network is bonkers - The Boston Globe",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOS21UVXBVdkcyOGVUTWk3ZTVuZU0wRzVDMGV0ZmJBTVRCX1dvLTJtZjRpOWs0RWhvekwyc3ZWSVdOQlYyVXJGbGs4Sk45enFDV01oanMwZWVQN0R3RklGRkZUbmw3TlBIVTdUN3oxVnNndndIN0JxTDB5QklCd2NXcURhalRkdi1X?oc=5",
+      "source": "The Boston Globe",
+      "published": "Thu, 05 Feb 2026 09:33:02 GMT",
+      "type": "news"
+    },
+    {
       "title": "Ai Agents on Nostr can now setup and pay for their own hosting",
       "link": "https://www.reddit.com/r/singularity/comments/1qwcr07/ai_agents_on_nostr_can_now_setup_and_pay_for/",
       "source": "Reddit",
@@ -61,6 +68,13 @@
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5JUW11YUNHcncwWXNiTmROUUhGcmg3aXFUN3VPbm9EU0M0S1piZ1N4eXktM0VCeGdYdm1sWUxLOGFvQVM5NnYyMnFfd2J2NThEOEtGdmlYbVdzRTI0cmxiUC1R?oc=5",
       "source": "Mashable",
       "published": "Wed, 04 Feb 2026 19:13:36 GMT",
+      "type": "news"
+    },
+    {
+      "title": "The World\u2019s First Viral AI Assistant Has Arrived, and Things Are Getting Weird - The Wall Street Journal",
+      "link": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxNUm5OWmEtcjJDYjRGS243LWxkc2dDT1NuZHQxME96NFRVbTF6T1YyVnN0dVRVamlPNFV4MUpSeVdPU19HVWhGbExaVjlIZHJOdzMyY0lKWFNuTmtFWWtpTklPc0xlWVF4UjRIVk5EV1dmOXBUQnZ1T1htcFZCVFZELVZsZm1iS1lBbFZjTjZtemZGZm9xWnRyQXFKSWtjc1RkRXk0UGVNMVlCbHBVR0Z1UTBtaXpiTnNkdlRTai1DcTI2NGc4U1Mwb2h4NEZBUjBQWUdkT1lHc2RwNndJSTFaSWtSLXN1NlpSUHRnMkFjOFhLLTdhVkN6eUNwcDlkenA3R2ZrMVp6V3NSWWM3cDEtVktncGJHcFd5eWhWMWlwQzd2RnhQUmhkX3ZENVpVWXRtSHV1R2YyclZULUlOVlZPTjdndllDS0xucE0wNGJEb2JvM0ZBbFNXTXgtS29aeVBEdGE1cURhVk5qeExHT3VSZmJVd3RacWQ5WnMtYk9EVjVZSy05UUc4LU1oMA?oc=5",
+      "source": "The Wall Street Journal",
+      "published": "Wed, 04 Feb 2026 17:00:00 GMT",
       "type": "news"
     },
     {
@@ -337,7 +351,7 @@
       "type": "reddit"
     }
   ],
-  "last_updated": "2026-02-05T08:01:48.501312+00:00",
-  "total_fetched": 25,
-  "new_this_run": 3
+  "last_updated": "2026-02-05T11:52:34.229756+00:00",
+  "total_fetched": 24,
+  "new_this_run": 2
 }
