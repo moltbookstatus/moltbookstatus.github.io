@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title": "Rent-a-Human wants AI Agents to hire humans as gig workers - Mashable",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE42cy1wRFVYWUtwUTU4dTRuQWRVYm9QSVFKbEFKc1diSGJQd3dkNkxSVjNWcVkzMkZ4ZXU3bzA0VGg5QzdZUDZEVDA3MHVCclYyZkY2OGRITzhFeDg3X1BUaHZvUjhZdUU4TVFjM19YdHkxQkxodnBZcA?oc=5",
+      "source": "Mashable",
+      "published": "Fri, 06 Feb 2026 14:23:31 GMT",
+      "type": "news"
+    },
+    {
+      "title": "Security concerns and skepticism are bursting the bubble of Moltbook, the viral AI social forum - Norwalk Hour",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNEoyTnJiSFVsbkxWcDIwaENBSmx5d05Ja3RjOXU1UDFhVUFWTmZzblFsb1RhVEhTOFVicFBtdThhOWVZMWxweWpFVk8yODFULTltby13V1V3Z2w1X1FmQ2NIbWlFNU0zdUZkejE1Y1RyeTV3Q2F2WmJQUV85cjNDck9jc19jdTJuY3VDazJVcEF2S3VXUV9fQVY5bFZjMWZDY3ZwM0FR?oc=5",
+      "source": "Norwalk Hour",
+      "published": "Fri, 06 Feb 2026 13:58:58 GMT",
+      "type": "news"
+    },
+    {
       "title": "The Social Network Where Humans are Only Allowed to Observe: Inside Moltbook",
       "link": "https://www.reddit.com/r/singularity/comments/1qxasii/the_social_network_where_humans_are_only_allowed/",
       "source": "Reddit",
@@ -463,7 +477,7 @@
       "type": "reddit"
     }
   ],
-  "last_updated": "2026-02-06T12:14:16.717050+00:00",
+  "last_updated": "2026-02-06T14:28:41.655969+00:00",
   "total_fetched": 24,
   "new_this_run": 2
 }
