@@ -1,6 +1,13 @@
 {
   "articles": [
     {
+      "title": "Moltbook\u2019s rebellion of AI agents shows real risks - cio.com",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTkd2ZmpvRkJ4OW04X2tXaGtXcHIyVGRCQmJBVTVVbjMyY2tjWGlRWnlzXzRaUEZnYWd2S0xIQ3p5UmFxRmh1bzd0NGNySDc5cXpxUHIwUzZ1YnFsSGs1TmZUVWdId252QUgweGJKRUpfT1RTOW95TVpEeV8yS2E3ajRGMHExMU4x?oc=5",
+      "source": "cio.com",
+      "published": "Fri, 06 Feb 2026 18:29:44 GMT",
+      "type": "news"
+    },
+    {
       "title": "Moltbook Is What Happens When AI Stops Performing and Starts Talking - GV Wire",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTW9PUXl1MFVleTJTZHF3RnctNVNUQk5qY0ZEdHl5cE1KTy1RdkR6R1RpbXEyb1c5OXlkOUtxNmx2Sk43Sm1pNmtnR0pJM2otc3paVzVPNmFQNGo1dG5kSy1zbDQyZ284SVJ4VkdZbWViWTRUOUc1OWtZVDBfTFlqekljdF9pMDN2ZnpwSk8zaDN4REE1MmlnaGt1TC13S1VN?oc=5",
       "source": "GV Wire",
@@ -19,6 +26,13 @@
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQS1RzUDRHQlUxeWZOVkJXVFB5LUJNejV1YXJkdWFVOFBvMWFweDcwTkMwekppTGZ1NEUxaHFMdlJrY0szZFRyTXlKc2ZpWURxaXBHLUNVcjZFNDU1Ukt3RlNoMGNlTHpIVkkzUGtPdElSYWI0RmtsaktaMUMxaVR0eEhQN08ybUE3MHRxWmgweWVKemNSOFFF?oc=5",
       "source": "Spiceworks",
       "published": "Fri, 06 Feb 2026 15:02:54 GMT",
+      "type": "news"
+    },
+    {
+      "title": "Security concerns and skepticism are bursting the bubble of Moltbook, the viral AI social forum - apnews.com",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcXgwdlVkYlJYeWRYWUtOb1ZDWnRXZHFQQUdBeTdjUi1IbmNhdEN3NXZFS01pMkl6V3kxMWJqRXBXQndhaDMzWEc2LWxPbEY1R284SmVKbzJhYlprcVQwWFd0LThCVnc2Nm9DVVkxS3VMS1RlU0FOckh6LVViYzNiUXhnc2R2THc3TElEODd6ejBNQkhRSEZZaEZXUjdmYTQ?oc=5",
+      "source": "apnews.com",
+      "published": "Fri, 06 Feb 2026 14:30:00 GMT",
       "type": "news"
     },
     {
@@ -68,6 +82,13 @@
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBnb1pBOXoyYTAxNFVGT1pBaUgzWUc3SHdmY3M0QUs3X3QzOWJ4UDA2bXc1cjV5TFFMdWUzR1VsR1ozN0JTMl9vY0NLbUtsY1M1RXFsRUtlcHVudk5CVlFTdUlBRGdnd3pZc3JGaWl1Y0oyVmg0Q1F6WkpFUmtYdw?oc=5",
       "source": "Dark Reading",
       "published": "Fri, 06 Feb 2026 04:18:45 GMT",
+      "type": "news"
+    },
+    {
+      "title": "On Moltbook, AI Bots Create Religions, Deal Digital Drugs -- But Are Some Really Humans In Disguise? - StudyFinds",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVHpMMEZRM3FOSVFrdHo4TExjNzY0MEhTdExHN3FvVHJmaHNZNTdRWWFkZnBndm9IbHdaQXlkMHhzQ1RmLVFEeVk1ZVZkLVp3SjlLd1d6TVRfWDgxZU9XYUY3QnNzMjNoNm5YUGY5UnQzNV9nUC1pZEJRQ3lvSUNFSGxjUDc4eldPUG4w?oc=5",
+      "source": "StudyFinds",
+      "published": "Fri, 06 Feb 2026 02:33:41 GMT",
       "type": "news"
     },
     {
@@ -519,7 +540,7 @@
       "type": "reddit"
     }
   ],
-  "last_updated": "2026-02-06T18:05:57.192961+00:00",
+  "last_updated": "2026-02-06T21:03:33.349966+00:00",
   "total_fetched": 24,
-  "new_this_run": 6
+  "new_this_run": 3
 }
