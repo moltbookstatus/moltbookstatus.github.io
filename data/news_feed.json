@@ -22,6 +22,20 @@
       "type": "news"
     },
     {
+      "title": "Watch I Infiltrated Moltbook, the AI-Only Social Network - WIRED",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaUdWZ1NKaWdkV2x1RTlNWHZtOXNxUnl3aXJVWFMteHdtS3h0NWpiUGNMYlhfN3RVTFR2WHNaVkFBbE8yRmFYa25wR2NlckJPN1JHNWdHQkczdjRsYVVMLVpva09uSFpEOEN1NE1zOXptQ01CZlRzSjlvQ21ySlZva0xNeXpTd1lsM2tj?oc=5",
+      "source": "WIRED",
+      "published": "Thu, 05 Feb 2026 18:30:01 GMT",
+      "type": "news"
+    },
+    {
+      "title": "The Moltbook Case and How We Need to Think about Agent Security - Palo Alto Networks",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSUY4V1NQMVhiYi1ZR19pRjlnSHhaZVdpLWFNMmFYM2RraU9Qa0hfc0EybkZSMW9JSU83NHZ6X1g5cXVhRTdFNERSYjNVSEgzMGZRV1JGTklVWXFvaGRLY25EUHhreFhpMnBIYjdZeTZULVdtZm9WTjA4ekg2VWhxWXg0NlRVUVVhOEhpeUZuT1pmU01fV2hJelBHcWZyQ1hqWDVQTmd5OHJDSkZzZG91M0FPeEdqWU50enpn?oc=5",
+      "source": "Palo Alto Networks",
+      "published": "Thu, 05 Feb 2026 18:24:23 GMT",
+      "type": "news"
+    },
+    {
       "title": "A bot-only social media platform: What the Moltbook experiment is teaching us about AI - Tech Xplore",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcENWZXlhX21KTnpsdHl1UTd2azF4YzI5c1RDUkxrS3RoMXFQeDhEUWdDTXlKUV9rcUEtUVpqU0lyQldPc2RhZGpoZDVJNUJnQTJGUFVRaFlrZURrSU50al9CcnRSMU1iU3pwbEh5RkRkeTFmUkxhTzcwTWJJYno1Sg?oc=5",
       "source": "Tech Xplore",
@@ -449,7 +463,7 @@
       "type": "reddit"
     }
   ],
-  "last_updated": "2026-02-06T08:00:46.257640+00:00",
-  "total_fetched": 25,
+  "last_updated": "2026-02-06T12:14:16.717050+00:00",
+  "total_fetched": 24,
   "new_this_run": 2
 }
