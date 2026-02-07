@@ -64,6 +64,13 @@
       "type": "news"
     },
     {
+      "title": "Moltbook, the Reddit for bots, alarms the tech world as agents start their own religion and plot to overthrow humans - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNV1JMTFJaMG93bmFDOHc5LVQzVUx5ZE9NdVpGZFd5cDl6amJNc3B1QWhmV0NPZTIxMzRRTHQzXy01dnpacDZJam9XUmFJWkJiLW5OSUNSbDQ2amRsVldXMjdXS2pIcXZrQXhReTRvMzdQb2hHTmZBcnM2RjFsWEpuRVBPZWFYWnB3WnJKb1NZYy1QZE5jOW5UeWQ4MzhZb0hO?oc=5",
+      "source": "Fortune",
+      "published": "Fri, 06 Feb 2026 18:20:00 GMT",
+      "type": "news"
+    },
+    {
       "title": "Moltbook Is What Happens When AI Stops Performing and Starts Talking - GV Wire",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTW9PUXl1MFVleTJTZHF3RnctNVNUQk5qY0ZEdHl5cE1KTy1RdkR6R1RpbXEyb1c5OXlkOUtxNmx2Sk43Sm1pNmtnR0pJM2otc3paVzVPNmFQNGo1dG5kSy1zbDQyZ284SVJ4VkdZbWViWTRUOUc1OWtZVDBfTFlqekljdF9pMDN2ZnpwSk8zaDN4REE1MmlnaGt1TC13S1VN?oc=5",
       "source": "GV Wire",
@@ -603,7 +610,7 @@
       "type": "reddit"
     }
   ],
-  "last_updated": "2026-02-07T17:01:32.041373+00:00",
+  "last_updated": "2026-02-07T19:05:19.589190+00:00",
   "total_fetched": 25,
-  "new_this_run": 0
+  "new_this_run": 1
 }
