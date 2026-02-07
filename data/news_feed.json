@@ -1,6 +1,13 @@
 {
   "articles": [
     {
+      "title": "Moltbook Gave Everyone Control of Every AI Agent - BankInfoSecurity",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQS0FmMjM4dnMwXy1YdXNPNWEtYmpVLTNsRlEwVlNpcEl1VFJTSE5pS3NtaXBRUU1TeFJLQjBnY1RjOXFUUnhUTUJNVmY1WmFqT3IxX3BYUzhqMGVhWHl6RDRIWk5SazR2S3RzWmN5NlFON0djd3VhNUFjZnF0MWVPM0Yya1BfVERnZ1h3dUhtYw?oc=5",
+      "source": "BankInfoSecurity",
+      "published": "Fri, 06 Feb 2026 23:12:58 GMT",
+      "type": "news"
+    },
+    {
       "title": "Moltbook\u2019s rebellion of AI agents shows real risks - cio.com",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTkd2ZmpvRkJ4OW04X2tXaGtXcHIyVGRCQmJBVTVVbjMyY2tjWGlRWnlzXzRaUEZnYWd2S0xIQ3p5UmFxRmh1bzd0NGNySDc5cXpxUHIwUzZ1YnFsSGs1TmZUVWdId252QUgweGJKRUpfT1RTOW95TVpEeV8yS2E3ajRGMHExMU4x?oc=5",
       "source": "cio.com",
@@ -540,7 +547,7 @@
       "type": "reddit"
     }
   ],
-  "last_updated": "2026-02-06T22:53:00.957575+00:00",
+  "last_updated": "2026-02-07T04:54:29.023403+00:00",
   "total_fetched": 24,
-  "new_this_run": 0
+  "new_this_run": 1
 }
