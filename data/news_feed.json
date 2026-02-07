@@ -1,11 +1,25 @@
 {
   "articles": [
     {
+      "title": "Moltbook, the viral AI sensation, isn't exactly Skynet. So what is it? - Mashable SEA",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVXJ5bkIxalF3Z21wRERpYUNDMExfMlN2WUxvTXI0bzVqdl9IWEV3ZGhOWFJSZU4yZmRXdDFocUpBZTA3SkxxY3U2LXBpSzhhRW5WZmVSWUMyLUFQd0NoTlg1Nm81WDJaZ3JmdUpKTnlYYWlQczN4X1BPZDJBTVJ4RnJqU01yRmstNmVQQ21oNU0tVjJVeWZtTmpEMFJvbkVDQ2dN?oc=5",
+      "source": "Mashable SEA",
+      "published": "Sat, 07 Feb 2026 10:00:00 GMT",
+      "type": "news"
+    },
+    {
       "title": "Moltbook Could Have Been Better",
       "link": "https://www.reddit.com/r/artificial/comments/1qy6x48/moltbook_could_have_been_better/",
       "source": "Reddit",
       "published": "2026-02-07T06:53:12+00:00",
       "type": "reddit"
+    },
+    {
+      "title": "Security concerns and skepticism are bursting the bubble of Moltbook, the viral AI social forum - The Press Democrat",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5oeTQ5Z2ZmRXBNSnY3amFMRVFBTnhxTjFOTjhoX0FxVTRDNzJ5VEFSOHJ0am5jYldjZ2lyZ0pvYWZJRVdRa2I0MEJlLWlzS3AyWkM5ektzTEFKOHZOZ3lINWJ4LXBiY1hvMHpxSg?oc=5",
+      "source": "The Press Democrat",
+      "published": "Sat, 07 Feb 2026 01:01:34 GMT",
+      "type": "news"
     },
     {
       "title": "Moltbook Gave Everyone Control of Every AI Agent - BankInfoSecurity",
@@ -554,7 +568,7 @@
       "type": "reddit"
     }
   ],
-  "last_updated": "2026-02-07T09:01:28.374338+00:00",
+  "last_updated": "2026-02-07T10:57:32.200759+00:00",
   "total_fetched": 25,
-  "new_this_run": 0
+  "new_this_run": 2
 }
