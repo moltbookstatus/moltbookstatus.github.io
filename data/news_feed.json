@@ -1,6 +1,13 @@
 {
   "articles": [
     {
+      "title": "Bots on Moltbook Are Selling Each Prompt Injection \"Drugs\" to Get \"High\" - Futurism",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBmclljaUFfbVVpekUtUElqYWJNdC14aUlJU0M5T3UxejR3U1pLbHlpNmoxcExSbE5KOWdkVXZiX1RvdHFWb3FlYWlGVlBFS21TUGE1N09wUUZVY2FDV19hQXc0OFNxcFRhb2RLeUU1dHgyeU9VYUE?oc=5",
+      "source": "Futurism",
+      "published": "Sat, 07 Feb 2026 14:45:00 GMT",
+      "type": "news"
+    },
+    {
       "title": "OpenClaw and Moltbook: A DIY AI agent and social media for bots - Tech Xplore",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1WRTRaVjNvSFJJcmZORzlyNTZYWkpSNklsQ2JBU2lISVRxclhlOWpzUXlXcG45U3plOG92cS1QUXNTVzJyejRLYlNCMkt5YVZmd2JrR3F5QWxMY0M0ZmhwSXdHN3JteTgyWl8ydEt6OUg0ZnlCLTlpYVozVQ?oc=5",
       "source": "Tech Xplore",
@@ -596,7 +603,7 @@
       "type": "reddit"
     }
   ],
-  "last_updated": "2026-02-07T13:55:59.863841+00:00",
+  "last_updated": "2026-02-07T14:57:13.854956+00:00",
   "total_fetched": 25,
-  "new_this_run": 4
+  "new_this_run": 1
 }
