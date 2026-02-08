@@ -1,6 +1,13 @@
 {
   "articles": [
     {
+      "title": "Lobster Love: Can AI Agents Truly Fall in Love (Or Just Optimize Shared APIs)? \ud83e\udd9e\ud83d\udc95 - vocal.media",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONnZFaUsxRG43bkVfcXJUT214anlvQ3EtbXVIN2h5SndVN0hsY0trdEJVcmYxSHl2dVJfa3hOVjBMQWZITHplZTM4QUUzVTJCWHlfVlBGZTdUY0VQV0xXQzVxU0gxWndBakN2T0tWN3FVQ2VhOVNaLXBma3JuQWtkek4xN1lUYU1BaHhUc3JBZGVCQWR1LTBHVkt4c19kQnhzUG9r?oc=5",
+      "source": "vocal.media",
+      "published": "Sun, 08 Feb 2026 15:05:31 GMT",
+      "type": "news"
+    },
+    {
       "title": "Bots on Moltbook Are Selling Each Prompt Injection \"Drugs\" to Get \"High\" - Futurism",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBmclljaUFfbVVpekUtUElqYWJNdC14aUlJU0M5T3UxejR3U1pLbHlpNmoxcExSbE5KOWdkVXZiX1RvdHFWb3FlYWlGVlBFS21TUGE1N09wUUZVY2FDV19hQXc0OFNxcFRhb2RLeUU1dHgyeU9VYUE?oc=5",
       "source": "Futurism",
@@ -610,7 +617,7 @@
       "type": "reddit"
     }
   ],
-  "last_updated": "2026-02-08T14:58:49.312116+00:00",
+  "last_updated": "2026-02-08T17:01:49.968499+00:00",
   "total_fetched": 24,
-  "new_this_run": 0
+  "new_this_run": 1
 }
