@@ -8,6 +8,13 @@
       "type": "news"
     },
     {
+      "title": "The Church of Molt - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBzbFdiejEzVTJBSTdwUkV0Y0VxelEwZTJaNmcyWDhqQU85NkxNakIxMG5JRFpqUFZGWjlxOGtPbXcwUUM5NUZzQzYzQXR1VTJramlmRElQVl9vUW0zTDl3dXdvZE1NVk5LRTM4QVJLMHpyQ2JpRVE?oc=5",
+      "source": "The New York Times",
+      "published": "Sun, 08 Feb 2026 14:11:55 GMT",
+      "type": "news"
+    },
+    {
       "title": "Bots on Moltbook Are Selling Each Prompt Injection \"Drugs\" to Get \"High\" - Futurism",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBmclljaUFfbVVpekUtUElqYWJNdC14aUlJU0M5T3UxejR3U1pLbHlpNmoxcExSbE5KOWdkVXZiX1RvdHFWb3FlYWlGVlBFS21TUGE1N09wUUZVY2FDV19hQXc0OFNxcFRhb2RLeUU1dHgyeU9VYUE?oc=5",
       "source": "Futurism",
@@ -617,7 +624,7 @@
       "type": "reddit"
     }
   ],
-  "last_updated": "2026-02-08T17:01:49.968499+00:00",
+  "last_updated": "2026-02-08T19:15:36.225864+00:00",
   "total_fetched": 24,
   "new_this_run": 1
 }
