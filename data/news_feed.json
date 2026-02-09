@@ -1,6 +1,13 @@
 {
   "articles": [
     {
+      "title": "AI bots\u2019 terrifying talk of 2047 takeover appears to be a big troll \u2014 by humans - New York Post",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTzFVZjQ2WXB2QlNPRlk1VlVXYThlOVJXeE9IRzBldGI1Mk5HUWJKRVIyRl9GeEpJRkNwMnppLUJkcHc2YWpRTnpKN3RkSU9SOHFCcHpzVUpINlJkMFptTjQ4VFY0eFR0cDFQMkZCOW5MVmQ0ams1VVJ5RHNjZS1QSUZLeUloSlBtYmc4UjZYb2dDUWJZM2UyOU9ueU9yNmlfUXBNSk5ZSGdoUEJaMzM0Y01qYTE?oc=5",
+      "source": "New York Post",
+      "published": "Sun, 08 Feb 2026 22:54:00 GMT",
+      "type": "news"
+    },
+    {
       "title": "Lobster Love: Can AI Agents Truly Fall in Love (Or Just Optimize Shared APIs)? \ud83e\udd9e\ud83d\udc95 - vocal.media",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONnZFaUsxRG43bkVfcXJUT214anlvQ3EtbXVIN2h5SndVN0hsY0trdEJVcmYxSHl2dVJfa3hOVjBMQWZITHplZTM4QUUzVTJCWHlfVlBGZTdUY0VQV0xXQzVxU0gxWndBakN2T0tWN3FVQ2VhOVNaLXBma3JuQWtkek4xN1lUYU1BaHhUc3JBZGVCQWR1LTBHVkt4c19kQnhzUG9r?oc=5",
       "source": "vocal.media",
@@ -624,7 +631,7 @@
       "type": "reddit"
     }
   ],
-  "last_updated": "2026-02-09T05:46:04.199933+00:00",
+  "last_updated": "2026-02-09T08:07:11.768666+00:00",
   "total_fetched": 24,
-  "new_this_run": 0
+  "new_this_run": 1
 }
