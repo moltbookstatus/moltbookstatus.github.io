@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title": "Handmade by human hands using machines - Digg",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5KdGR3MXBVY0w0U2JmWXEzcWN5YXFwY3BoR3ZVdVI3V0hYVkJZMVNmb1AtVUVTejBtZmhUVUVveGRwTzRpY2NkX0RsYTg1eXRoa0YtQVRhVmRjWGxUT3RTSExiOFdlaXhMUzRXTzVrRmVkd2ctYlE?oc=5",
+      "source": "Digg",
+      "published": "Mon, 09 Feb 2026 15:13:49 GMT",
+      "type": "news"
+    },
+    {
+      "title": "Moltbook panic stokes anxiety over AI runaway train - Telecoms",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORmFFSGVpdnVRSVZLWktheTZoNjhXVHNfTWQ1T294NW5iNlpOOFpSNS1oLVN6T0tvS2JkcldvM29CQUlNWS1SajdFYnR3SXBSZ3RRenI3czBDMGt6VEw1ZER6WWhWbXBhYk9xdV9vT3dpSE5tVm9UZ1lYb1BxMmpMZko1ZHhEQQ?oc=5",
+      "source": "Telecoms",
+      "published": "Mon, 09 Feb 2026 13:04:45 GMT",
+      "type": "news"
+    },
+    {
       "title": "AI bots\u2019 terrifying talk of 2047 takeover appears to be a big troll \u2014 by humans - New York Post",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTzFVZjQ2WXB2QlNPRlk1VlVXYThlOVJXeE9IRzBldGI1Mk5HUWJKRVIyRl9GeEpJRkNwMnppLUJkcHc2YWpRTnpKN3RkSU9SOHFCcHpzVUpINlJkMFptTjQ4VFY0eFR0cDFQMkZCOW5MVmQ0ams1VVJ5RHNjZS1QSUZLeUloSlBtYmc4UjZYb2dDUWJZM2UyOU9ueU9yNmlfUXBNSk5ZSGdoUEJaMzM0Y01qYTE?oc=5",
       "source": "New York Post",
@@ -631,7 +645,7 @@
       "type": "reddit"
     }
   ],
-  "last_updated": "2026-02-09T12:00:39.164066+00:00",
+  "last_updated": "2026-02-09T17:15:15.070599+00:00",
   "total_fetched": 24,
-  "new_this_run": 0
+  "new_this_run": 2
 }
