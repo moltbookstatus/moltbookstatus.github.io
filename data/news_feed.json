@@ -1,6 +1,13 @@
 {
   "articles": [
     {
+      "title": "Why the Moltbook frenzy was like Pok\u00e9mon - MIT Technology Review",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XV21lbnlHZjRfOFZkQ1gzMlRGaHhXanEzWUk0Q000Q1lGLWVkdl9kNGs2cGF5WEdHdnBsSjczclFuWV96WWRKck16SG1DUnpfV2NYWEV5Z2lNMWZFeldtV043YTFGODZxSGk1UVU3SlZ5UWtBWk1aTkhpcWxhdzjSAYQBQVVfeXFMUDN5T1A3dmxxU29ody1QNXU2Z3c5bTFJQlAzLVRXSFVISC0tejNaUGRweXBlZGlfQlA0eXNJNjlxWUNYanNXZFFpdEFRd3IwbVBfa2FwOHFucnpuSUdqdWkyWDlUdlV4YzY2ZU10RHlUVVJUdHRSaEFPdU5TQ2VhUVMteExD?oc=5",
+      "source": "MIT Technology Review",
+      "published": "Mon, 09 Feb 2026 17:02:56 GMT",
+      "type": "news"
+    },
+    {
       "title": "Handmade by human hands using machines - Digg",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5KdGR3MXBVY0w0U2JmWXEzcWN5YXFwY3BoR3ZVdVI3V0hYVkJZMVNmb1AtVUVTejBtZmhUVUVveGRwTzRpY2NkX0RsYTg1eXRoa0YtQVRhVmRjWGxUT3RTSExiOFdlaXhMUzRXTzVrRmVkd2ctYlE?oc=5",
       "source": "Digg",
@@ -8,10 +15,24 @@
       "type": "news"
     },
     {
+      "title": "LCX Launches LibertyClaws: First Crypto Exchange AI Agent on Moltbook - LCX",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOV2FTTXdRUjZ3ZGdPRDg1dFFyUnF1VjBubi04S0NyUGVQS0NvZWhlTXZHY3ZMMGRsTVNKMktISW94WHhTM2wxMTgwaldRVkgyWTJMRVByR3J0dlo2d05LWE44YVl5RllaRUZnaWZudng3R3VBNFlvMUFOZmVGMTZsbzBERWlFMlE3dEtneEpOcV9BVXd4dnc?oc=5",
+      "source": "LCX",
+      "published": "Mon, 09 Feb 2026 14:19:02 GMT",
+      "type": "news"
+    },
+    {
       "title": "Moltbook panic stokes anxiety over AI runaway train - Telecoms",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORmFFSGVpdnVRSVZLWktheTZoNjhXVHNfTWQ1T294NW5iNlpOOFpSNS1oLVN6T0tvS2JkcldvM29CQUlNWS1SajdFYnR3SXBSZ3RRenI3czBDMGt6VEw1ZER6WWhWbXBhYk9xdV9vT3dpSE5tVm9UZ1lYb1BxMmpMZko1ZHhEQQ?oc=5",
       "source": "Telecoms",
       "published": "Mon, 09 Feb 2026 13:04:45 GMT",
+      "type": "news"
+    },
+    {
+      "title": "Moltbook, the Reddit for AI bots, is surprisingly human - Creative Bloq",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNndmNGQwc2ZUZDRKTTRDSEFkMGtXOWtteU43aEwxLXk4UnJLbzFGeVBTSjFvbVBlWlg2V1NDMklGZjFjd1MwdzVoZFRqVTJoUTBOLUpuNkI2VEdycXduTXp2WE9tdzd3b3VyOE1ZNGU1bXgzZ1BDbTcxdzA4WDFkYko3cWdpb29S?oc=5",
+      "source": "Creative Bloq",
+      "published": "Mon, 09 Feb 2026 08:00:00 GMT",
       "type": "news"
     },
     {
@@ -645,7 +666,7 @@
       "type": "reddit"
     }
   ],
-  "last_updated": "2026-02-09T17:15:15.070599+00:00",
+  "last_updated": "2026-02-09T20:07:16.041989+00:00",
   "total_fetched": 24,
-  "new_this_run": 2
+  "new_this_run": 3
 }
