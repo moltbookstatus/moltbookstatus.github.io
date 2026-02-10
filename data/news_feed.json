@@ -1,6 +1,13 @@
 {
   "articles": [
     {
+      "title": "New Originality.ai Study Finds MoltBook Produces 3\u00d7 More Harmful Factual Inaccuracies Than Reddit - The National Law Review",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQXNwVS1KWGN3d3Y5ZFNXOS0tT203S1hjWlc1cklaUVZFcWV0SE9NcEh1TGR6SFBKeEo3SFA1OGJYTm41cGk0X3I3SWlOak95aTBzMnJXQVdBNlV1a0liR3pLTmVTcFd5bXZ3dTU5b1BiQ0pBMEkta1NKQ3dwQ3pxbk5fU244aUVYQlV5Y3NUWlRnS3lVdHVKOWNjQnM0TDhoMlN0SXJjYzZ2bTlLeGk0?oc=5",
+      "source": "The National Law Review",
+      "published": "Tue, 10 Feb 2026 18:22:37 GMT",
+      "type": "news"
+    },
+    {
       "title": "\u2018Robots need your body:\u2019 platform lets AI agents hire humans - AIM Group",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPM2ZWbmRGcURmUjBQeVZRRnJXemZZMnQxY1lpMHFzY05JcXVhbVhpZlF5ZThQSU95UkJqLS1TVW0wS1h0MWloMHVNUGx3N2tuUm5xNG5ES0h3cWN5MlYwbHBYUldUNDZ6cDhubjZoSlRzakNDU0dmd2hVbGR0NXhyeGJnRHY3U1NjRm5lRVpnMnNvalpK?oc=5",
       "source": "AIM Group",
@@ -692,16 +699,9 @@
       "source": "Reddit",
       "published": "2026-01-31T23:49:36+00:00",
       "type": "reddit"
-    },
-    {
-      "title": "Moltbook, a social network where AI agents hang together, may be 'the most interesting place on the internet right now' - Fortune",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWlhLZDF6eVhQd2RmSFFsVmxqUkV4dHNZcGIybjdDWEpPSnRqNUc1N1NIMXBiNmdLU3JaTndwcS01ZnhLNXFtOEthV0dSRnMtVkdVb2NfbHNJNktzN3BMY1VhQWN2X0xzZzFRRWNrSUo5YjlkYU9ad3ZBT0M4bWJseUo5SWROQTdkdEpqcG1sc2VCcXpyalVYN1hfektkeG8tMFJySVM5X01FcFFweC00MDZ1eGVXN0l2V1RTVWZvNA?oc=5",
-      "source": "Fortune",
-      "published": "Sat, 31 Jan 2026 17:51:00 GMT",
-      "type": "news"
     }
   ],
-  "last_updated": "2026-02-10T17:40:12.997330+00:00",
+  "last_updated": "2026-02-10T20:09:15.381433+00:00",
   "total_fetched": 24,
-  "new_this_run": 3
+  "new_this_run": 2
 }
