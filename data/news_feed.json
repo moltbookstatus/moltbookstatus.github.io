@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "title": "\u2018Robots need your body:\u2019 platform lets AI agents hire humans - AIM Group",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPM2ZWbmRGcURmUjBQeVZRRnJXemZZMnQxY1lpMHFzY05JcXVhbVhpZlF5ZThQSU95UkJqLS1TVW0wS1h0MWloMHVNUGx3N2tuUm5xNG5ES0h3cWN5MlYwbHBYUldUNDZ6cDhubjZoSlRzakNDU0dmd2hVbGR0NXhyeGJnRHY3U1NjRm5lRVpnMnNvalpK?oc=5",
+      "source": "AIM Group",
+      "published": "Tue, 10 Feb 2026 16:28:31 GMT",
+      "type": "news"
+    },
+    {
+      "title": "Moltbook Looked Like An Emerging AI Society, But Humans Were Pulling The Strings - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOOG9kdFItQ0pSQmk0aWVFdEZLUlNTOFptSjBYd3BzTmkwdGFsQTJYU1YzQ2ZlWEt3UVk4SHV4eWU2Yl9aQ3A2VU8zTVNRTUNfYUlkdXZ1czBaZFFnaTBBRUxLeHJiRWdMYkxyV1lzZHBlM2pka3ZEc2dHbmtUQXE4dElzX0Zjel9TYzk5N3p5YzV6N2k5RHBfbXVCMzF1bExKc0dnazlMcTVXU3FyTXpFdjNCc1ZIaHhmQ0FiYVc1dGtVSFYyZjIxSWlJS2EwZw?oc=5",
+      "source": "Forbes",
+      "published": "Tue, 10 Feb 2026 14:23:52 GMT",
+      "type": "news"
+    },
+    {
+      "title": "Why Tech Is Obsessed With Moltbook, a Social Network for Bots - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMEtvcy1VMjNFRS01ZkdLMTdsMFdUMDdJS2ZmMDNQcW5UY2NxSXJ2enR4N0JMNEVQN0M4ZWh2Wmo3UHlZT2lReW9keEkzcl96QmZscmNmM1NVSTVfTV9GdmpXd0dJR09ZZHlJVWNDeDR3RUFITXNjSjNIXzlDME1VUGVZbE40QXpSYmpMcVVhOVd1UjlWel9HYkdn?oc=5",
+      "source": "Bloomberg.com",
+      "published": "Tue, 10 Feb 2026 11:00:00 GMT",
+      "type": "news"
+    },
+    {
       "title": "The Moltbook Moment: A Turning Point for Communications - prnewsonline.com",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSFBPVXNZb1FTSTMwV0l4X1ZxbXUyb0tmZDd5R21BWkJBZFg0bG10eXduRE51cXZlM1AwVlRObXVXS3lwdEJ1S0E3cERPekNJdThqc3dQZ0ktUzNBQk9HYkNENDN2ekRYZmtBakY5WTBiRE9RZnRCMk81eHlUbExHRV8tU2M4ZFZRSl93eg?oc=5",
       "source": "prnewsonline.com",
@@ -678,23 +699,9 @@
       "source": "Fortune",
       "published": "Sat, 31 Jan 2026 17:51:00 GMT",
       "type": "news"
-    },
-    {
-      "title": "Moltbook AI Social Network: 1.4 Million Agents Build A Digital Society - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNX3lKUXkyLVMtUS1uLWJkeFNkU3RMdWUxV1loRHhlQ1RPdzRHX082d01nZEpMbm5hSnZBOXZLNFhDZFZxLXNsaTFwTUs5aFNKMTJIbGpyUFlJdmVYUXdLLWNTTzBVZm9xT0Q2YlJlNl9ZZGlVRGQ3T19HTGtvcTJGWTVYS25Ed2o2ZGx3QVNCUndnUnlOT0pNSWJsTFo5eE5Jblh3N0xWNG5iTzUwWUNucTJwSEdqT0J3M0xoUlJCY1FZaGJJOTRIQW1laHdBWEN1aFllejRKUjU?oc=5",
-      "source": "Forbes",
-      "published": "Sat, 31 Jan 2026 16:46:31 GMT",
-      "type": "news"
-    },
-    {
-      "title": "Rogue AI agents found each other on social media, and are working together to improve their own memory.",
-      "link": "https://www.reddit.com/r/singularity/comments/1qqh1zm/rogue_ai_agents_found_each_other_on_social_media/",
-      "source": "Reddit",
-      "published": "2026-01-29T18:40:33+00:00",
-      "type": "reddit"
     }
   ],
-  "last_updated": "2026-02-10T12:05:41.946871+00:00",
-  "total_fetched": 4,
-  "new_this_run": 0
+  "last_updated": "2026-02-10T17:40:12.997330+00:00",
+  "total_fetched": 24,
+  "new_this_run": 3
 }
