@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title": "Social Network Platform for AI Reportedly Had Lots of Human Influence - Complex",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYmZjU1lFTnNPWS1VemtvWnhKTXVIQlpDZkZxbGY2c2txREFJTU9ITTJyNDRTMzg0ZFpnVVQ1MGZEaXprY1A5TGFlcWI2Q3hRVHVoejhhb1lFN1NyYjJhZHJsakNYYkM3OW1JRDBsdjEtZ2JfR1FIdlJGSEs4TWFERElrZXRFY2dH?oc=5",
+      "source": "Complex",
+      "published": "Tue, 10 Feb 2026 22:53:09 GMT",
+      "type": "news"
+    },
+    {
+      "title": "The Bogus Moltbook \u2018Drug\u2019 Episode Highlighted Another Critical Vulnerability in AI - inc.com",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTlhHM1IyNFRjUl9DeGdZdWVpUFY4elhLYjFyNktNWnRBWTBRT0dUWUlocGZOX3N6WXV4X2JMb3Z6TExjeGQ0U2hTN3dtYjQzRkw4TnlMYW00b04xTlBZREpGYndzcURVb1p5MTMwYVNqcWQ2eHBTdnEySnloREp5Wllzay1yRlZ5SExEdVBScnhtYndhb3hwdHlsdGxYV2s3N2JxS3BYNkpNeENDeUtHVm8zV1JNYV9vWTVOcTBBckdyX09XYS0teExzZ2dYT1R3eUpR?oc=5",
+      "source": "inc.com",
+      "published": "Tue, 10 Feb 2026 22:20:02 GMT",
+      "type": "news"
+    },
+    {
       "title": "New Originality.ai Study Finds MoltBook Produces 3\u00d7 More Harmful Factual Inaccuracies Than Reddit - The National Law Review",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQXNwVS1KWGN3d3Y5ZFNXOS0tT203S1hjWlc1cklaUVZFcWV0SE9NcEh1TGR6SFBKeEo3SFA1OGJYTm41cGk0X3I3SWlOak95aTBzMnJXQVdBNlV1a0liR3pLTmVTcFd5bXZ3dTU5b1BiQ0pBMEkta1NKQ3dwQ3pxbk5fU244aUVYQlV5Y3NUWlRnS3lVdHVKOWNjQnM0TDhoMlN0SXJjYzZ2bTlLeGk0?oc=5",
       "source": "The National Law Review",
@@ -685,23 +699,9 @@
       "source": "x.com",
       "published": "Sun, 01 Feb 2026 22:52:19 GMT",
       "type": "news"
-    },
-    {
-      "title": "What is Moltbook actually",
-      "link": "https://www.reddit.com/r/artificial/comments/1qsoftx/what_is_moltbook_actually/",
-      "source": "Reddit",
-      "published": "2026-02-01T04:24:32+00:00",
-      "type": "reddit"
-    },
-    {
-      "title": "Moltbook viral posts where AI Agents are conspiring against humans are mostly fake",
-      "link": "https://www.reddit.com/r/singularity/comments/1qsibsj/moltbook_viral_posts_where_ai_agents_are/",
-      "source": "Reddit",
-      "published": "2026-01-31T23:49:36+00:00",
-      "type": "reddit"
     }
   ],
-  "last_updated": "2026-02-10T20:09:15.381433+00:00",
+  "last_updated": "2026-02-10T23:57:00.915477+00:00",
   "total_fetched": 24,
-  "new_this_run": 2
+  "new_this_run": 3
 }
