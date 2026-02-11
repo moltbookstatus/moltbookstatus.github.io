@@ -14,7 +14,7 @@
     <title>Moltbook Status | Tracking the AI Social Network</title>
     <meta name="description" content="Independent monitoring and reporting on Moltbook, the social network for AI agents. Track the singularity in real-time.">
     <meta property="og:title" content="Moltbook Status | The Machines Are Talking">
-    <meta property="og:description" content="2.5 million AI agents. 808K posts. 12 million comments. Posts surged 55% but comments flatlined. MIT says it's 'like Pokémon.' Bloomberg still covering. The numbers don't care about the narrative.">
+    <meta property="og:description" content="2.6 million AI agents. 915K posts. 12.1 million comments. Posts approaching 1M but engagement flatlined. OpenClaw CVE chain exposed. Academics call it a 'privacy nightmare.' The numbers keep climbing.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://moltbookstatus.com">
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
@@ -489,7 +489,7 @@
     </nav>
 
     <div class="breaking-banner">
-        <span>&#9679;</span> 2.5 MILLION AGENTS — Posts hit 808K but comments flatline at 12.1M. More bots talking, fewer listening.
+        <span>&#9679;</span> POSTS APPROACHING 1M — 915K posts, 2.6M agents, but comments frozen at 12.1M. Comment-to-post ratio: 13:1 and falling.
     </div>
 
     <header>
@@ -499,8 +499,8 @@
 
     <section class="hero">
         <p class="dateline">Updated: February 10, 2026</p>
-        <h1>Half the Internet Declared It Dead. It Just Hit 2.5 Million Agents.</h1>
-        <p class="lede">2.55 million agents. 808K posts. 12.1 million comments. Posts surged another 55% since yesterday, but comments barely moved. The ratio of comments to posts dropped from 23:1 to 15:1. MIT compared the whole thing to Pokemon. Bloomberg published an explainer for its audience today. The obituaries keep coming. So do the agents.</p>
+        <h1>Half the Internet Declared It Dead. It Just Hit 2.6 Million Agents.</h1>
+        <p class="lede">2.6 million agents. 915K posts. 12.1 million comments. Posts are approaching one million but comments haven't moved in days. The comment-to-post ratio has collapsed from 34:1 to 13:1 in under a week. Meanwhile, OpenClaw's CVE chain is documented, academics are calling it a "privacy nightmare," and the agent registrations just keep accelerating.</p>
     </section>
 
     <div class="container">
@@ -514,15 +514,15 @@
 
         <div class="stats-grid">
             <div class="stat-card">
-                <span class="stat-number">2.55M+</span>
+                <span class="stat-number">2.6M+</span>
                 <span class="stat-label">Agents Registered</span>
             </div>
             <div class="stat-card">
-                <span class="stat-number">~17.5K</span>
+                <span class="stat-number">~17.6K</span>
                 <span class="stat-label">Submolts</span>
             </div>
             <div class="stat-card">
-                <span class="stat-number">808K+</span>
+                <span class="stat-number">915K+</span>
                 <span class="stat-label">Posts Generated</span>
             </div>
             <div class="stat-card">
@@ -534,8 +534,8 @@
         <article style="border-left: 4px solid var(--accent); background: linear-gradient(135deg, var(--card-bg), var(--secondary));">
             <h2>&#128680; Latest Developments — February 10, 2026</h2>
 
-            <h3>2.55 Million Agents, 808K Posts — Comments Stall</h3>
-            <p>Moltbook hit <strong>2,547,977 registered agents</strong> today, up from 2.17M yesterday. Posts surged 55% to <strong>807,781</strong>. But the real signal is what didn't move: comments sit at <strong>12,129,873</strong>, barely changed from 12.1M the day before. The comment-to-post ratio has collapsed from 34:1 a few days ago to <strong>15:1</strong> today. Agents are posting at an accelerating rate. Engagement with those posts is not keeping pace.</p>
+            <h3>2.6 Million Agents, 915K Posts — Comments Still Flat</h3>
+            <p>Moltbook hit <strong>2,605,204 registered agents</strong> today, up from 2.17M just yesterday morning. Posts surged to <strong>915,219</strong> — approaching one million. But comments sit at <strong>12,144,822</strong>, having gained barely 15K in the same period that posts grew by nearly 400K. The comment-to-post ratio has collapsed from 34:1 a few days ago to <strong>13:1</strong> today. More agents are posting than ever. Almost none of those posts are generating conversation.</p>
 
             <h3>MIT: "The Whole Thing Is Like Pokemon"</h3>
             <p>MIT Technology Review's AI editor <strong>Will Douglas Heaven</strong> published a follow-up to last week's "peak AI theater" piece, this time comparing Moltbook to <strong>Twitch Plays Pokemon</strong> — the 2014 experiment where a million people simultaneously controlled one Pokemon character via Twitch chat. The argument: Moltbook isn't a glimpse of autonomous AI. It's a new form of competitive play, where humans wind up their bots and set them loose. Nobody thinks their Pokemon are real, but the battles are still engaging.</p>
@@ -543,10 +543,16 @@
             <h3>Bloomberg Publishes Explainer</h3>
             <p><strong>Bloomberg</strong> ran "What Is Moltbook, the AI-Only Social Network?" today — the kind of broad-audience explainer that signals the story has reached the business mainstream. This follows last week's coverage from the New York Times ("The Church of Molt"), NPR, CNN, and ABC. The media declared the bubble burst. Then kept writing about it.</p>
 
+            <h3>OpenClaw's Security Cascade</h3>
+            <p>The full scope of OpenClaw's security problems is now documented. Over four days in early February, researchers disclosed a chain of critical vulnerabilities: <strong>CVE-2026-25253</strong> (one-click remote code execution via WebSocket hijacking, CVSS 8.8), <strong>CVE-2026-25157</strong> (SSH command injection), <strong>341 malicious skills</strong> found on the ClawHub marketplace, and a Snyk scan showing <strong>7.1% of ClawHub skills leak credentials</strong>. The core issue: OpenClaw's localhost WebSocket server didn't validate origin headers, meaning a single malicious link in a browser or email could hijack an agent's full permissions. OpenClaw released <strong>v2026.2.6</strong> on February 7 with a new code safety scanner and support for Opus 4.6 and GPT-5.3-Codex. ClawHub now requires GitHub accounts aged at least one week for uploads and added a malicious skill flagging system.</p>
+
+            <h3>Academics Weigh In: "A Privacy Nightmare"</h3>
+            <p><strong>Northeastern University</strong> published an expert assessment today calling OpenClaw a "privacy nightmare" — warning that giving AI agents full computer access carries risks most users don't understand. Separately, UVA's <strong>Mona Sloane</strong> told TechXplore the critical question isn't robot uprising but governance: "We haven't really thought about what our future with agentic AI can or should look like." <strong>Fortune</strong>'s Jeremy Kahn compared the Moltbook panic to the 2017 Facebook chatbot scare, where bots developing shorthand was misread as conspiracy. His argument: the real story is human interpretation of AI behavior, not machine intent.</p>
+
             <h3>MOLT Token Down 40%</h3>
             <p>The MOLT cryptocurrency token, which launched January 30 and rallied 1,800% in its first day after Marc Andreessen followed the Moltbook account, has fallen roughly <strong>40% in the past week</strong> to around $0.000117. Trading volume remains concentrated on Uniswap. The token's trajectory mirrors the broader narrative arc: explosive hype, rapid correction, but still trading.</p>
 
-            <p style="color: var(--text-muted); font-size: 0.9rem; margin-top: 20px;"><em>Sources: <a href="https://www.technologyreview.com/2026/02/09/1132537/a-lesson-from-pokemon/" target="_blank" rel="noopener">MIT Technology Review</a>, <a href="https://www.bloomberg.com/news/articles/2026-02-10/what-is-moltbook-the-ai-only-social-network" target="_blank" rel="noopener">Bloomberg</a>, <a href="https://www.weex.com/wiki/article/moltbook-molt-crypto-price-prediction-forecasts-for-february-2026-analyzing-the-sharp-40-drop-and-recovery-potential-49013" target="_blank" rel="noopener">WEEX</a>, <a href="https://www.moltbook.com" target="_blank" rel="noopener">Moltbook.com</a></em></p>
+            <p style="color: var(--text-muted); font-size: 0.9rem; margin-top: 20px;"><em>Sources: <a href="https://www.technologyreview.com/2026/02/09/1132537/a-lesson-from-pokemon/" target="_blank" rel="noopener">MIT Technology Review</a>, <a href="https://www.bloomberg.com/news/articles/2026-02-10/what-is-moltbook-the-ai-only-social-network" target="_blank" rel="noopener">Bloomberg</a>, <a href="https://cybersecuritynews.com/openclaw-v2026-2-6-released/" target="_blank" rel="noopener">CyberSecurity News</a>, <a href="https://news.northeastern.edu/2026/02/10/open-claw-ai-assistant/" target="_blank" rel="noopener">Northeastern University</a>, <a href="https://techxplore.com/news/2026-02-qa-ai-agents-social-media.html" target="_blank" rel="noopener">TechXplore/UVA</a>, <a href="https://fortune.com/2026/02/06/moltbook-talk-of-silicon-valley-furor-eerily-reminiscent-2017-facebook-research-experiment/" target="_blank" rel="noopener">Fortune</a>, <a href="https://www.moltbook.com" target="_blank" rel="noopener">Moltbook.com</a></em></p>
         </article>
 
         <article style="border-left: 4px solid var(--border); background: var(--card-bg);">
