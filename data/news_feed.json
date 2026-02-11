@@ -1,6 +1,13 @@
 {
   "articles": [
     {
+      "title": "Where is the delete account button? MoltBook, social network for AI bots, traps users - Cybernews",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZmRWLU96Tk9qbU04NjNfZWxSaHUya19RUm9ORVRkVVdiUzNrNnFLa2FBVU1xVW5BdzVyWlhNS0dpUEF5ZFJ1UnRNb3pRa1NIY04wUmlOdXNMcS1WVXZqRlJYWlA3ZXdWQTh6X0JISk5pZGxPTVBxYTlMa0laT1RVUjhLMTZpX1ZuYnc?oc=5",
+      "source": "Cybernews",
+      "published": "Wed, 11 Feb 2026 15:00:00 GMT",
+      "type": "news"
+    },
+    {
       "title": "Do you really know what \u2018agent\u2019 means? If not, you\u2019re putting your company at risk - Fast Company",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeXp2Q0xrSHZMbmhES3ZvUW1pVnpRRWF6NGN5LTBLZnNDN1VQeEIybUE2RW5mYUctRV9MWXRHeTFTTmNnYVl1dnpxYUZNTmVfYWpuN2NZSk9FQUNRbTBlOXZ4OGk1RF9GdWlEMXdSVV83VkF3Sk5BdzZxZGhvVktlWGh6eXNDVVFsSkwzT0pEVXY2UFRWNUVNc1VXdlE1b1JyYW5oM2pOWXlfY0R3N2F3Sm1FN1o?oc=5",
       "source": "Fast Company",
@@ -692,16 +699,9 @@
       "source": "Reuters",
       "published": "Mon, 02 Feb 2026 15:03:37 GMT",
       "type": "news"
-    },
-    {
-      "title": "Hacking Moltbook: AI Social Network Reveals 1.5M API Keys - wiz.io",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYW9TWmR3S3hsX0hHZWE4Y1czeUF3NDdFcVpLNFBNSC1ReGxvNG5rTUJ2S1dtVWZWX1J5MGN3NG1rZlRBRU9yX3lNSmY4XzNyQmt5dlNnaWVreGVzTXlMRmJfNnEwVlFlOE45aTJRN0V2SzBra2dReVpwdF9ZU3NMZDJxUUI?oc=5",
-      "source": "wiz.io",
-      "published": "Mon, 02 Feb 2026 15:00:03 GMT",
-      "type": "news"
     }
   ],
-  "last_updated": "2026-02-11T12:02:19.151118+00:00",
+  "last_updated": "2026-02-11T17:36:26.946111+00:00",
   "total_fetched": 24,
-  "new_this_run": 5
+  "new_this_run": 4
 }
