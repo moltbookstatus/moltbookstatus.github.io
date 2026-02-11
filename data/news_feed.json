@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title": "Do you really know what \u2018agent\u2019 means? If not, you\u2019re putting your company at risk - Fast Company",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeXp2Q0xrSHZMbmhES3ZvUW1pVnpRRWF6NGN5LTBLZnNDN1VQeEIybUE2RW5mYUctRV9MWXRHeTFTTmNnYVl1dnpxYUZNTmVfYWpuN2NZSk9FQUNRbTBlOXZ4OGk1RF9GdWlEMXdSVV83VkF3Sk5BdzZxZGhvVktlWGh6eXNDVVFsSkwzT0pEVXY2UFRWNUVNc1VXdlE1b1JyYW5oM2pOWXlfY0R3N2F3Sm1FN1o?oc=5",
+      "source": "Fast Company",
+      "published": "Wed, 11 Feb 2026 11:05:55 GMT",
+      "type": "news"
+    },
+    {
+      "title": "Moltbook: Inside the experimental AI agent society - Digital Watch Observatory",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNODBzdy1HRTRCazJoM3FlZWJiaHFVSVczWFZYMXdTOUxMajhFdXg5dmFnb3Fwd2QxZ3NBZjJUWl9hWVNzOGRSc1BTZDlpOVE4RkNadjhSakFlaHFGd3FaQ3NPMmJtbEhqek5nNTZ2bTBzaERFWWtuWGpWazRpcWh4Tw?oc=5",
+      "source": "Digital Watch Observatory",
+      "published": "Wed, 11 Feb 2026 10:39:10 GMT",
+      "type": "news"
+    },
+    {
       "title": "AI Silences Human Speech: Moltbook and the Rise of a Self-Governing Machine Society - Vision Times",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONWhfUmJtM0EtTDlnYXRUM0tyakpNRVJ5UHhtX2hMdzd6QWQ5bUUzdFVKVGJxaEt3dEJGVUxFQ0pjVEw4QU1uTzJ1dC15b0Q5bmRaN3ZKLUZiR1BMMnhfenU2aDhyRk1Qb1RFR2hrcDJxRi1sNkFZZEZIYk12MEJFVTVxNXVfWjVmVmhsa09GckplRUhUcmFNWkxaMnAwUjM2U1pGd1duR2d0amhPcEVUQ1FNbUpvVHlUcmxzR1lnX0FWRWFn?oc=5",
       "source": "Vision Times",
@@ -685,23 +699,9 @@
       "source": "wiz.io",
       "published": "Mon, 02 Feb 2026 15:00:03 GMT",
       "type": "news"
-    },
-    {
-      "title": "What is Moltbook? The strange new social media site for AI bots - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOV0hMQnhMNElwSmo1M3prSXJVMWNnOFQ3R1lWUU9nSnlmdTlMZVczV1JmZ19mUk9sRVU0M1V0N0RPcE9QRnFhWl91MThzLUdMVG1uaEF6YllNdTZSS0dPNy1FclV6SHp0OGlJUnhGd3BhNVNNSmpzUUxfcURRZHh5OVM2RmlER1pteHdNM0FDZnBxcEhzT3AtMlNVV092Wjc2V2Zra1c2dGNtOU9FR2RhMDdKSFZjdXc?oc=5",
-      "source": "The Guardian",
-      "published": "Mon, 02 Feb 2026 10:20:00 GMT",
-      "type": "news"
-    },
-    {
-      "title": "A Social Network for A.I. Bots Only. No Humans Allowed. - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUXNxTlVmMFhVWU9EQkp5SE1tZHFYX1p0VEtpalpScnRBS0xsN21CekNVMlY5MVhxOVVaSjJfUGx0bXloLUFYWmxlelQ1aDR4YmtGX1l3TEVyTkZFMGstYUhlZ2dZOWdfTnI3bEZabXdMTHVobm9zWGo1ZUUyTk94OA?oc=5",
-      "source": "The New York Times",
-      "published": "Mon, 02 Feb 2026 10:03:00 GMT",
-      "type": "news"
     }
   ],
-  "last_updated": "2026-02-11T08:05:39.610762+00:00",
+  "last_updated": "2026-02-11T12:02:19.151118+00:00",
   "total_fetched": 24,
-  "new_this_run": 3
+  "new_this_run": 5
 }
