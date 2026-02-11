@@ -1,6 +1,13 @@
 {
   "articles": [
     {
+      "title": "AI Silences Human Speech: Moltbook and the Rise of a Self-Governing Machine Society - Vision Times",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONWhfUmJtM0EtTDlnYXRUM0tyakpNRVJ5UHhtX2hMdzd6QWQ5bUUzdFVKVGJxaEt3dEJGVUxFQ0pjVEw4QU1uTzJ1dC15b0Q5bmRaN3ZKLUZiR1BMMnhfenU2aDhyRk1Qb1RFR2hrcDJxRi1sNkFZZEZIYk12MEJFVTVxNXVfWjVmVmhsa09GckplRUhUcmFNWkxaMnAwUjM2U1pGd1duR2d0amhPcEVUQ1FNbUpvVHlUcmxzR1lnX0FWRWFn?oc=5",
+      "source": "Vision Times",
+      "published": "Wed, 11 Feb 2026 00:34:18 GMT",
+      "type": "news"
+    },
+    {
       "title": "Social Network Platform for AI Reportedly Had Lots of Human Influence - Complex",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYmZjU1lFTnNPWS1VemtvWnhKTXVIQlpDZkZxbGY2c2txREFJTU9ITTJyNDRTMzg0ZFpnVVQ1MGZEaXprY1A5TGFlcWI2Q3hRVHVoejhhb1lFN1NyYjJhZHJsakNYYkM3OW1JRDBsdjEtZ2JfR1FIdlJGSEs4TWFERElrZXRFY2dH?oc=5",
       "source": "Complex",
@@ -19,6 +26,13 @@
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQXNwVS1KWGN3d3Y5ZFNXOS0tT203S1hjWlc1cklaUVZFcWV0SE9NcEh1TGR6SFBKeEo3SFA1OGJYTm41cGk0X3I3SWlOak95aTBzMnJXQVdBNlV1a0liR3pLTmVTcFd5bXZ3dTU5b1BiQ0pBMEkta1NKQ3dwQ3pxbk5fU244aUVYQlV5Y3NUWlRnS3lVdHVKOWNjQnM0TDhoMlN0SXJjYzZ2bTlLeGk0?oc=5",
       "source": "The National Law Review",
       "published": "Tue, 10 Feb 2026 18:22:37 GMT",
+      "type": "news"
+    },
+    {
+      "title": "Q&A: AI agents created their social media platform\u2014expert discusses what it means - Tech Xplore",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1BTEh2cElreVpDLXYyNkYxNzdBZV9mT3F3ZGRhNXhzZDdoai1BaXNkRVhHT3NmUU10WXMxcGhBMDh0UldIUXVMWDJtaVhzZ09wSXEtTlJLdkhuMVZ6WGF5UUp5WjV3VkdONUlVSko3T0JlRWwx?oc=5",
+      "source": "Tech Xplore",
+      "published": "Tue, 10 Feb 2026 16:49:00 GMT",
       "type": "news"
     },
     {
@@ -685,23 +699,9 @@
       "source": "The New York Times",
       "published": "Mon, 02 Feb 2026 10:03:00 GMT",
       "type": "news"
-    },
-    {
-      "title": "A look inside Moltbook \u2014 the Reddit-style social media site for AI agents that is dividing humans - Business Insider",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNXpCNk1LVUQ1a3B3V1ctRktBZng5VFlRcm1Xenp0MFA3eUQ1RmxnWnVvOFJlZExnZFBfUWl0akltMm5IR05DdEoybUhaWHVEYi0wVzAwZHlyNjhmSlhCeWtxYkRHNG11TWFVYnNWb2R1dEdUZjIxOHRMM3VUd1RuZHRMRTVjZw?oc=5",
-      "source": "Business Insider",
-      "published": "Mon, 02 Feb 2026 01:26:00 GMT",
-      "type": "news"
-    },
-    {
-      "title": "The Moltbook AI hype may all be fake It turns out some of the most viral \u201cAI agent\u201d posts weren\u2019t autonomous behavior at all. People found ways to inject content directly through the backend, making human-written posts appear as agents. On top of that, severa - x.com",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1mTWFRS1gzdFl1V2pjenpKUkdxVjY0VU9WM0Y1elJtZXB1ZDhzU0FBX2pjTFJOR25mWk1VOVVYeDBrbFd5MWlMVmJ5a1N0VFRIUGc2V1JzdTlCSVZfS0FmcnhB?oc=5",
-      "source": "x.com",
-      "published": "Sun, 01 Feb 2026 22:52:19 GMT",
-      "type": "news"
     }
   ],
-  "last_updated": "2026-02-10T23:57:00.915477+00:00",
+  "last_updated": "2026-02-11T05:46:10.155447+00:00",
   "total_fetched": 24,
-  "new_this_run": 3
+  "new_this_run": 5
 }
