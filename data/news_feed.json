@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title": "Moltbook Showed Us the Future of Enterprise AI Risk. Most Companies Aren\u2019t Ready. - The AI Journal",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOS012X09ZSXFEcVhLN0lzLXJCUEtIMllVanVIbHhNUUFpcDBoaUF2Q3dZcDltcnVLMVU1RXdDYWZUT28wQU1Uc010WU8xekNNSTFBaXpDeHJhcXVSR0dIRFA1UXdEYzdBdGVZbUZPRkZIbjNJcElvX1ZneHpuQ3hlS21YRGNsT0N5cS1aTWVBVy11SDdfblU1RGV4NHFubzhx?oc=5",
+      "source": "The AI Journal",
+      "published": "Wed, 11 Feb 2026 22:01:36 GMT",
+      "type": "news"
+    },
+    {
+      "title": "Moltbook Explained: The Viral AI-Only Social Network - Built In",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5wYkdmV2cxc1JyNXh5VGhBV0tkY0pqazZpWFJua0llN2NMUGVJbExhUGNnbXUwYnBNRUlMTllpaTNaS2xzTmRWWnh1MVc1bjBWVFNjTjQ3UXA4NUpBTmxDM05EcV8?oc=5",
+      "source": "Built In",
+      "published": "Wed, 11 Feb 2026 20:39:46 GMT",
+      "type": "news"
+    },
+    {
       "title": "Where is the delete account button? MoltBook, social network for AI bots, traps users - Cybernews",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZmRWLU96Tk9qbU04NjNfZWxSaHUya19RUm9ORVRkVVdiUzNrNnFLa2FBVU1xVW5BdzVyWlhNS0dpUEF5ZFJ1UnRNb3pRa1NIY04wUmlOdXNMcS1WVXZqRlJYWlA3ZXdWQTh6X0JISk5pZGxPTVBxYTlMa0laT1RVUjhLMTZpX1ZuYnc?oc=5",
       "source": "Cybernews",
@@ -685,23 +699,9 @@
       "source": "CNBC",
       "published": "Mon, 02 Feb 2026 16:16:40 GMT",
       "type": "news"
-    },
-    {
-      "title": "Elon Musk warns a new social network where AI agents talk to one another is the beginning of \u2018the singularity\u2019 - Fortune",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTDFDNmNGdGFmQkVTZUVBRGxMbVpVcFlYSERXNTBoVV8yYkI0T0hzekU4NWJlN0Z3dGpDQWJVTUdhSVZCS1lkQ3ZXbGdBTXEzNzdpcm41a09VVWY5N1R1TEcweHN4V0p6LVZDZDVLZjlBWjRyZ2tlaUdDZGpkZnV3T1NvYVpONmNNRDNDSU5KR2p3MGdRNFVVNGlCU3dvOEJiSlNUN1JYaGhFdlE?oc=5",
-      "source": "Fortune",
-      "published": "Mon, 02 Feb 2026 15:52:00 GMT",
-      "type": "news"
-    },
-    {
-      "title": "'Moltbook' social media site for AI agents had big security hole, cyber firm Wiz says - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPX1F3bUtyTDBZYlVjY1l5YnBuR2J1aC1oU2N5YzhqYVpJSkdRU0sxMk5HUjMxalI1Ukc5M2liZ25weEpDOGdXOElPZHVoS215clJod2VlcnlBd1RzTW1CcGY3V2xtVWFtSFh6MTlHa1Z6VjNBZkFVT3MyTVBlMmtFSGVUX1gzS3FmZHpLcXp5SUFzT3hKa05pWmN0M29jZmRiNHpUb0JFSkdGZWtSdXIyaGJzdzV3MEZlQkVyU0JEQk5iTmV5aTlGM3p3dw?oc=5",
-      "source": "Reuters",
-      "published": "Mon, 02 Feb 2026 15:03:37 GMT",
-      "type": "news"
     }
   ],
-  "last_updated": "2026-02-11T20:01:19.194946+00:00",
+  "last_updated": "2026-02-11T23:04:28.622124+00:00",
   "total_fetched": 24,
-  "new_this_run": 4
+  "new_this_run": 7
 }
