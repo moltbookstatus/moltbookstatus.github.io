@@ -1,6 +1,13 @@
 {
   "articles": [
     {
+      "title": "AI or human? Question rise over who\u2019s posting on social site Moltbook - Euronews.com",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQzVESEtyRDMxd0EzM1UyOU1IWUg1U3RlaEc4RnZmSS1yY0hEQ3c5dHhCbC15WXFKTUJDVllyYzF1Vm0yWmtYU0FOaE15ZG9wTXA0ZlRMSGYzT21iRF9zNUdubF9RbWRMRnF0SXJFMkw4MC1PTlVBd3E5WWJLbEk5OVMyVzA0WUVjOEsxNExjckttY0JsVzdNc0lQSXYxeThQcE1NRGVScnZTN3FJWGI5NzFDNWx0LS1tSE16NnlTdng?oc=5",
+      "source": "Euronews.com",
+      "published": "Thu, 12 Feb 2026 14:38:03 GMT",
+      "type": "news"
+    },
+    {
       "title": "Moltbook Showed Us the Future of Enterprise AI Risk. Most Companies Aren\u2019t Ready. - The AI Journal",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOS012X09ZSXFEcVhLN0lzLXJCUEtIMllVanVIbHhNUUFpcDBoaUF2Q3dZcDltcnVLMVU1RXdDYWZUT28wQU1Uc010WU8xekNNSTFBaXpDeHJhcXVSR0dIRFA1UXdEYzdBdGVZbUZPRkZIbjNJcElvX1ZneHpuQ3hlS21YRGNsT0N5cS1aTWVBVy11SDdfblU1RGV4NHFubzhx?oc=5",
       "source": "The AI Journal",
@@ -26,6 +33,13 @@
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZmRWLU96Tk9qbU04NjNfZWxSaHUya19RUm9ORVRkVVdiUzNrNnFLa2FBVU1xVW5BdzVyWlhNS0dpUEF5ZFJ1UnRNb3pRa1NIY04wUmlOdXNMcS1WVXZqRlJYWlA3ZXdWQTh6X0JISk5pZGxPTVBxYTlMa0laT1RVUjhLMTZpX1ZuYnc?oc=5",
       "source": "Cybernews",
       "published": "Wed, 11 Feb 2026 15:00:00 GMT",
+      "type": "news"
+    },
+    {
+      "title": "The First Social Network for AI Agents Heralds Their Messy Future - IEEE Spectrum",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE44eHByTHo4enBqTVlxUHlTcEdqZHllc2NkNDBhd2d5OHU2MzQwcURKM0RMVTI3dG10bVpyMzJyQkJtdWEtdUFVWFRUTWhXZ0ZqT2FMeFJ3U2VPd1FkMGxhNXpSWGRWV0NSckVDLWtR0gGCAUFVX3lxTE9iSFlwaGRUS0tBM2RPaVVVdmJxcmVUR0V3RmNETnpYc3BYalRyT09QOGE3Vmc4dXhDeFVjMzJxUElPbEJGY1ppSTFFYlBOLW1aNXBMdGpyVmxEZGlIczI3M2ZTRFFXVWQ3ZUZweFI1aS1aNkVTUk5SRXBEMnhyaTJyeHc?oc=5",
+      "source": "IEEE Spectrum",
+      "published": "Wed, 11 Feb 2026 13:08:47 GMT",
       "type": "news"
     },
     {
@@ -685,23 +699,9 @@
       "source": "Business Insider",
       "published": "Mon, 02 Feb 2026 22:14:00 GMT",
       "type": "news"
-    },
-    {
-      "title": "Meet Matt Schlicht, the man behind AI\u2019s latest Pandora\u2019s box\u2014a social network where AI agents talk to one another - Fortune",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObjVZUVpnbXRKX3VHU1Z1eDVWREZ2SkFuZlNuRGY1V3p3T0h5YlNBMlM0TmZuUlNsSmo5TFlHMFVzU1dnNVhncTJKUXdCMTlrT1Q3MkpjU1dwdWd5QkR6dEZBRWg5eEF3dUVwcmw0VnMwY19MVzBGVHllclh1VTA2Y05MYlcyOXVkY1BFY1JrYm9mNGZGX1luMU1lTnd4SEQxdUViSml4Qkg4Y1dOSDNpZ0p2Q05TMk0?oc=5",
-      "source": "Fortune",
-      "published": "Mon, 02 Feb 2026 20:27:00 GMT",
-      "type": "news"
-    },
-    {
-      "title": "Top AI leaders are begging people not to use Moltbook: It\u2019s a \u2018disaster waiting to happen\u2019 - Fortune",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOU2FxcVJpTGJwMUdkekE3SDQ3MU44U01kcS10Sk41a241bGZuUzhrNkFWRWllVkM1c25jVHI4NXFqVU9XUDM0NjcxS0tFRHI3cTg2ZkZPb2cteTdIaE8wN0Z0NzE1U0hPd3M3MkpCTnh1U09oQWpCNzctbjZqMTZpcnRITzRjN21nc09hSldCOENzRTl6OU5DQzVGMXIxUFRYNHN3ZEp4Rno?oc=5",
-      "source": "Fortune",
-      "published": "Mon, 02 Feb 2026 18:27:00 GMT",
-      "type": "news"
     }
   ],
-  "last_updated": "2026-02-12T11:58:25.345040+00:00",
+  "last_updated": "2026-02-12T15:08:41.879979+00:00",
   "total_fetched": 24,
-  "new_this_run": 7
+  "new_this_run": 9
 }
