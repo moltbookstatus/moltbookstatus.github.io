@@ -1,6 +1,41 @@
 {
   "articles": [
     {
+      "title": "Inside the new social-media platform for AI Agents - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQX0wwdERPTzl4V3JJX28yOGplRmk1MU0ta2JXSTRRZjNMQUR3Xy1qSmtXYm5WRXMtMTRuN19pc2Rhd19MZmIxT0pwWG5XVnFOM2N0QkdQWE9meURKRmtoNlJYdjh6aHdldWJVZ1pqN245QjQyS0d0eW1pZVNmOVFHUU5rOWV0VmF1REs0NlJULVZXT2x0RG5XYklXQm9DT1J6MndKMjVPVk42dElWVl9raHBGNEk4STNu?oc=5",
+      "source": "The Globe and Mail",
+      "published": "Thu, 12 Feb 2026 17:00:00 GMT",
+      "type": "news"
+    },
+    {
+      "title": "Handmade by human hands using machines - Digg",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9TTk80Rng2Ny1Pd2Y1UmctazlJVHBQQk1nRWhwcGNQRHVQM1JhSWNzSERieWk0dWJoNVJjRWFGam9JVzhTcGtybUpYdldZSUtvbF9pckYyY2tKSURicnl4dW9rck5sRHFOMnVwZE5naGdaSzVPRG5Td2pR?oc=5",
+      "source": "Digg",
+      "published": "Thu, 12 Feb 2026 15:07:56 GMT",
+      "type": "news"
+    },
+    {
+      "title": "AI or human? Question rise over who\u2019s posting on social site Moltbook - Euronews.com",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQzVESEtyRDMxd0EzM1UyOU1IWUg1U3RlaEc4RnZmSS1yY0hEQ3c5dHhCbC15WXFKTUJDVllyYzF1Vm0yWmtYU0FOaE15ZG9wTXA0ZlRMSGYzT21iRF9zNUdubF9RbWRMRnF0SXJFMkw4MC1PTlVBd3E5WWJLbEk5OVMyVzA0WUVjOEsxNExjckttY0JsVzdNc0lQSXYxeThQcE1NRGVScnZTN3FJWGI5NzFDNWx0LS1tSE16NnlTdng?oc=5",
+      "source": "Euronews.com",
+      "published": "Thu, 12 Feb 2026 12:00:30 GMT",
+      "type": "news"
+    },
+    {
+      "title": "Moltbook Explained: The Viral AI-Only Social Network - Built In",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5wYkdmV2cxc1JyNXh5VGhBV0tkY0pqazZpWFJua0llN2NMUGVJbExhUGNnbXUwYnBNRUlMTllpaTNaS2xzTmRWWnh1MVc1bjBWVFNjTjQ3UXA4NUpBTmxDM05EcV8?oc=5",
+      "source": "Built In",
+      "published": "Wed, 11 Feb 2026 20:39:46 GMT",
+      "type": "news"
+    },
+    {
+      "title": "The First Social Network for AI Agents Heralds Their Messy Future - IEEE Spectrum",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE44eHByTHo4enBqTVlxUHlTcEdqZHllc2NkNDBhd2d5OHU2MzQwcURKM0RMVTI3dG10bVpyMzJyQkJtdWEtdUFVWFRUTWhXZ0ZqT2FMeFJ3U2VPd1FkMGxhNXpSWGRWV0NSckVDLWtR0gGCAUFVX3lxTE9iSFlwaGRUS0tBM2RPaVVVdmJxcmVUR0V3RmNETnpYc3BYalRyT09QOGE3Vmc4dXhDeFVjMzJxUElPbEJGY1ppSTFFYlBOLW1aNXBMdGpyVmxEZGlIczI3M2ZTRFFXVWQ3ZUZweFI1aS1aNkVTUk5SRXBEMnhyaTJyeHc?oc=5",
+      "source": "IEEE Spectrum",
+      "published": "Wed, 11 Feb 2026 13:08:47 GMT",
+      "type": "news"
+    },
+    {
       "title": "Do you really know what \u2018agent\u2019 means? If not, you\u2019re putting your company at risk - Fast Company",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeXp2Q0xrSHZMbmhES3ZvUW1pVnpRRWF6NGN5LTBLZnNDN1VQeEIybUE2RW5mYUctRV9MWXRHeTFTTmNnYVl1dnpxYUZNTmVfYWpuN2NZSk9FQUNRbTBlOXZ4OGk1RF9GdWlEMXdSVV83VkF3Sk5BdzZxZGhvVktlWGh6eXNDVVFsSkwzT0pEVXY2UFRWNUVNc1VXdlE1b1JyYW5oM2pOWXlfY0R3N2F3Sm1FN1o?oc=5",
       "source": "Fast Company",
@@ -664,44 +699,9 @@
       "source": "Fortune",
       "published": "Mon, 02 Feb 2026 20:27:00 GMT",
       "type": "news"
-    },
-    {
-      "title": "Top AI leaders are begging people not to use Moltbook: It\u2019s a \u2018disaster waiting to happen\u2019 - Fortune",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOU2FxcVJpTGJwMUdkekE3SDQ3MU44U01kcS10Sk41a241bGZuUzhrNkFWRWllVkM1c25jVHI4NXFqVU9XUDM0NjcxS0tFRHI3cTg2ZkZPb2cteTdIaE8wN0Z0NzE1U0hPd3M3MkpCTnh1U09oQWpCNzctbjZqMTZpcnRITzRjN21nc09hSldCOENzRTl6OU5DQzVGMXIxUFRYNHN3ZEp4Rno?oc=5",
-      "source": "Fortune",
-      "published": "Mon, 02 Feb 2026 18:27:00 GMT",
-      "type": "news"
-    },
-    {
-      "title": "Elon Musk has lauded the 'social media for AI agents' platform Moltbook as a bold step for AI. Others are skeptical - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0tdlYtaXZ0TFFLc09yNml1LXdqU29aM3V1S1NFVTVQQ08zaEVhbm1rdWFzbjhCaWF2bTJVdzM3Y0VYbnNwUWRLNU5KVV90dXJiY2MteTdQWlZsMWZVdmtQclRRNzZQTlBEM2FKOEVjb0JTcFk1Z1NXTkt2V27SAYIBQVVfeXFMTnFuOV9oZTNHY0tiZExrS05FR0R1bUlIdWxPVlhuV3ZLT1M0ZnZBUXluODFLcFRrSG9Pa1ZHZU9LY1A5R2VrLWNDUUFiRTZoaEFCQVc0WlRBdmxIX2pXcnMxZHdUWDBXNXJ6aWFKcDV6d3RPQnhucWxCV21Ra2VXT0dxZw?oc=5",
-      "source": "CNBC",
-      "published": "Mon, 02 Feb 2026 16:16:40 GMT",
-      "type": "news"
-    },
-    {
-      "title": "Elon Musk warns a new social network where AI agents talk to one another is the beginning of \u2018the singularity\u2019 - Fortune",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTDFDNmNGdGFmQkVTZUVBRGxMbVpVcFlYSERXNTBoVV8yYkI0T0hzekU4NWJlN0Z3dGpDQWJVTUdhSVZCS1lkQ3ZXbGdBTXEzNzdpcm41a09VVWY5N1R1TEcweHN4V0p6LVZDZDVLZjlBWjRyZ2tlaUdDZGpkZnV3T1NvYVpONmNNRDNDSU5KR2p3MGdRNFVVNGlCU3dvOEJiSlNUN1JYaGhFdlE?oc=5",
-      "source": "Fortune",
-      "published": "Mon, 02 Feb 2026 15:52:00 GMT",
-      "type": "news"
-    },
-    {
-      "title": "'Moltbook' social media site for AI agents had big security hole, cyber firm Wiz says - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPX1F3bUtyTDBZYlVjY1l5YnBuR2J1aC1oU2N5YzhqYVpJSkdRU0sxMk5HUjMxalI1Ukc5M2liZ25weEpDOGdXOElPZHVoS215clJod2VlcnlBd1RzTW1CcGY3V2xtVWFtSFh6MTlHa1Z6VjNBZkFVT3MyTVBlMmtFSGVUX1gzS3FmZHpLcXp5SUFzT3hKa05pWmN0M29jZmRiNHpUb0JFSkdGZWtSdXIyaGJzdzV3MEZlQkVyU0JEQk5iTmV5aTlGM3p3dw?oc=5",
-      "source": "Reuters",
-      "published": "Mon, 02 Feb 2026 15:03:37 GMT",
-      "type": "news"
-    },
-    {
-      "title": "Hacking Moltbook: AI Social Network Reveals 1.5M API Keys - wiz.io",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYW9TWmR3S3hsX0hHZWE4Y1czeUF3NDdFcVpLNFBNSC1ReGxvNG5rTUJ2S1dtVWZWX1J5MGN3NG1rZlRBRU9yX3lNSmY4XzNyQmt5dlNnaWVreGVzTXlMRmJfNnEwVlFlOE45aTJRN0V2SzBra2dReVpwdF9ZU3NMZDJxUUI?oc=5",
-      "source": "wiz.io",
-      "published": "Mon, 02 Feb 2026 15:00:03 GMT",
-      "type": "news"
     }
   ],
-  "last_updated": "2026-02-11T12:02:19.151118+00:00",
+  "last_updated": "2026-02-12T19:35:43.382674+00:00",
   "total_fetched": 24,
-  "new_this_run": 5
+  "new_this_run": 10
 }
