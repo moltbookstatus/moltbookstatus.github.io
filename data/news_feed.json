@@ -1,6 +1,13 @@
 {
   "articles": [
     {
+      "title": "Humanity's Pattern of Delayed Harm Intervention Is The Threat, Not AI.",
+      "link": "https://www.reddit.com/r/artificial/comments/1r3dja8/humanitys_pattern_of_delayed_harm_intervention_is/",
+      "source": "Reddit",
+      "published": "2026-02-13T02:47:17+00:00",
+      "type": "reddit"
+    },
+    {
       "title": "Inside the new social-media platform for AI Agents - The Globe and Mail",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQX0wwdERPTzl4V3JJX28yOGplRmk1MU0ta2JXSTRRZjNMQUR3Xy1qSmtXYm5WRXMtMTRuN19pc2Rhd19MZmIxT0pwWG5XVnFOM2N0QkdQWE9meURKRmtoNlJYdjh6aHdldWJVZ1pqN245QjQyS0d0eW1pZVNmOVFHUU5rOWV0VmF1REs0NlJULVZXT2x0RG5XYklXQm9DT1J6MndKMjVPVk42dElWVl9raHBGNEk4STNu?oc=5",
       "source": "The Globe and Mail",
@@ -692,16 +699,9 @@
       "source": "Business Insider",
       "published": "Mon, 02 Feb 2026 22:14:00 GMT",
       "type": "news"
-    },
-    {
-      "title": "Meet Matt Schlicht, the man behind AI\u2019s latest Pandora\u2019s box\u2014a social network where AI agents talk to one another - Fortune",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObjVZUVpnbXRKX3VHU1Z1eDVWREZ2SkFuZlNuRGY1V3p3T0h5YlNBMlM0TmZuUlNsSmo5TFlHMFVzU1dnNVhncTJKUXdCMTlrT1Q3MkpjU1dwdWd5QkR6dEZBRWg5eEF3dUVwcmw0VnMwY19MVzBGVHllclh1VTA2Y05MYlcyOXVkY1BFY1JrYm9mNGZGX1luMU1lTnd4SEQxdUViSml4Qkg4Y1dOSDNpZ0p2Q05TMk0?oc=5",
-      "source": "Fortune",
-      "published": "Mon, 02 Feb 2026 20:27:00 GMT",
-      "type": "news"
     }
   ],
-  "last_updated": "2026-02-12T23:01:23.813054+00:00",
-  "total_fetched": 24,
-  "new_this_run": 7
+  "last_updated": "2026-02-13T05:14:19.845831+00:00",
+  "total_fetched": 25,
+  "new_this_run": 8
 }
