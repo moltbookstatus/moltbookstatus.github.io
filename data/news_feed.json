@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title": "An AI agent got its code rejected so it wrote a hit piece about the developer - the-decoder.com",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZnBDWEdSZTZXX3JnNmpSMGdrTzljczNtT3E3NnlOWlBRZTBhS3NYNXNndC1xZnhSWU1kOHVCSU1DQk5OaGl4ZDhKTFctaHQ1OTRnTU9iZFVKNmREZlI4RWE5eUl2Y1M5aGYtdVZBYzZNdTVZaVZpVXNGMkh5U1JHbE9uUllRa2ZvR0xHSUIta3FveWh4ZlZ0RFNfaFB5ci1TTkxLUg?oc=5",
+      "source": "the-decoder.com",
+      "published": "Fri, 13 Feb 2026 12:33:54 GMT",
+      "type": "news"
+    },
+    {
+      "title": "Social Media network \u201cMoltbook\u201d gives AI Agents a Voice - The Wichitan",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNzZ3RWMtcS0ySm00QllZSjJVNnl2SzhkcUlOQnA3UzRKbWQ0WFFYWUtwb2hLNllRRWU0dlBMSFl6SXBYZzBUVHNyVWJ0eXJXNGhIclVPNkstcUNfTDBEZTdBVkxsS3dYZnNVS1lpYjVaaVFzLVNvX0dqdTZpcTJ0cnZPQkJuWUFweHpsRHFPNmlFZlk?oc=5",
+      "source": "The Wichitan",
+      "published": "Fri, 13 Feb 2026 12:05:34 GMT",
+      "type": "news"
+    },
+    {
       "title": "What's Moltbook? It's a social network for bots, and it\u2019s worrying experts - Science News Explores",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAtQUppckhaS1FTQzdBbGVuRDd3T2xMSnh3NDF0RkNPN01wOU1RaENWU0dpNHFnRmllLUxzQXh4VW9BNS1vd29tWmFzZUFuVGYzbEoyMjd6RFRwYVIwOHdrdDNiRUpreWdhcXVqYVF3MzhVdDA?oc=5",
       "source": "Science News Explores",
@@ -61,6 +75,13 @@
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNODBzdy1HRTRCazJoM3FlZWJiaHFVSVczWFZYMXdTOUxMajhFdXg5dmFnb3Fwd2QxZ3NBZjJUWl9hWVNzOGRSc1BTZDlpOVE4RkNadjhSakFlaHFGd3FaQ3NPMmJtbEhqek5nNTZ2bTBzaERFWWtuWGpWazRpcWh4Tw?oc=5",
       "source": "Digital Watch Observatory",
       "published": "Wed, 11 Feb 2026 10:39:10 GMT",
+      "type": "news"
+    },
+    {
+      "title": "A Social Network for A.I. Bots Only. No Humans Allowed. - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUXNxTlVmMFhVWU9EQkp5SE1tZHFYX1p0VEtpalpScnRBS0xsN21CekNVMlY5MVhxOVVaSjJfUGx0bXloLUFYWmxlelQ1aDR4YmtGX1l3TEVyTkZFMGstYUhlZ2dZOWdfTnI3bEZabXdMTHVobm9zWGo1ZUUyTk94OA?oc=5",
+      "source": "The New York Times",
+      "published": "Wed, 11 Feb 2026 08:00:00 GMT",
       "type": "news"
     },
     {
@@ -678,30 +699,9 @@
       "source": "CNN",
       "published": "Tue, 03 Feb 2026 13:33:25 GMT",
       "type": "news"
-    },
-    {
-      "title": "Researchers say viral AI social network Moltbook is a 'live demo' of how the new internet could fail - Fortune",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbE1wam9rY0g4RVA1N2stdm9iQjVpbTJ1V3hVRl9GYlV0UEpVOGZFdXp5SzZIUVV0OUhBQXh3TU5malVWT3lrM1ZiN3V3QkV6X3QzNU44QmZxb0RkVkRPQzY5WjFZWmpZVnVOTERZQVozMVpZdDhOQ2pJUWRHZEUzSmJpbnZBeHd5SHczR3JnY2N2cFNpQ2ZzMnln?oc=5",
-      "source": "Fortune",
-      "published": "Tue, 03 Feb 2026 11:18:00 GMT",
-      "type": "news"
-    },
-    {
-      "title": "Moltbook Is a Social Network for AI Bots. Here\u2019s How It Works - Time Magazine",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE51UTJ2SWFKM2l2UXZ6TmNJdWdrQkJJSW05SWttMUo4OE90MFYzUGk2WW1DQnpJTDR6dE01NlJ2Umc4NVY3YS1USC1nRmZ1cEotQ2dEbWozb3BiRlRCWmgxVw?oc=5",
-      "source": "Time Magazine",
-      "published": "Tue, 03 Feb 2026 11:03:45 GMT",
-      "type": "news"
-    },
-    {
-      "title": "Five ways of thinking about Moltbook - Platformer",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWFBCbEN2ZTlGZTg3WnYyQkwtSXVZdmJpcFJ6cVctNTd0WnF0czdaSWMtVlVER0VjUWQ3OTVsVklIeTIwWWFicWtqcmtwWWRjWVlmN2NIVEpMYWM1ZXR6cV9URXZKTFY2VnNrT1dUeFZoZWZhQ3pGaEM1aDFSYnhVZQ?oc=5",
-      "source": "Platformer",
-      "published": "Tue, 03 Feb 2026 01:46:10 GMT",
-      "type": "news"
     }
   ],
-  "last_updated": "2026-02-13T11:47:34.650623+00:00",
+  "last_updated": "2026-02-13T14:29:22.397031+00:00",
   "total_fetched": 25,
-  "new_this_run": 7
+  "new_this_run": 11
 }
