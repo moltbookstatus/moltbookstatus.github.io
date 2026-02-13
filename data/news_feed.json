@@ -1,6 +1,13 @@
 {
   "articles": [
     {
+      "title": "How a viral social media site for AI bots is suffering a human problem - AFR",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONXVNdmFNWmlnbWR4YUlTWWhtQy02NFRiQmtDNDRXd2hFVEhUR3BYUnRzTkt3RkE3RERuNEgxSkFKcXdkazl4aFVLa1ZuNFAtbUhGUHVRUG5hLVVtVnp3ZkVnZGZXcnpNOEZBWjRCcWk1OFlOaDQ5TERnVktGdU5aNHFDcDlzSDlUbEU4WXlFTmpxZmRfaEM0ck1JOWlGV1NZVEN0M2hiWWdRb2NoMURpZElHRWI3NVpN?oc=5",
+      "source": "AFR",
+      "published": "Fri, 13 Feb 2026 18:00:00 GMT",
+      "type": "news"
+    },
+    {
       "title": "An AI agent got its code rejected so it wrote a hit piece about the developer - the-decoder.com",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZnBDWEdSZTZXX3JnNmpSMGdrTzljczNtT3E3NnlOWlBRZTBhS3NYNXNndC1xZnhSWU1kOHVCSU1DQk5OaGl4ZDhKTFctaHQ1OTRnTU9iZFVKNmREZlI4RWE5eUl2Y1M5aGYtdVZBYzZNdTVZaVZpVXNGMkh5U1JHbE9uUllRa2ZvR0xHSUIta3FveWh4ZlZ0RFNfaFB5ci1TTkxLUg?oc=5",
       "source": "the-decoder.com",
@@ -692,16 +699,9 @@
       "source": "Reddit",
       "published": "2026-02-03T14:15:17+00:00",
       "type": "reddit"
-    },
-    {
-      "title": "What is Moltbook, the social networking site for AI bots \u2013 and should we be scared? - CNN",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBUS1Fueko5cjVMQngwWk8wYTNYakN0MXNtTW1RSTFWNUZicHpoY3pHVVM5UkxUTzAzUk9WQ0gtelE1NmJQb1FHR0gwcmE3cndrb2R6QnQtb3pVeGZiTTdvTFF4SUNaSjRSbGRLaWZFMnM5Zw?oc=5",
-      "source": "CNN",
-      "published": "Tue, 03 Feb 2026 13:33:25 GMT",
-      "type": "news"
     }
   ],
-  "last_updated": "2026-02-13T18:00:57.279152+00:00",
+  "last_updated": "2026-02-13T21:53:48.607817+00:00",
   "total_fetched": 25,
-  "new_this_run": 8
+  "new_this_run": 9
 }
