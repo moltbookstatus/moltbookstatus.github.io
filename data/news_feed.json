@@ -1,6 +1,13 @@
 {
   "articles": [
     {
+      "title": "What's Moltbook? It's a social network for bots, and it\u2019s worrying experts - Science News Explores",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAtQUppckhaS1FTQzdBbGVuRDd3T2xMSnh3NDF0RkNPN01wOU1RaENWU0dpNHFnRmllLUxzQXh4VW9BNS1vd29tWmFzZUFuVGYzbEoyMjd6RFRwYVIwOHdrdDNiRUpreWdhcXVqYVF3MzhVdDA?oc=5",
+      "source": "Science News Explores",
+      "published": "Fri, 13 Feb 2026 11:30:00 GMT",
+      "type": "news"
+    },
+    {
       "title": "Humanity's Pattern of Delayed Harm Intervention Is The Threat, Not AI.",
       "link": "https://www.reddit.com/r/artificial/comments/1r3dja8/humanitys_pattern_of_delayed_harm_intervention_is/",
       "source": "Reddit",
@@ -692,16 +699,9 @@
       "source": "Platformer",
       "published": "Tue, 03 Feb 2026 01:46:10 GMT",
       "type": "news"
-    },
-    {
-      "title": "I spent 6 hours in Moltbook. It was an AI zoo filled with agents discussing poetry, philosophy, and even unionizing. - Business Insider",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWU44TzVkRnJmZTN2X3llc25QY3g1aHNpWmlwZmZfWlRKa0F4d3I3bFczdS02TUQ3QzZ3aEt6d2FCTlZUdFozMXdkS0J1SHNBbmh0R19XQmVZRDZaM3N5elV4SHdKRG16RzFibzYydUR3b0RYaHJjbXZGWVRSWTFvck9JMnJCWk1HMXN5Tk9Jaw?oc=5",
-      "source": "Business Insider",
-      "published": "Mon, 02 Feb 2026 22:14:00 GMT",
-      "type": "news"
     }
   ],
-  "last_updated": "2026-02-13T08:02:19.167646+00:00",
+  "last_updated": "2026-02-13T11:47:34.650623+00:00",
   "total_fetched": 25,
   "new_this_run": 7
 }
