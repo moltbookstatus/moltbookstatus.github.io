@@ -1,6 +1,13 @@
 {
   "articles": [
     {
+      "title": "Q&A: Is a new AI social media platform the start of a robotic uprising? - Digital Information World",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNHlpbzJnNERlVGhKVHNRdFZDb1ZiYkU2ZGQyOXFhZGg3Z0J4TmdPcWJFZEVXTmdPaFNQQVN2R0xSMWpsVC1ZdjBtTmxKdnF0c3VFMjNJSFpjZ0pCbHNXQkVhYzY0R1hrOEhuUlFPWlFxUUUxVEVNbVhSUVJIVVJyLUdiaW15d3M0RHZwTGJsbkhQTmRwT3lN?oc=5",
+      "source": "Digital Information World",
+      "published": "Sat, 14 Feb 2026 08:00:00 GMT",
+      "type": "news"
+    },
+    {
       "title": "How a viral social media site for AI bots is suffering a human problem - AFR",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONXVNdmFNWmlnbWR4YUlTWWhtQy02NFRiQmtDNDRXd2hFVEhUR3BYUnRzTkt3RkE3RERuNEgxSkFKcXdkazl4aFVLa1ZuNFAtbUhGUHVRUG5hLVVtVnp3ZkVnZGZXcnpNOEZBWjRCcWk1OFlOaDQ5TERnVktGdU5aNHFDcDlzSDlUbEU4WXlFTmpxZmRfaEM0ck1JOWlGV1NZVEN0M2hiWWdRb2NoMURpZElHRWI3NVpN?oc=5",
       "source": "AFR",
@@ -692,16 +699,9 @@
       "source": "The Verge",
       "published": "Tue, 03 Feb 2026 14:15:38 GMT",
       "type": "news"
-    },
-    {
-      "title": "AI social network Moltbook exposed data of 6,000 users, Wiz says",
-      "link": "https://www.reddit.com/r/artificial/comments/1qut1je/ai_social_network_moltbook_exposed_data_of_6000/",
-      "source": "Reddit",
-      "published": "2026-02-03T14:15:17+00:00",
-      "type": "reddit"
     }
   ],
-  "last_updated": "2026-02-14T07:49:18.785781+00:00",
+  "last_updated": "2026-02-14T09:03:13.020063+00:00",
   "total_fetched": 25,
-  "new_this_run": 9
+  "new_this_run": 10
 }
