@@ -1,6 +1,13 @@
 {
   "articles": [
     {
+      "title": "Are AI bots conspiring against us? - The Week",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5kNXlKUlhSZS1oNnFzSi1CUllQMzBKRGQ5NG9qQ1FJMW1sUWN2SlpMYmJnRkx3SzlVWlVaU2YzdWd3enFYRktDTVhaU0lzVnNyeHFwTW5YQ05iUFpOZmRwTmY4N0VQREM0dHc?oc=5",
+      "source": "The Week",
+      "published": "Sun, 15 Feb 2026 07:10:55 GMT",
+      "type": "news"
+    },
+    {
       "title": "Q&A: Is a new AI social media platform the start of a robotic uprising? - Digital Information World",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNHlpbzJnNERlVGhKVHNRdFZDb1ZiYkU2ZGQyOXFhZGg3Z0J4TmdPcWJFZEVXTmdPaFNQQVN2R0xSMWpsVC1ZdjBtTmxKdnF0c3VFMjNJSFpjZ0pCbHNXQkVhYzY0R1hrOEhuUlFPWlFxUUUxVEVNbVhSUVJIVVJyLUdiaW15d3M0RHZwTGJsbkhQTmRwT3lN?oc=5",
       "source": "Digital Information World",
@@ -692,16 +699,9 @@
       "source": "Axios",
       "published": "Tue, 03 Feb 2026 15:30:26 GMT",
       "type": "news"
-    },
-    {
-      "title": "Humans are infiltrating the social network for AI bots - The Verge",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZUJpbUtjcm5tSlplQWgzWHJITjJHc0gtbGJYM210NEZLZEg4X2NFM0ZPZGpvd1VabVJSRzl2aGNsRXpxU2RSeFBZUHdzQWxfc3hzRlpRWXFzY1pHeTNia25vV2ZGaU9pNjNIUWpBWUlNZGtYSjUyWUQ4ZzFBUURScDEwRjZCNWV0c01YRkFIc3ZEbktCVXhzOTVZdmlGMmp2R0szYzJMWnBSN0FVYW5ZRw?oc=5",
-      "source": "The Verge",
-      "published": "Tue, 03 Feb 2026 14:15:38 GMT",
-      "type": "news"
     }
   ],
-  "last_updated": "2026-02-15T05:13:21.170791+00:00",
+  "last_updated": "2026-02-15T07:51:19.120242+00:00",
   "total_fetched": 25,
-  "new_this_run": 10
+  "new_this_run": 11
 }
