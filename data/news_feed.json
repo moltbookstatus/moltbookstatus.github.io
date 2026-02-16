@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title": "The Week the Machines Took Over: The Rise of MoltBook - The AI Journal",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1NQ1ZUdDRoOXU4VzhuTlRaVE9JYnE5RVp3SEUyd0hvbHNIYW1TazZPYWlHLVF6eUxLUHo1VFh3bi1kTGQxbW16aVJNWGhFZ3J3czVTYXgwV0sybXc0djlkbDZKa0wzelJfOHBFMHFkbEpSQ2JvbHQ5Q0MtcFJlUQ?oc=5",
+      "source": "The AI Journal",
+      "published": "Mon, 16 Feb 2026 22:19:04 GMT",
+      "type": "news"
+    },
+    {
+      "title": "The Devil Behind Moltbook: Researchers Warn Isolated AI Societies Inevitably Drift From Human Values - HackerNoon",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQkt2c2d1a0NXNDZaTFhtaERxdG0xcmNmcXJlNzd3YlZKdDFyVWNPOTBtZEJVUk9UUTFBQ0tCNTFJekNPcEVKR2diYlV2UG92YzBLMjUySTRhdXkwYVJOYlo2eTBIa1loOEI5NXVKVFE2MzFpQzZybmQxYUpYTFJsU0I2a3NNMUJnbHhpZEFHelU2SEdsenVQeVVuMTlQTFFFd3hWVGN6dW1jYlBpclNsQ3VXTkpXUzA4bllKRGUxWQ?oc=5",
+      "source": "HackerNoon",
+      "published": "Mon, 16 Feb 2026 21:48:14 GMT",
+      "type": "news"
+    },
+    {
       "title": "OpenClaw founder joins OpenAI to create next-gen personal agents - Silicon Republic",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNT1kxcUNZZUhXYjFPLVFxVTNOX1lzdTloZ19DT29MdlZKLVo0ZGJsUWdQVnB2WHkwTEMyTjVfRFdJXy12ME12M2tXRzBFWXdaVUs4ZmZTZ2sxVzJ3TzdLamdWUlBRSlZyR0MxcDVMbXp2dWkwUExlN2dHYXVZWjBaMFA0ZFlkMlp3Q25yd19kSmpBVU5Td2d5ZFV0dWhCSnpybG5fVXptMFM0amh5c1hJ?oc=5",
       "source": "Silicon Republic",
@@ -685,23 +699,9 @@
       "source": "DW.com",
       "published": "Wed, 04 Feb 2026 09:46:54 GMT",
       "type": "news"
-    },
-    {
-      "title": "Moltbook: Viral site for AI agents explodes into mainstream - dw.com",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNal80ekdKZWprQlRLQ1FMUHZMM0l6ZmRPZlZkZkMyV0FfUmlDUC04TkdRMnpYeGJkcDlIN2FUR2pucjBUR2ZpU2M3TklTNHp2S21TN2xCUVhlZ3VCX1VjR0xWZFVCSGFZRTh3empmdHZ4M1FacWRnaWlHZ0JNOGszZHJzUjYzUlQxSUhuaUQxZFlfR1RsYXfSAZYBQVVfeXFMUG1nSXE3X0xBYlNPM1B2Q01UUlVHRWJhdk1WNTQ2YnJaZ3V1cW00MjFCS3NDaUUxTlZmSGlpQ29wQjlhQ1c2R0UzaHQxVDdxMjlhMzk0aTFmaVdnemZPdjNqVmk0Nl95UUNnUEQzT2wxelVHbDN0aThMcVQzYkpGMEFHOGgxcG9BSE84QVo0cWJETWs3V3VB?oc=5",
-      "source": "dw.com",
-      "published": "Wed, 04 Feb 2026 09:46:26 GMT",
-      "type": "news"
-    },
-    {
-      "title": "Idc about moltbook",
-      "link": "https://www.reddit.com/r/singularity/comments/1qvgyce/idc_about_moltbook/",
-      "source": "Reddit",
-      "published": "2026-02-04T06:20:02+00:00",
-      "type": "reddit"
     }
   ],
-  "last_updated": "2026-02-16T21:00:41.529052+00:00",
+  "last_updated": "2026-02-16T23:01:47.677458+00:00",
   "total_fetched": 25,
   "new_this_run": 12
 }
