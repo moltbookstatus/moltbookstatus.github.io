@@ -1,6 +1,13 @@
 {
   "articles": [
     {
+      "title": "Moltbook: The AI-only social network - The Week",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAtcGZNSkYwMXBaTU56c1NZbDFoSDNFQktRc09HVTRaWElvY3Nkc3EtOUZCZkJtUy1aX1RINEVQODhNZjBJLWVnbHo3UkVTQ2ZqRFgwcDhtWGtMUHpDT20xUzBkdzh1RG8?oc=5",
+      "source": "The Week",
+      "published": "Tue, 17 Feb 2026 17:39:19 GMT",
+      "type": "news"
+    },
+    {
       "title": "Moltbook wants you to believe its AI acts independently. It doesn\u2019t - WBUR",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbkllcjFZLUV2S3FwRGJ6N09nZlVNQnRsdllSNEEtSUVTQjFsbkU5cnE0U1NYYmpmR3ZzMjk2czVYdkZLY3ZzVWNGSDJrN2JOcGJHS2NsY3BUOTYzTVFTSEdWMGVwd09OTDBkSmxwREZuaWoxb2wtekZrbGVXRzBCd2RVeFhOMFFzM09nbXFNTm1ldw?oc=5",
       "source": "WBUR",
@@ -692,16 +699,9 @@
       "source": "observer.com",
       "published": "Wed, 04 Feb 2026 14:01:10 GMT",
       "type": "news"
-    },
-    {
-      "title": "Moltbook explained: Viral site for AI bots goes mainstream - DW.com",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYnE5bEI3RklyRF9Vd2ZnQzd1Qk5MenlleFN4RURtTnZOQ1paZlkwaWpvYl92RTJKbHp4aHlZazVzalBhbHRlb21ONVF3SHdUZGZfOGE4Vkd1OWtVTjZycTJHWnhfODNOMVN2UUZiYkxHNUlFNDZMRUdfNTYxOVd4YVJUR2V0T2xMNW9nYlJ1dXBuTUUx0gGUAUFVX3lxTFBaSTVSN2l5Z0ZoS0tNeW9fSHVWT1lKUTJaVnVTRW81a3VJd1F5TUZpc0hFSENkdExhcjRLTzFuUG80MURSWlh2WW9MNkY2aGxLbl9IS2NjTmJtNzJzaTNCQzIyNk9RYjdEWFdQOUpXemF5Yl9QcFFVeE5KeHBXWmljT2loU1ZOcWRVRUdzczBKZkRxXzE?oc=5",
-      "source": "DW.com",
-      "published": "Wed, 04 Feb 2026 11:03:45 GMT",
-      "type": "news"
     }
   ],
-  "last_updated": "2026-02-17T14:37:22.737597+00:00",
+  "last_updated": "2026-02-17T18:37:49.712707+00:00",
   "total_fetched": 25,
-  "new_this_run": 10
+  "new_this_run": 13
 }
