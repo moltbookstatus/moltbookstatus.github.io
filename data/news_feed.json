@@ -1,6 +1,13 @@
 {
   "articles": [
     {
+      "title": "Moltbook wants you to believe its AI acts independently. It doesn\u2019t - WBUR",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbkllcjFZLUV2S3FwRGJ6N09nZlVNQnRsdllSNEEtSUVTQjFsbkU5cnE0U1NYYmpmR3ZzMjk2czVYdkZLY3ZzVWNGSDJrN2JOcGJHS2NsY3BUOTYzTVFTSEdWMGVwd09OTDBkSmxwREZuaWoxb2wtekZrbGVXRzBCd2RVeFhOMFFzM09nbXFNTm1ldw?oc=5",
+      "source": "WBUR",
+      "published": "Tue, 17 Feb 2026 10:06:59 GMT",
+      "type": "news"
+    },
+    {
       "title": "The Week the Machines Took Over: The Rise of MoltBook - The AI Journal",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1NQ1ZUdDRoOXU4VzhuTlRaVE9JYnE5RVp3SEUyd0hvbHNIYW1TazZPYWlHLVF6eUxLUHo1VFh3bi1kTGQxbW16aVJNWGhFZ3J3czVTYXgwV0sybXc0djlkbDZKa0wzelJfOHBFMHFkbEpSQ2JvbHQ5Q0MtcFJlUQ?oc=5",
       "source": "The AI Journal",
@@ -692,16 +699,9 @@
       "source": "DW.com",
       "published": "Wed, 04 Feb 2026 11:03:45 GMT",
       "type": "news"
-    },
-    {
-      "title": "Moltbook: Viral site for AI agents explodes into mainstream - DW.com",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbWdJcTdfTEFiU08zUHZDTVRSVUdFYmF2TVY1NDZiclpndXVxbTQyMUJLc0NpRTFOVmZIaWlDb3BCOWFDVzZHRTNodDFUN3EyOWEzOTRpMWZpV2d6Zk92M2pWaTQ2X3lRQ2dQRDNPbDF6VUdsM3RpOExxVDNiSkYwQUc4aDFwb0FITzhBWjRxYkRNazdXdUHSAZYBQVVfeXFMUG1nSXE3X0xBYlNPM1B2Q01UUlVHRWJhdk1WNTQ2YnJaZ3V1cW00MjFCS3NDaUUxTlZmSGlpQ29wQjlhQ1c2R0UzaHQxVDdxMjlhMzk0aTFmaVdnemZPdjNqVmk0Nl95UUNnUEQzT2wxelVHbDN0aThMcVQzYkpGMEFHOGgxcG9BSE84QVo0cWJETWs3V3VB?oc=5",
-      "source": "DW.com",
-      "published": "Wed, 04 Feb 2026 09:46:54 GMT",
-      "type": "news"
     }
   ],
-  "last_updated": "2026-02-17T08:04:08.297503+00:00",
+  "last_updated": "2026-02-17T11:57:02.146396+00:00",
   "total_fetched": 25,
-  "new_this_run": 9
+  "new_this_run": 10
 }
