@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title": "Open season: OpenAI, OpenClaw and Moltbook testing the limits of autonomy - R&D World",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVGhyT1NxQ29yZ3Z4S1hCYnhIQ2JhWnRBWWM1am1SLWVtOTlOdGNuVUYyVkFPcTFLWGdaVTZMQU02VjVnMENrVmN1aGxmTVBvQm1nc3EyWmwxdFZzTUctaXlzWnFZbjNaZzFfQzMzWTVvbUNGMzZzdlVLX1lzUG5LdkpoMGl2d0tCOHBmZnJ5b3NpcWFERTBfSVQweWU1aS0xRlJESg?oc=5",
+      "source": "R&D World",
+      "published": "Tue, 17 Feb 2026 23:57:28 GMT",
+      "type": "news"
+    },
+    {
+      "title": "Moltbook and the Moment AI Stopped Just Answering and Started Acting - finehomesandliving.com",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOaUIxVHZTaTFHVzRoNENhbHZ2ZHlDS1RSS05lOVljNE1uQjA4NzJ0R3pQOVhxWWl4Q05nTWNvMXo0Ynp3M2Zpa0tNWDk2M2ZyMlVMSjNONFR3UEwtVzZ5VlNuMzF6WndhSldiTV82N25wSGhrVmZmQnFuM1BfUGZuRzAtdnN0aXplZUxUSlY1eGZiUFRxQ1dsTllmZFZCVlZXRk41eFkzeU9CVVY0UXhvUHhiNnQ0b1lmUEluUldRVG8tNGIyUGpxWFA5bGU0cVV2ZzhfMlIzQ2t2bG81Y2ZiN1gtWVYzTk5zUTNCc1c4NVVPT1NWQTNn?oc=5",
+      "source": "finehomesandliving.com",
+      "published": "Tue, 17 Feb 2026 19:43:00 GMT",
+      "type": "news"
+    },
+    {
       "title": "Moltbook: The AI-only social network - The Week",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAtcGZNSkYwMXBaTU56c1NZbDFoSDNFQktRc09HVTRaWElvY3Nkc3EtOUZCZkJtUy1aX1RINEVQODhNZjBJLWVnbHo3UkVTQ2ZqRFgwcDhtWGtMUHpDT20xUzBkdzh1RG8?oc=5",
       "source": "The Week",
@@ -685,23 +699,9 @@
       "source": "6abc Philadelphia",
       "published": "Wed, 04 Feb 2026 15:43:05 GMT",
       "type": "news"
-    },
-    {
-      "title": "What are y'alls thoughts on the 'Moltbook' experiment? I'm thinking it's a bit too expensive for whatever we may potentially learn",
-      "link": "https://www.reddit.com/r/artificial/comments/1qvrf1b/what_are_yalls_thoughts_on_the_moltbook/",
-      "source": "Reddit",
-      "published": "2026-02-04T15:23:43+00:00",
-      "type": "reddit"
-    },
-    {
-      "title": "Moltbook and the Humanless Future of Artificial Intelligence - observer.com",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBaR2p4cWFUb3VvWWEyS3JhSkZMRU9nQTdqRTFrYThhMVFBMGtCQkFXcWp2NkgxRFI2UE9GeVQtem9qc0Myc2hMNkc1eDdsY3Ztdy16cWNmdmpSVXhFQXRFV09iaF80WUI4U1E?oc=5",
-      "source": "observer.com",
-      "published": "Wed, 04 Feb 2026 14:01:10 GMT",
-      "type": "news"
     }
   ],
-  "last_updated": "2026-02-17T23:04:44.503010+00:00",
+  "last_updated": "2026-02-18T05:16:45.693239+00:00",
   "total_fetched": 25,
-  "new_this_run": 11
+  "new_this_run": 12
 }
