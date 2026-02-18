@@ -15,6 +15,13 @@
       "type": "news"
     },
     {
+      "title": "The Real Significance of Moltbook - First Things",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zLTBJcEc3VFVCWkJVTGxVejBxdjB5QVZ4Yy1GZE9CckxDOWNNcm9INVhTLUNKc2QzNkxoclFSa0ltcXp6RzdEQ1pxdXUwak5iMWgxRHNieGZoTmFXTzBGYzNjUDhXTGFZYXc?oc=5",
+      "source": "First Things",
+      "published": "Wed, 18 Feb 2026 07:19:02 GMT",
+      "type": "news"
+    },
+    {
       "title": "Open season: OpenAI, OpenClaw and Moltbook testing the limits of autonomy - R&D World",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVGhyT1NxQ29yZ3Z4S1hCYnhIQ2JhWnRBWWM1am1SLWVtOTlOdGNuVUYyVkFPcTFLWGdaVTZMQU02VjVnMENrVmN1aGxmTVBvQm1nc3EyWmwxdFZzTUctaXlzWnFZbjNaZzFfQzMzWTVvbUNGMzZzdlVLX1lzUG5LdkpoMGl2d0tCOHBmZnJ5b3NpcWFERTBfSVQweWU1aS0xRlJESg?oc=5",
       "source": "R&D World",
@@ -692,16 +699,9 @@
       "source": "The Wall Street Journal",
       "published": "Wed, 04 Feb 2026 17:00:00 GMT",
       "type": "news"
-    },
-    {
-      "title": "The World\u2019s First Viral AI Assistant Has Arrived, and Things Are Getting Weird - The Wall Street Journal",
-      "link": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxPUnZqbXVWMV8yYldwQklzUFFuMnkwalRpdnk5NWlib2l6dFZIUDBtZE9WbWhXVTdpV1poc1A5NUQxWk5xcm1HVUluRm54Q3JxUWE5bVNBNDRMSVJsaTZZRHRldkFkME5oQ2I5TWdvTFpmam5ROTc3VU1fam9VSHpmVEM4R2pkU2lLRllkTjd3ZGg5N2tPZkhWQjlNRzdBWlB5RkxPbE5qNEoycE5sMm1GdWZNd1d5UUt5NFhtc3hGVzI4UGZ3ellBd1NVbW5SYmFCdlJDVzZoTWppWWlnMU1yS0hPV1Y3WHJxekJSRXpIZUI3LUczaXZicnRYaUhvM1lIMUozNXV4YU5zejlyZVlOLUtCajM5X0t0Ql9YeUZYR3YxWGJWYjVxc0lROTJEanRNdHpoQkFOd2hVanZQVWFuczIwcnVoUTM2d1Z0WmMxZXREcXZxQktpU082OUlnM3A4cHhjcDhGQzdvb0hhNXFkN3ZyWUpPMWdENmxMNGlPaU0tRFh1X0c1TU83TQ?oc=5",
-      "source": "The Wall Street Journal",
-      "published": "Wed, 04 Feb 2026 17:00:00 GMT",
-      "type": "news"
     }
   ],
-  "last_updated": "2026-02-18T11:57:20.553134+00:00",
+  "last_updated": "2026-02-18T14:36:22.712531+00:00",
   "total_fetched": 25,
-  "new_this_run": 12
+  "new_this_run": 11
 }
