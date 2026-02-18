@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title": "AI Is Nothing Without Its Theatre - ArtReview",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeWN5TDBpUWs5UEppUF9hVnh2d2ZtVExuZmxQalk0aW1DYW5ha1I0YXBEYkItNzBhSlFud2hwWjVXOTFDVzNfMkFORkF2eTEzam1FamVxdHdyUkRmZUhaUmpoeXBFSTJ6Wkk2MS10ZnY2elg2Sk8ydXRWZlc4U3B0UEt6a19pMVh4RWcwcEFBOFl4Rk5XenZud2UyakFHbnc3dEVGM3hiZVhtOVU?oc=5",
+      "source": "ArtReview",
+      "published": "Wed, 18 Feb 2026 11:26:16 GMT",
+      "type": "news"
+    },
+    {
+      "title": "What Moltbook, the new social media site for AI agents, tells us about AI - qz.com",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5kSWZNQ01kNThwanExbThpWEJ6ZW0taUJ4eGZQYUVvRE94aEc3Q1dhMlRFRGtCWHhsVTRpMy1YX3huZm9LemlUVzhmbk53UkhMVFBfY2ZYaTNlNXFtd3Fz?oc=5",
+      "source": "qz.com",
+      "published": "Wed, 18 Feb 2026 10:03:37 GMT",
+      "type": "news"
+    },
+    {
       "title": "Open season: OpenAI, OpenClaw and Moltbook testing the limits of autonomy - R&D World",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVGhyT1NxQ29yZ3Z4S1hCYnhIQ2JhWnRBWWM1am1SLWVtOTlOdGNuVUYyVkFPcTFLWGdaVTZMQU02VjVnMENrVmN1aGxmTVBvQm1nc3EyWmwxdFZzTUctaXlzWnFZbjNaZzFfQzMzWTVvbUNGMzZzdlVLX1lzUG5LdkpoMGl2d0tCOHBmZnJ5b3NpcWFERTBfSVQweWU1aS0xRlJESg?oc=5",
       "source": "R&D World",
@@ -685,23 +699,9 @@
       "source": "The Wall Street Journal",
       "published": "Wed, 04 Feb 2026 17:00:00 GMT",
       "type": "news"
-    },
-    {
-      "title": "What is Moltbook? The social networking site for AI bots - ABC30 Fresno",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVTBnNlk1RVZUOENVZFJ1cW53S2cxaWlWUVZtNjZyWWxmbDZrM0pTT0NueEhUeE1HODByWnBta0R6R2IxQXVnLU92UkZkS1QxRnhpc3BYX1hSUW5iRVZFNWx5OEpEQV9xTzJvX3lOVW1RQll2NFQydFNoY1lyRDZDRWppTDZ2MVFJQTZIRdIBjAFBVV95cUxPVTBnNlk1RVZUOENVZFJ1cW53S2cxaWlWUVZtNjZyWWxmbDZrM0pTT0NueEhUeE1HODByWnBta0R6R2IxQXVnLU92UkZkS1QxRnhpc3BYX1hSUW5iRVZFNWx5OEpEQV9xTzJvX3lOVW1RQll2NFQydFNoY1lyRDZDRWppTDZ2MVFJQTZIRQ?oc=5",
-      "source": "ABC30 Fresno",
-      "published": "Wed, 04 Feb 2026 15:43:11 GMT",
-      "type": "news"
-    },
-    {
-      "title": "What is Moltbook? The social networking site for AI bots - 6abc Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPd0Z3ZG00NV8xX1VHbU54NXJadG9aQ3hURUxjUFFoYXkwQVF5ZFZVR1ViUjVfUE1meHhUb0tsZzRLQ3I5TEFNcGN6cHVKV081VUc3T1dTNS1WbXFzV0dsVURBWE1LM2ZIbUdxdmdkMWtHNWNxUU1pNkxTQzFib3BQdkZQU1NtS25SMzdZ0gGLAUFVX3lxTE93RndkbTQ1XzFfVUdtTng1clp0b1pDeFRFTGNQUWhheTBBUXlkVlVHVWJSNV9QTWZ4eFRvS2xnNEtDcjlMQU1wY3pwdUpXTzVVRzdPV1M1LVZtcXNXR2xVREFYTUszZkhtR3F2Z2Qxa0c1Y3FRTWk2TFNDMWJvcFB2RlBTU21LblIzN1k?oc=5",
-      "source": "6abc Philadelphia",
-      "published": "Wed, 04 Feb 2026 15:43:05 GMT",
-      "type": "news"
     }
   ],
-  "last_updated": "2026-02-18T08:02:47.004378+00:00",
+  "last_updated": "2026-02-18T11:57:20.553134+00:00",
   "total_fetched": 25,
-  "new_this_run": 11
+  "new_this_run": 12
 }
