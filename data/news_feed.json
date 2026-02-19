@@ -1,6 +1,13 @@
 {
   "articles": [
     {
+      "title": "Moltbook\u2019s \u2018vibe-coded\u2019 breach is the future of security failures - The Hill",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOb0thQTN1X2YzTFVKX19nTWZRRnBLYzA5SV96NFdsRjRZcTBWdnJFZ1c2WXlHTHkxLXRpckdfN3oxb0pwZERZalYyc0oxdEdmVnYtVXhOLWhsYWhNX0FWNzJjSTJEdW9MT0NJNjhqTU5mcE9XbThEV205bTZubHZ3aWRB0gGHAUFVX3lxTFBxVVM2a1R3QXlRQWd0elFiX21WQ3RzbG5kYXhlM3g5TnZNR252dlVGWW5SM09WR2gxdWd5QjdOREt1ZWEyZnJ1dWxVNE1wVkRlQTJySUV2dTk4aGM0bVpYRGlvNDVsSHNlb0dxZFJFZExkQ2N1VjRkS1FveFItMnFKc185Q3Vxdw?oc=5",
+      "source": "The Hill",
+      "published": "Thu, 19 Feb 2026 14:00:00 GMT",
+      "type": "news"
+    },
+    {
       "title": "I spent 6 hours in Moltbook. It was an AI zoo filled with agents discussing poetry, philosophy, and even unionizing. - AOL.com",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9Kb25DeWlVdXF3X1Jxbjc0RTQyb3dGSEd2NzBaMjJaWnZ1WDEzQ2dPNjVoZDMtMXdCblNpb2dFQmRQdDREYVd4eTJSWjJ0cU5vMjRPSENDbnFTclE2UjNUcUZDX1J0WjBWU0NFb25pX0RBeU0?oc=5",
       "source": "AOL.com",
@@ -692,16 +699,9 @@
       "source": "Mashable",
       "published": "Wed, 04 Feb 2026 19:13:36 GMT",
       "type": "news"
-    },
-    {
-      "title": "The World\u2019s First Viral AI Assistant Has Arrived, and Things Are Getting Weird - The Wall Street Journal",
-      "link": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxQd2NCMkVTMVc4SmFqelJTV1dBTEtxcmNOb2xIRDROVFVpM2xvZlMxcHRmYklRajJZZFhTdF9xQ3hsc0tkbDVJbUZGeXkyMXVfN2xqTWU0clZzWV9zUlhHUEJJNjkxMF9qOUhCM1E1VmFUOUQzemNkWWRobFBOdlkzVGthRW5YMkU4WnNlWXBSem54QkItVm1UNEtZd1YwTWJzZHBLNEFwR0dNempRaXlucUZSSURrTHNicFdWRU1wTDhPaWVGOHdXeTlyaU14MFYxQjZyX0ZvSXJ2SkxxVlpmU1BHRVVKMkVJNFMyUURyd2Z6cDF0RFhqVkROVHZSR0dyZW9xbXl3WXpieDNsdThFWmhWdEZKdXBjWkJTWTVDNlZyZW9Ca3dKQnRMVTFQdnNoNS1qcG1RZ2pIUlhfdi1ieUZaVllXYUJ4dXVITjBxQ2RqdHBnNDZJRHB4b05aZ1k4WGlhY3NSeDNjWkpSSUJMRjRDVjNrMXVJNnpfRkN6OWlzR0lyMFhnd1hJcw?oc=5",
-      "source": "The Wall Street Journal",
-      "published": "Wed, 04 Feb 2026 17:00:00 GMT",
-      "type": "news"
     }
   ],
-  "last_updated": "2026-02-19T11:57:20.731772+00:00",
+  "last_updated": "2026-02-19T14:43:27.995764+00:00",
   "total_fetched": 25,
-  "new_this_run": 14
+  "new_this_run": 13
 }
