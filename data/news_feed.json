@@ -1,6 +1,13 @@
 {
   "articles": [
     {
+      "title": "Moltbook is Dangerous, but Scale Doesn\u2019t Match the Hype: Zenity - Security Boulevard",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPN3ZPOThGZ2NwVTNCM2U4SnpVMURjQnJGTWNneEhGdmg5cE5jZlNrVWwxSW8ySDdaeDdvSUFjc2xmaFJiRXlEMDRyQ25kWTlzQjN4eXZzQUdoUlBiTVk3TzVNanJJQ042WVVycEg0NzJaLVQ5LU4zdTlRVFpKVmxxNDNLT0hLZFBFcExuQkdRei1yWEQ2MllRR2RKVVhRSWVu?oc=5",
+      "source": "Security Boulevard",
+      "published": "Wed, 18 Feb 2026 21:42:02 GMT",
+      "type": "news"
+    },
+    {
       "title": "The Half Life Of AI Brand Affinity, Moltbook And More: Conversations With Josh Lovison 02/18/2026 - MediaPost",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeWdJWVJ4WnpIX1YtdFo0Vm9McTNNMEVOc0pRMXZJaW9tanhJT3lmZ2YxcFU4ZVFzLVJJZ252aGhJaTgwNGF5UC00Y2VSRUJRQXVvcHduLUR4dVlneFFBT1ViaUZRSEVWeWc1aEZCU1Zpck5CbEpnNTJTS0xFOW1lbTYxenlkRXRGMzIxTldwZnNDbjBZMV9DREdLaXZlSWlHaHJqZFpmb3V6d1It?oc=5",
       "source": "MediaPost",
@@ -692,16 +699,9 @@
       "source": "The Wall Street Journal",
       "published": "Wed, 04 Feb 2026 17:00:00 GMT",
       "type": "news"
-    },
-    {
-      "title": "The World\u2019s First Viral AI Assistant Has Arrived, and Things Are Getting Weird - The Wall Street Journal",
-      "link": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxPTVNVTEp2MlNhaHNoTXFoWlM1YWZ2ZnNIUmtJQlBsaENydHJrM1RxemEzOGcwNHFMb3JnMFlNREYweE4ySy0xLS1CWWRUbncwYjZTS21tUWZxbU1hdU1kU0lCS1BxSmlLLUdfS2xReDhuTFNBRmhyNXhMYlFTU1A0YWtGdjFFRG9XX193N0FLNlc0MXFwdUlMQkxOZ3hzVEtpb3c2dzhMRS1KTXNoZkRLZU1YQU8teFJVTWpxRFJLV0NYNHJjZlI3NUJEaTJHUEdQcDZWNU0tcWdlZWxaT3hacHVLc2FxV01nbjFHaEpiSzFybGVYd19ZQ0hKSmViSFRaME92RlkzUHVCWE1neFloZTRUSElCeGdvWEVJaVhLTjZDNGNrVE5mSW1DRjRGVnhoR0t1SkluNW8ya3ZoZWpkd2JyNGpWVWtWTlY2WWpYMF9sNDI3NGVmMGtUbmVLVUdHekM3ektWVmxpUno1SF9paHQ0WXNyUHVqZ3lkMkR1Q1JLNUdFYkVpY3RDNA?oc=5",
-      "source": "The Wall Street Journal",
-      "published": "Wed, 04 Feb 2026 17:00:00 GMT",
-      "type": "news"
     }
   ],
-  "last_updated": "2026-02-18T23:04:06.888554+00:00",
+  "last_updated": "2026-02-19T05:14:25.592098+00:00",
   "total_fetched": 25,
-  "new_this_run": 14
+  "new_this_run": 12
 }
