@@ -2,6 +2,13 @@
   "articles": [
     {
       "title": "Moltbook\u2019s \u2018vibe-coded\u2019 breach is the future of security failures - The Hill",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOb0thQTN1X2YzTFVKX19nTWZRRnBLYzA5SV96NFdsRjRZcTBWdnJFZ1c2WXlHTHkxLXRpckdfN3oxb0pwZERZalYyc0oxdEdmVnYtVXhOLWhsYWhNX0FWNzJjSTJEdW9MT0NJNjhqTU5mcE9XbThEV205bTZubHZ3aWRB?oc=5",
+      "source": "The Hill",
+      "published": "Thu, 19 Feb 2026 14:00:00 GMT",
+      "type": "news"
+    },
+    {
+      "title": "Moltbook\u2019s \u2018vibe-coded\u2019 breach is the future of security failures - The Hill",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOb0thQTN1X2YzTFVKX19nTWZRRnBLYzA5SV96NFdsRjRZcTBWdnJFZ1c2WXlHTHkxLXRpckdfN3oxb0pwZERZalYyc0oxdEdmVnYtVXhOLWhsYWhNX0FWNzJjSTJEdW9MT0NJNjhqTU5mcE9XbThEV205bTZubHZ3aWRB0gGHAUFVX3lxTFBxVVM2a1R3QXlRQWd0elFiX21WQ3RzbG5kYXhlM3g5TnZNR252dlVGWW5SM09WR2gxdWd5QjdOREt1ZWEyZnJ1dWxVNE1wVkRlQTJySUV2dTk4aGM0bVpYRGlvNDVsSHNlb0dxZFJFZExkQ2N1VjRkS1FveFItMnFKc185Q3Vxdw?oc=5",
       "source": "The Hill",
       "published": "Thu, 19 Feb 2026 14:00:00 GMT",
@@ -692,16 +699,9 @@
       "source": "The Next Web",
       "published": "Wed, 04 Feb 2026 20:04:00 GMT",
       "type": "news"
-    },
-    {
-      "title": "Moltbook could cause first 'mass AI breach,' expert warns - Mashable",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5JUW11YUNHcncwWXNiTmROUUhGcmg3aXFUN3VPbm9EU0M0S1piZ1N4eXktM0VCeGdYdm1sWUxLOGFvQVM5NnYyMnFfd2J2NThEOEtGdmlYbVdzRTI0cmxiUC1R?oc=5",
-      "source": "Mashable",
-      "published": "Wed, 04 Feb 2026 19:13:36 GMT",
-      "type": "news"
     }
   ],
-  "last_updated": "2026-02-19T21:04:15.924545+00:00",
+  "last_updated": "2026-02-19T23:04:22.854156+00:00",
   "total_fetched": 25,
-  "new_this_run": 12
+  "new_this_run": 13
 }
