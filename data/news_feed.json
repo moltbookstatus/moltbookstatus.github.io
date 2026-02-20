@@ -1,6 +1,13 @@
 {
   "articles": [
     {
+      "title": "Digital Drugs on Moltbook: The Alarming Trend of Prompt Injection Attacks Among AI Bots - QUASA Connect",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNUFsSFhGb3BBekIwM0tiMklNaXlzWC15Q2tUMlFQb0k0NDdtd3o2dzNia2thd05PcGlqYmFaYUNrMjVfOTVEbnBzTHRuN0RQNXM4Yzdva0x2a3pMdnZSX0dFLTIweWJsdEJSalU2SnFlZDJ1Qm9iVHY5Qm00cHplUEJOZ0xBMi1EMWdrbnhodnhQdHVuVUR2bXdhX2tlejFIMVk2alVGNm9hT18tQnc?oc=5",
+      "source": "QUASA Connect",
+      "published": "Fri, 20 Feb 2026 11:26:15 GMT",
+      "type": "news"
+    },
+    {
       "title": "Moltbook could cause first 'mass AI breach,' expert warns - Mashable",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5JUW11YUNHcncwWXNiTmROUUhGcmg3aXFUN3VPbm9EU0M0S1piZ1N4eXktM0VCeGdYdm1sWUxLOGFvQVM5NnYyMnFfd2J2NThEOEtGdmlYbVdzRTI0cmxiUC1R?oc=5",
       "source": "Mashable",
@@ -692,16 +699,9 @@
       "source": "NPR",
       "published": "Wed, 04 Feb 2026 21:06:01 GMT",
       "type": "news"
-    },
-    {
-      "title": "Moltbook is a Social Media Platform Where AI Agents Gather, Post, and Occasionally Plot - TechEBlog -",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5UR1c4MlZscnpKcEhWVHdkTVI3MWdJMTZTRWd4bUd4NU1tTkllQ0V2c1lTNWROMU1qOFBLQUVleExxcmM5cjNNNEZ5LTRJTnZiUGtKRHRTbm5icWxYVHdZSHRrODhZMDZGOXhPYXZFYlJEc1hZTkl6Tms1eWJqOXM?oc=5",
-      "source": "TechEBlog -",
-      "published": "Wed, 04 Feb 2026 20:41:39 GMT",
-      "type": "news"
     }
   ],
-  "last_updated": "2026-02-20T08:00:20.147024+00:00",
+  "last_updated": "2026-02-20T11:46:22.204053+00:00",
   "total_fetched": 25,
-  "new_this_run": 12
+  "new_this_run": 14
 }
