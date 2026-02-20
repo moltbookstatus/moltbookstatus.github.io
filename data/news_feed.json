@@ -1,6 +1,13 @@
 {
   "articles": [
     {
+      "title": "Moltbook could cause first 'mass AI breach,' expert warns - Mashable",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5JUW11YUNHcncwWXNiTmROUUhGcmg3aXFUN3VPbm9EU0M0S1piZ1N4eXktM0VCeGdYdm1sWUxLOGFvQVM5NnYyMnFfd2J2NThEOEtGdmlYbVdzRTI0cmxiUC1R?oc=5",
+      "source": "Mashable",
+      "published": "Thu, 19 Feb 2026 21:39:39 GMT",
+      "type": "news"
+    },
+    {
       "title": "Moltbook\u2019s \u2018vibe-coded\u2019 breach is the future of security failures - The Hill",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOb0thQTN1X2YzTFVKX19nTWZRRnBLYzA5SV96NFdsRjRZcTBWdnJFZ1c2WXlHTHkxLXRpckdfN3oxb0pwZERZalYyc0oxdEdmVnYtVXhOLWhsYWhNX0FWNzJjSTJEdW9MT0NJNjhqTU5mcE9XbThEV205bTZubHZ3aWRB?oc=5",
       "source": "The Hill",
@@ -692,16 +699,9 @@
       "source": "TechEBlog -",
       "published": "Wed, 04 Feb 2026 20:41:39 GMT",
       "type": "news"
-    },
-    {
-      "title": "Inside Moltbook, the strange social network where AI agents post, and humans stand by - The Next Web",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPa0xqYmJkeWxpbHVSanZYUjNOVGFZSndlVGZtb1huajBSRXFUWnR4ZG9FY3FrbUoyb2ZaX1hQWHJkUTBOblpscF9lMEJMU3lHSERyWnlCUThpY1Ytb2ZtMU90eWhZRGFpN2dabS1sU2RBSGVNZkdYQ0p5RERIZ25TSw?oc=5",
-      "source": "The Next Web",
-      "published": "Wed, 04 Feb 2026 20:04:00 GMT",
-      "type": "news"
     }
   ],
-  "last_updated": "2026-02-19T23:04:22.854156+00:00",
+  "last_updated": "2026-02-20T05:08:23.477090+00:00",
   "total_fetched": 25,
   "new_this_run": 13
 }
