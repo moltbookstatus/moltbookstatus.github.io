@@ -1,6 +1,13 @@
 {
   "articles": [
     {
+      "title": "How long will it be before AI starts using us? - Substack",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9YUmFiTVZSejdoUVE1N3EzdlNmWXlOSDFVY1AzdEUtUWpWenUydXdwZ2h5cXVIbkJvX2VZeHp0RXg4NmJVM1ZvRmZNY1R5T0dYZGNDb0Nmc3ZUNUtqbnJqM2ZsLTd2UQ?oc=5",
+      "source": "Substack",
+      "published": "Fri, 20 Feb 2026 13:50:40 GMT",
+      "type": "news"
+    },
+    {
       "title": "Digital Drugs on Moltbook: The Alarming Trend of Prompt Injection Attacks Among AI Bots - QUASA Connect",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNUFsSFhGb3BBekIwM0tiMklNaXlzWC15Q2tUMlFQb0k0NDdtd3o2dzNia2thd05PcGlqYmFaYUNrMjVfOTVEbnBzTHRuN0RQNXM4Yzdva0x2a3pMdnZSX0dFLTIweWJsdEJSalU2SnFlZDJ1Qm9iVHY5Qm00cHplUEJOZ0xBMi1EMWdrbnhodnhQdHVuVUR2bXdhX2tlejFIMVk2alVGNm9hT18tQnc?oc=5",
       "source": "QUASA Connect",
@@ -692,16 +699,9 @@
       "source": "AI Business",
       "published": "Wed, 04 Feb 2026 21:47:10 GMT",
       "type": "news"
-    },
-    {
-      "title": "Moltbook is the newest social media platform \u2014 but it\u2019s just for AI bots - NPR",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTDRhMGlWYmUweUgtcWJvZDJBQ2g4TzZ0ZG4zMG05TWw0Q3Z5WGV5TnFqUGx1c3ppclExT1Joc1VINm1vYWM5S012VkkxYnozMUdnT2RWdF9PRDhUdko1dllJT1Y4Mjdvc3RHZlpacHpOd2RtUm5QQW4yeG4zb2JNY3ln?oc=5",
-      "source": "NPR",
-      "published": "Wed, 04 Feb 2026 21:06:01 GMT",
-      "type": "news"
     }
   ],
-  "last_updated": "2026-02-20T14:26:31.381119+00:00",
+  "last_updated": "2026-02-20T17:58:02.074131+00:00",
   "total_fetched": 25,
-  "new_this_run": 14
+  "new_this_run": 15
 }
