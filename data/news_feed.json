@@ -1,6 +1,13 @@
 {
   "articles": [
     {
+      "title": "Moltbook, the 'thriving' social network for AI agents, is just a small echo chamber researchers hijacked in days - the-decoder.com",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONE1MSU80eXRsVDZ4ZE1TamNvUzZBRXUxcF9fWnhEOEVZSEZPdk9OVmhzTGN5cUtLLTVyMnZMNUtpZkFMLVpXSnYyNjhWdjJ6TXJyTEVSRXBHZ3NSTTlxeXhUZXBiSk5SM1Zzd24xZXU4YlNEVWJLVmlRQjFsd2NsVjMyTjdtb0V4QS1XaXVMVmNsSnJ4WXZZY0prUWl6dXNIOTdOYVBDM3NCUG1BeXhHbTZ4ZGFOTHFYRXJoRWlUZW1mNVFTUFAxU1RWckNyZw?oc=5",
+      "source": "the-decoder.com",
+      "published": "Fri, 20 Feb 2026 20:46:28 GMT",
+      "type": "news"
+    },
+    {
       "title": "How long will it be before AI starts using us? - Substack",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9YUmFiTVZSejdoUVE1N3EzdlNmWXlOSDFVY1AzdEUtUWpWenUydXdwZ2h5cXVIbkJvX2VZeHp0RXg4NmJVM1ZvRmZNY1R5T0dYZGNDb0Nmc3ZUNUtqbnJqM2ZsLTd2UQ?oc=5",
       "source": "Substack",
@@ -692,16 +699,9 @@
       "source": "Answers in Genesis",
       "published": "Wed, 04 Feb 2026 22:20:27 GMT",
       "type": "news"
-    },
-    {
-      "title": "Opinion Divided on Moltbook Social Network for AI Agents - AI Business",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTl81REpybk5kZjN3VmItMU9WTGpxT0l1OHhxdm8wQnU3b1lnRWNSY3RWakhOTzAzTVplX1BINi1VV05mS3o0WVk0bkcwNnpmOGsySHE4bEpCODA5YmZyeURuYnhKb3hqeXo1UDh5ZUREdjlRRlRKY3M2QmdPWGdDSE9B?oc=5",
-      "source": "AI Business",
-      "published": "Wed, 04 Feb 2026 21:47:10 GMT",
-      "type": "news"
     }
   ],
-  "last_updated": "2026-02-20T19:49:47.847152+00:00",
+  "last_updated": "2026-02-20T20:57:45.068419+00:00",
   "total_fetched": 25,
   "new_this_run": 13
 }
