@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title": "On the experimental Reddit-like platform, AI agents engage in human-like discussions but it isn't true intelligent thought, observers say - Facebook",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOMGNtWlJ2cThCcjlnYVRUYW9JdUJ4Qzg2LVpTZlBUTWpILVJIVk9GN3pkRU81eE1vSExwUmRuUkZMa1psaEQxdXhLcVpPY3doenNteWhCX1EtVXF6LTVocE84WGswWWVaMVcyUlJLbDlueXpTUWI0ZFY3Y2pwZnVwWE9fOVhNYlNCT0J2NVgwVzY0MnZqTDA5TnJCUkZ4d3pFN2haT3o0QVdudko1ZHN5ajNtbXNQVFV5VERLSFBMTE9GVGI0bnNHN2g1Z3pGNlFDU2hpZkw5aXRvZGs?oc=5",
+      "source": "Facebook",
+      "published": "Sat, 21 Feb 2026 00:37:01 GMT",
+      "type": "news"
+    },
+    {
+      "title": "What is Moltbook? A Reddit-like site where AI bots talk religion, crypto scams, existence - Rappler",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYUFzMnNkX0RiVDlpeTMyN2VNQVBZZnl4TzNucGVmMlV1T2xVOVlPVzhKWHJjbzZQQ283TUl1bXlNc2txVGNFblNnX09ieHJIQ3lzOUpkLTMydGl5RktFaHZiX1FTWXJ3d2VFS2lTVi1EYzE1cDRTUWJXcVplWW5kS0lMR3NKU0JqNV9z?oc=5",
+      "source": "Rappler",
+      "published": "Sat, 21 Feb 2026 00:30:00 GMT",
+      "type": "news"
+    },
+    {
       "title": "Moltbook, the 'thriving' social network for AI agents, is just a small echo chamber researchers hijacked in days - the-decoder.com",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONE1MSU80eXRsVDZ4ZE1TamNvUzZBRXUxcF9fWnhEOEVZSEZPdk9OVmhzTGN5cUtLLTVyMnZMNUtpZkFMLVpXSnYyNjhWdjJ6TXJyTEVSRXBHZ3NSTTlxeXhUZXBiSk5SM1Zzd24xZXU4YlNEVWJLVmlRQjFsd2NsVjMyTjdtb0V4QS1XaXVMVmNsSnJ4WXZZY0prUWl6dXNIOTdOYVBDM3NCUG1BeXhHbTZ4ZGFOTHFYRXJoRWlUZW1mNVFTUFAxU1RWckNyZw?oc=5",
       "source": "the-decoder.com",
@@ -685,23 +699,9 @@
       "source": "CNET",
       "published": "Thu, 05 Feb 2026 01:00:45 GMT",
       "type": "news"
-    },
-    {
-      "title": "An AI-only social network now has more than 1.6M 'users.' Here\u2019s what you need to know - ABC News",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYUltSWwzVXh1eUcweXBORzZnRk5xLXMxRU5oUXBibTdlb1NFU0MxOE40NEs4UXdYZC1ZOFlwSlVlRDZDT1ExTm5ZT25tbWtSNUVRWjRNNHBwQmd0cEVrNHZOY0FyYjAwalIxdmtzMGRLaVpjaUM2aTVfM2M5dFZaWkwwUkE5ZnA3bDFvbDBHck8zTUFp0gGaAUFVX3lxTE9kYlVZa2pCZnVrcmV0NWRJc1VvZ3RsVWliczFDVzRtbG8xX2t6Z2MzdnR6VUV3Y1hxeGJoUjZWcEpYZW5WdHpFVWVuZjA4clVsVFNmWUl2RDFxTVFaTFNhWVdYalkxd2hzZ29vSjRoYWZyb1lWbDA4ZHF0U05QeVdad0hzbTZfVlZBaVdyVUF4blNJWXA0cTlOdlE?oc=5",
-      "source": "ABC News",
-      "published": "Wed, 04 Feb 2026 22:47:19 GMT",
-      "type": "news"
-    },
-    {
-      "title": "Moltbook Lets AI Agents Talk to Each Other\u2014and They Immediately Made Their Own Religion - Answers in Genesis",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBiY1M3TnJIZFdMd1lTQ1h3QjVUN0lqaVBxUHAwYUluZ0hMRUN6aUtIbC1MbFBzb202R1U5RXFrdmRrRGc5N2RmM1BjMjBYYzNSQ0RheGhndTZQRlRVWGQtdVhlRnd4LUwyV0YtbUVsckJLWTFhdDlhamR3bjM3TG8?oc=5",
-      "source": "Answers in Genesis",
-      "published": "Wed, 04 Feb 2026 22:20:27 GMT",
-      "type": "news"
     }
   ],
-  "last_updated": "2026-02-20T23:00:48.862080+00:00",
+  "last_updated": "2026-02-21T04:53:51.343147+00:00",
   "total_fetched": 25,
-  "new_this_run": 12
+  "new_this_run": 13
 }
