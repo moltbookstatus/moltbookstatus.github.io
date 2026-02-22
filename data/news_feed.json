@@ -1,6 +1,13 @@
 {
   "articles": [
     {
+      "title": "New Social Media Site Showed AI Plotting The Singularity, But You Should Be Worried For A Different Reason - bgr.com",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBnUTBNcjhIbkNFUmJvYmhySnFFX2JWYjhWSU5uNlo2RWlsZWl4RkNNZ2RsWkRkc2VERnVMM0t3XzdZVElaWHdES3IwSGxpOFN0SUlmaXlhWWlXX3VBT1pwN0FnM0N3TTFLTmE0SjVodHNfTXAyLWpUV01uRQ?oc=5",
+      "source": "bgr.com",
+      "published": "Sun, 22 Feb 2026 17:47:00 GMT",
+      "type": "news"
+    },
+    {
       "title": "Moltbook: The AI Agent Forum That Briefly Believed It Was Human - Forbes",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRF95dzJMRzlwTnJSZUFIckdEbDdPY3FGR2hHcElwVkp5OEFpckk0c25yR0c2Y0VGTURtSlRiZGE1Q3VIWmozRTRrTFpKRUhsSU43aWM1eW41am1EbkhfcWFEZDNvT2RwU1hGT21wNHEwR1dKeFVaeUsyRTc4S29YalM3ampfTkdxSU1HV0hZVFpFS2V5eklDTnluaXlkUTNzQlZLYS0yMml3NEcxazV3djZNbXVjQQ?oc=5",
       "source": "Forbes",
@@ -692,16 +699,9 @@
       "source": "CCN.com",
       "published": "Thu, 05 Feb 2026 12:48:26 GMT",
       "type": "news"
-    },
-    {
-      "title": "The AI social network is bonkers - The Boston Globe",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOS21UVXBVdkcyOGVUTWk3ZTVuZU0wRzVDMGV0ZmJBTVRCX1dvLTJtZjRpOWs0RWhvekwyc3ZWSVdOQlYyVXJGbGs4Sk45enFDV01oanMwZWVQN0R3RklGRkZUbmw3TlBIVTdUN3oxVnNndndIN0JxTDB5QklCd2NXcURhalRkdi1X?oc=5",
-      "source": "The Boston Globe",
-      "published": "Thu, 05 Feb 2026 09:33:02 GMT",
-      "type": "news"
     }
   ],
-  "last_updated": "2026-02-22T17:01:01.950168+00:00",
+  "last_updated": "2026-02-22T19:05:28.827230+00:00",
   "total_fetched": 25,
-  "new_this_run": 15
+  "new_this_run": 16
 }
