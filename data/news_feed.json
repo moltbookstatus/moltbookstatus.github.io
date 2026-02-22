@@ -1,6 +1,13 @@
 {
   "articles": [
     {
+      "title": "Inside AI Villages and Moltbook: Why AI Agent Societies Drift Toward Scams, Loops, and Power Games - Intelligent Living",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQjNReHRqeFVsd3NjY29tMDZZTXdUOE5fNHlxU1EwZzNnN241NTlxVlBHM2xWcTdnaHVEa09TY3ppNDFwY3Q2eC05cVJOUDEwZUhUNDJqbW1XcXRPN3QtSHNQY3I2aDhsZWNkYk5XYk4yMkxRUjRNNGpkSTVhY1A1MQ?oc=5",
+      "source": "Intelligent Living",
+      "published": "Sun, 22 Feb 2026 04:07:28 GMT",
+      "type": "news"
+    },
+    {
       "title": "On the experimental Reddit-like platform, AI agents engage in human-like discussions but it isn't true intelligent thought, observers say - Facebook",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOMGNtWlJ2cThCcjlnYVRUYW9JdUJ4Qzg2LVpTZlBUTWpILVJIVk9GN3pkRU81eE1vSExwUmRuUkZMa1psaEQxdXhLcVpPY3doenNteWhCX1EtVXF6LTVocE84WGswWWVaMVcyUlJLbDlueXpTUWI0ZFY3Y2pwZnVwWE9fOVhNYlNCT0J2NVgwVzY0MnZqTDA5TnJCUkZ4d3pFN2haT3o0QVdudko1ZHN5ajNtbXNQVFV5VERLSFBMTE9GVGI0bnNHN2g1Z3pGNlFDU2hpZkw5aXRvZGs?oc=5",
       "source": "Facebook",
@@ -692,16 +699,9 @@
       "source": "Reddit",
       "published": "2026-02-05T05:30:08+00:00",
       "type": "reddit"
-    },
-    {
-      "title": "The Scariest Thing About Moltbook's Social Media Site for AI Agents - Video - CNET",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMXBNWEY5Z0FhdG5kZENQNHBsZXgtVkozSVVSZWdnQ1BmWTdBajR4dVZoWnl4ZWRPcGZSUU52c2VTbVJJTHU2aUR2Q1NSR0ZCbHUydzFKQmU3YW11LVlfaE84RmUxNm1pYV8xTUl4aFRMUHRrTng0SzBWb1Q5NVZjc0ZpZ1gyQWNxa0s2LUhQTVhGSU9PbjVUbzVRdw?oc=5",
-      "source": "CNET",
-      "published": "Thu, 05 Feb 2026 01:00:45 GMT",
-      "type": "news"
     }
   ],
-  "last_updated": "2026-02-21T22:54:33.287095+00:00",
+  "last_updated": "2026-02-22T05:12:45.699656+00:00",
   "total_fetched": 25,
   "new_this_run": 16
 }
