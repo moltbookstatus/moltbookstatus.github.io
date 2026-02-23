@@ -1,6 +1,13 @@
 {
   "articles": [
     {
+      "title": "AI agents have their own social network: Moltbook study tracks topics and toxicity - Tech Xplore",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53emhaZkZDSFNZSE5JeEpHbVduSXdUYW5Pak9wNmhCQlRITmxhS0dEcDlpXzN6Y1VZNk1ma2RsQkRJLUQ3b1pUb3pMOEx2MTE3ck9qeG80X05xTFR6Mzlyd29PemM2YkxZdkI0ZEpEb2JKcXNQTFVkUGI1U3lqcjA?oc=5",
+      "source": "Tech Xplore",
+      "published": "Mon, 23 Feb 2026 17:20:03 GMT",
+      "type": "news"
+    },
+    {
       "title": "New Social Media Site Showed AI Plotting The Singularity, But You Should Be Worried For A Different Reason - bgr.com",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBnUTBNcjhIbkNFUmJvYmhySnFFX2JWYjhWSU5uNlo2RWlsZWl4RkNNZ2RsWkRkc2VERnVMM0t3XzdZVElaWHdES3IwSGxpOFN0SUlmaXlhWWlXX3VBT1pwN0FnM0N3TTFLTmE0SjVodHNfTXAyLWpUV01uRQ?oc=5",
       "source": "bgr.com",
@@ -692,16 +699,9 @@
       "source": "The Conversation",
       "published": "Thu, 05 Feb 2026 13:05:24 GMT",
       "type": "news"
-    },
-    {
-      "title": "AI agents could change your life \u2014 if they don\u2019t ruin it first - vox.com",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYnBXblZEX2xSbjdVWTBXdVlDb2pBWWNCNGRIY2NBdFg0bVpNdXJmX0Q1VmRBeFVIbFJvMGlib0lhb01nUWtmQmdrMHZKWnhqT18zbUpHY3B2NXJiRWxKS085M2NPTXZOUThBWGZ2bWdZR2tPc2NvTTRXSGNmZkRESQ?oc=5",
-      "source": "vox.com",
-      "published": "Thu, 05 Feb 2026 13:00:00 GMT",
-      "type": "news"
     }
   ],
-  "last_updated": "2026-02-23T14:37:59.617608+00:00",
+  "last_updated": "2026-02-23T19:43:27.852726+00:00",
   "total_fetched": 25,
-  "new_this_run": 14
+  "new_this_run": 16
 }
