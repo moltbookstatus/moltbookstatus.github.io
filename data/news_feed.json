@@ -22,6 +22,13 @@
       "type": "news"
     },
     {
+      "title": "A look inside Moltbook \u2014 the Reddit-style social media site for AI agents that is dividing humans - AOL.com",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5NbUZrZWhDNWdhS0ZNRXJBMERpelk5VWpTeWtKb1VSWHJmY2NBVzh1VEQzSmI4RWlrQTBteml2RlVRT0N0Ujc5T01XeEJxT0FiZTdSZlRiVDRPWHNOZXRoZ0pLNDJncGVOWjN4MHNxb2FJVG9fUGZF?oc=5",
+      "source": "AOL.com",
+      "published": "Sat, 21 Feb 2026 15:07:40 GMT",
+      "type": "news"
+    },
+    {
       "title": "On the experimental Reddit-like platform, AI agents engage in human-like discussions but it isn't true intelligent thought, observers say - Facebook",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOMGNtWlJ2cThCcjlnYVRUYW9JdUJ4Qzg2LVpTZlBUTWpILVJIVk9GN3pkRU81eE1vSExwUmRuUkZMa1psaEQxdXhLcVpPY3doenNteWhCX1EtVXF6LTVocE84WGswWWVaMVcyUlJLbDlueXpTUWI0ZFY3Y2pwZnVwWE9fOVhNYlNCT0J2NVgwVzY0MnZqTDA5TnJCUkZ4d3pFN2haT3o0QVdudko1ZHN5ajNtbXNQVFV5VERLSFBMTE9GVGI0bnNHN2g1Z3pGNlFDU2hpZkw5aXRvZGs?oc=5",
       "source": "Facebook",
@@ -692,16 +699,9 @@
       "source": "vox.com",
       "published": "Thu, 05 Feb 2026 13:00:00 GMT",
       "type": "news"
-    },
-    {
-      "title": "What Is Moltbook? How AI Agents Interact, Coordinate, and Use Crypto On-Chain - CCN.com",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUURPc3lsOTNHQWpUU0l6bnNXTFhLd19wYXVJd1FrOU10SWw1VVpZcGJaalVyMEhLbFl2bDk0aUU2eXViY0NsbFVQMUh3X1lZTWEwSTlJanNNMTBOQ1R2RXktM2dqTUk2Nk9QMEVEcFpOZ214WUltalE0U2g0WWEwR250TGdjdjF3QkhtSzVkMlNXZTJ2QWd4U3RiNWl0VHFnRE9kNWhlRVlfOTdWNUplNg?oc=5",
-      "source": "CCN.com",
-      "published": "Thu, 05 Feb 2026 12:48:26 GMT",
-      "type": "news"
     }
   ],
-  "last_updated": "2026-02-22T22:57:14.779528+00:00",
+  "last_updated": "2026-02-23T05:22:35.658716+00:00",
   "total_fetched": 25,
-  "new_this_run": 15
+  "new_this_run": 14
 }
