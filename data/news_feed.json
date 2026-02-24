@@ -1,6 +1,13 @@
 {
   "articles": [
     {
+      "title": "OpenClaw and Moltbook explained: The latest AI agent craze - TechTarget",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUWw0c2VDbUlpU25WY3NUVklSTUxBNVRTcWl6dThMaDRLS3hSZklya1VPNTdIV2FZc1ktTnFxTUtqSUg5RWFMWEpORy1fQUxQYlI5MHJPakVUNTk0elR6S1hhWjNHZHdiRThEMXZwMjFROU1hYnQ0WUdYVUFhdnMxTGU4SzUzVDhYd1ZSYjFIMG9VWThuTTBnblpwRVFHanowYmpvSA?oc=5",
+      "source": "TechTarget",
+      "published": "Tue, 24 Feb 2026 19:48:54 GMT",
+      "type": "news"
+    },
+    {
       "title": "What Moltbook Reveals About the Hidden Security Risks of Autonomous AI Agents - CX Today",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQaS1pTEFnV3Jnak52ckNiM1FGZnFzZDQ5dWx1OHJmNGNhekEyUmw3cEx0Q0M4bGxwcDV5Z3hDLXNPVmdGWEpYcVVnbVhhOEtYSlUwME5NUng4d0FIUVd1S3h3aEcyNTRpQTE4R0g4TVdJYlB0T3NfbmFBQUFsZV9kdFVCSmRoY0o2d2wtazNiaEF3SFI1dzZodWM2VHBVNFlyUWpJZHhTMFJrZHBzNnVXYzVHMERuOHBFbUNrTEtmaElkRTUtb1FRUkFn?oc=5",
       "source": "CX Today",
@@ -692,16 +699,9 @@
       "source": "Tech Xplore",
       "published": "Thu, 05 Feb 2026 18:10:01 GMT",
       "type": "news"
-    },
-    {
-      "title": "Moltbook\u2019s new society - Engelsberg Ideas",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAtNEVsbHlncHhBYkdWZ196ODd0YjNoUnRnTUdNbEoySUtGRjBzMHNxN1hQSXZ4U01VaGNPeG5MRjlQbnF2MVhZMHFfUTRNdzlNOXZTTVJNbm9nMnJSZUE2cXE1MXluX3ZYX2c4?oc=5",
-      "source": "Engelsberg Ideas",
-      "published": "Thu, 05 Feb 2026 15:36:46 GMT",
-      "type": "news"
     }
   ],
-  "last_updated": "2026-02-24T19:33:04.892754+00:00",
+  "last_updated": "2026-02-24T21:53:25.116812+00:00",
   "total_fetched": 25,
   "new_this_run": 14
 }
