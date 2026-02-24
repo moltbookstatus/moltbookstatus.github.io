@@ -1,10 +1,24 @@
 {
   "articles": [
     {
+      "title": "A Meta AI security researcher said an OpenClaw agent ran amok on her inbox - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeldJSkthZG5Kam4xUU56cnhEa1I4YjFRUjZtQU1ld0YtMzloUzdGMDdMZG15ZlU5eVBGeFBlb0xPR09NMWtTNUJoa3lqZGFwam1hQnR4MG10TzA1dklIcEJTSWdFODY5MzNkSk1xRHFrTHl1OFFpcmUweVpJT0g1R2FBdnB0eEJvZ0o5UXlDN212Ym5WLVNLTF9ZUXpBanBoRGhXaTQ5OWRmeWF3QlE?oc=5",
+      "source": "TechCrunch",
+      "published": "Tue, 24 Feb 2026 00:57:14 GMT",
+      "type": "news"
+    },
+    {
       "title": "AI agents have their own social network: Moltbook study tracks topics and toxicity - Tech Xplore",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53emhaZkZDSFNZSE5JeEpHbVduSXdUYW5Pak9wNmhCQlRITmxhS0dEcDlpXzN6Y1VZNk1ma2RsQkRJLUQ3b1pUb3pMOEx2MTE3ck9qeG80X05xTFR6Mzlyd29PemM2YkxZdkI0ZEpEb2JKcXNQTFVkUGI1U3lqcjA?oc=5",
       "source": "Tech Xplore",
       "published": "Mon, 23 Feb 2026 17:20:03 GMT",
+      "type": "news"
+    },
+    {
+      "title": "AI or human? Researchers question who\u2019s posting on AI bot social media site Moltbook - MSN",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRFRNNVptT0EtRWE1ZnU5VXZjWlhBdkd6UElhSjBHNDAwWURZNVlRaU9SSlR1bXBBUUktUFhaaGhyN29EeVZtMFZlQS1TUi0xc3UwOWpYYmZIZU9McGVaX21tbTVDMm1yd0tuRi1KMmpzZzczdk9VNXZPYlRrZFVUM0VjNzBHNEkzTFFQVGhvdnJ6am0xbW5PYjlBem5qb2hySWVZckVEUVBtZE1BUDRtck13Vkd6ZUZDSkRmLTJfQkp1QUw3M0JPcmF5YUstN1pyV25N?oc=5",
+      "source": "MSN",
+      "published": "Mon, 23 Feb 2026 03:06:26 GMT",
       "type": "news"
     },
     {
@@ -685,23 +699,9 @@
       "source": "Engadget",
       "published": "Thu, 05 Feb 2026 14:00:00 GMT",
       "type": "news"
-    },
-    {
-      "title": "Moltbook Hype Masks AI Agent Hoaxes And Leaks - Colombia One",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9SOEhjM1lyRm1VcVBkVTRzdmJmU19PeUdkdDM4SDNLNEJldFc4UDRUeHZyeGlLT2xsOU1aZlRfSlJxTGRlQUtfUFpDaVprZVZ4clVlYW5JVnA1alVzcmd0SmFsaWZRZVl6S0x5Um5B?oc=5",
-      "source": "Colombia One",
-      "published": "Thu, 05 Feb 2026 13:42:00 GMT",
-      "type": "news"
-    },
-    {
-      "title": "Moltbook: AI bots use social network to create religions and deal digital drugs \u2013 but are some really humans in disguise? - The Conversation",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNYmFZWnU5VEI2TTZERDFlbDIydG1aMkcwR09HRFZEM2VhQkM3Z1FZNklPTXZidXFPMktFUUs0Yk51a0JDc3NCY1IwVC1OeFZiWUNmWTVmVDlKazExUnNNRm1NVlM5aE16a1NnZ2VHSWNWSWV1QmV2VU1CZ3FTd3pOdkVUMGl3SUVlSGRvUF9odDhyTzExanFzcjJ4Z3N3WnJ0N0lpY2xIS0JTTGcycHdreWRTUWlTeUJRRzl0WEVhalJJc0JZVzhmTXVyelBFUXo3ejRwUEhqN0RlWUd1cExQcGtvZmpoaUk?oc=5",
-      "source": "The Conversation",
-      "published": "Thu, 05 Feb 2026 13:05:24 GMT",
-      "type": "news"
     }
   ],
-  "last_updated": "2026-02-24T11:58:26.359938+00:00",
+  "last_updated": "2026-02-24T15:12:22.380500+00:00",
   "total_fetched": 25,
-  "new_this_run": 15
+  "new_this_run": 17
 }
