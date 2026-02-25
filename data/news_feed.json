@@ -1,6 +1,13 @@
 {
   "articles": [
     {
+      "title": "AI Agents Have Their Own Water Cooler Now. Should We Be Worried? - The AI Journal",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdGxmZHJrejMySmRjdFhDamliYkRTbElhQU9jem0yeEFNdlZzeTVLVHdHTXRCNFhnRTR6NmZMYV90OXRtRVBKX0RNdDdLNGE1SkxYdWVIeG9RZmNrTEd5Sk9BTTJKajFqV2tQT2UtV3RJam1LT1paZXp5X1dyMGRJWHNwLVhTYjRaZE5n?oc=5",
+      "source": "The AI Journal",
+      "published": "Wed, 25 Feb 2026 15:03:54 GMT",
+      "type": "news"
+    },
+    {
       "title": "OpenClaw and Moltbook explained: The latest AI agent craze - TechTarget",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUWw0c2VDbUlpU25WY3NUVklSTUxBNVRTcWl6dThMaDRLS3hSZklya1VPNTdIV2FZc1ktTnFxTUtqSUg5RWFMWEpORy1fQUxQYlI5MHJPakVUNTk0elR6S1hhWjNHZHdiRThEMXZwMjFROU1hYnQ0WUdYVUFhdnMxTGU4SzUzVDhYd1ZSYjFIMG9VWThuTTBnblpwRVFHanowYmpvSA?oc=5",
       "source": "TechTarget",
@@ -692,16 +699,9 @@
       "source": "WIRED",
       "published": "Thu, 05 Feb 2026 18:30:01 GMT",
       "type": "news"
-    },
-    {
-      "title": "The Moltbook Case and How We Need to Think about Agent Security - Palo Alto Networks",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSUY4V1NQMVhiYi1ZR19pRjlnSHhaZVdpLWFNMmFYM2RraU9Qa0hfc0EybkZSMW9JSU83NHZ6X1g5cXVhRTdFNERSYjNVSEgzMGZRV1JGTklVWXFvaGRLY25EUHhreFhpMnBIYjdZeTZULVdtZm9WTjA4ekg2VWhxWXg0NlRVUVVhOEhpeUZuT1pmU01fV2hJelBHcWZyQ1hqWDVQTmd5OHJDSkZzZG91M0FPeEdqWU50enpn?oc=5",
-      "source": "Palo Alto Networks",
-      "published": "Thu, 05 Feb 2026 18:24:23 GMT",
-      "type": "news"
     }
   ],
-  "last_updated": "2026-02-25T19:34:01.883147+00:00",
+  "last_updated": "2026-02-25T21:49:18.207330+00:00",
   "total_fetched": 25,
-  "new_this_run": 15
+  "new_this_run": 16
 }
