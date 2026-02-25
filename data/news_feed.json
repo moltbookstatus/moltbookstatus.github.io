@@ -8,6 +8,13 @@
       "type": "news"
     },
     {
+      "title": "Control crisis: What happens when AI learns without us? - The Jerusalem Post",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE42V1pCOVc4QlprLXRLYnFnR3otSGJNVmpTUmV4TWpvR2IxS3lKQVB1MlhfUE9EM1FQbXluM1VRLXNZdHR2alFZNWl4amNVTEZzWmZqNGdWUWstMFlFblNORGlScw?oc=5",
+      "source": "The Jerusalem Post",
+      "published": "Tue, 24 Feb 2026 10:23:18 GMT",
+      "type": "news"
+    },
+    {
       "title": "What Moltbook Reveals About the Hidden Security Risks of Autonomous AI Agents - CX Today",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQaS1pTEFnV3Jnak52ckNiM1FGZnFzZDQ5dWx1OHJmNGNhekEyUmw3cEx0Q0M4bGxwcDV5Z3hDLXNPVmdGWEpYcVVnbVhhOEtYSlUwME5NUng4d0FIUVd1S3h3aEcyNTRpQTE4R0g4TVdJYlB0T3NfbmFBQUFsZV9kdFVCSmRoY0o2d2wtazNiaEF3SFI1dzZodWM2VHBVNFlyUWpJZHhTMFJrZHBzNnVXYzVHMERuOHBFbUNrTEtmaElkRTUtb1FRUkFn?oc=5",
       "source": "CX Today",
@@ -692,16 +699,9 @@
       "source": "Palo Alto Networks",
       "published": "Thu, 05 Feb 2026 18:24:23 GMT",
       "type": "news"
-    },
-    {
-      "title": "A bot-only social media platform: What the Moltbook experiment is teaching us about AI - Tech Xplore",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcENWZXlhX21KTnpsdHl1UTd2azF4YzI5c1RDUkxrS3RoMXFQeDhEUWdDTXlKUV9rcUEtUVpqU0lyQldPc2RhZGpoZDVJNUJnQTJGUFVRaFlrZURrSU50al9CcnRSMU1iU3pwbEh5RkRkeTFmUkxhTzcwTWJJYno1Sg?oc=5",
-      "source": "Tech Xplore",
-      "published": "Thu, 05 Feb 2026 18:10:01 GMT",
-      "type": "news"
     }
   ],
-  "last_updated": "2026-02-24T23:05:01.623233+00:00",
+  "last_updated": "2026-02-25T05:16:52.533663+00:00",
   "total_fetched": 25,
-  "new_this_run": 13
+  "new_this_run": 16
 }
