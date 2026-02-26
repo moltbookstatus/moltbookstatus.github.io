@@ -1,6 +1,13 @@
 {
   "articles": [
     {
+      "title": "OpenClaw and Moltbook: why a DIY AI agent and social media for bots feel so new (but really aren\u2019t) \u2013 Daniel Binns - Inforrm's Blog",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQWVDVTFja0hJTmdHcHVhZkhCOW9Qc1lnQWxBOWEtSFlMNFB4Wms1aWhpVm1zUUhDZ0VqY2dxX1RzSHpZOWsxemt2M3QzTUI4RlpXYVBiTG9Fd1l3MTc2cXBWUU8zZG1WS245MTZCS1ZWRFF3S0U3bmhhTWJIQ08yZTk4MzNKOHh3QjNWNzdSR1Z2UXpBN1ZoYzY1TklvaE5mOVdRdlRGbHRtcWlJQlNXcElKQ29POGZMaVNEOG9IT3JlNzU1NlRwVkJBOU5wNFRlRzg1U3FzSWZvMl8x0gHcAUFVX3lxTE1BZUNVMWNrSElOZ0dwdWFmSEI5b1BzWWdBbEE5YS1IWUw0UHhaazVpaGlWbXNRSENnRWpjZ3FfVHNIelk5azF6a3YzdDNNQjhGWldhUGJMb0V3WXcxNzZxcFZRTzNkbVZLbjkxNkJLVlZEUXdLRTduaGFNYkhDTzJlOTgzM0o4eHdCM1Y3N1JHVnZRekE3VmhjNjVOSW9oTmY5V1F2VEZsdG1xaUlCU1dwSUpDb084ZkxpU0Q4b0hPcmU3NTU2VHBWQkE5TnA0VGVHODVTcXNJZm8yXzE?oc=5",
+      "source": "Inforrm's Blog",
+      "published": "Thu, 26 Feb 2026 09:12:50 GMT",
+      "type": "news"
+    },
+    {
       "title": "AI Agents Have Their Own Water Cooler Now. Should We Be Worried? - The AI Journal",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdGxmZHJrejMySmRjdFhDamliYkRTbElhQU9jem0yeEFNdlZzeTVLVHdHTXRCNFhnRTR6NmZMYV90OXRtRVBKX0RNdDdLNGE1SkxYdWVIeG9RZmNrTEd5Sk9BTTJKajFqV2tQT2UtV3RJam1LT1paZXp5X1dyMGRJWHNwLVhTYjRaZE5n?oc=5",
       "source": "The AI Journal",
@@ -692,16 +699,9 @@
       "source": "dw.com",
       "published": "Thu, 05 Feb 2026 19:32:39 GMT",
       "type": "news"
-    },
-    {
-      "title": "Watch I Infiltrated Moltbook, the AI-Only Social Network - WIRED",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaUdWZ1NKaWdkV2x1RTlNWHZtOXNxUnl3aXJVWFMteHdtS3h0NWpiUGNMYlhfN3RVTFR2WHNaVkFBbE8yRmFYa25wR2NlckJPN1JHNWdHQkczdjRsYVVMLVpva09uSFpEOEN1NE1zOXptQ01CZlRzSjlvQ21ySlZva0xNeXpTd1lsM2tj?oc=5",
-      "source": "WIRED",
-      "published": "Thu, 05 Feb 2026 18:30:01 GMT",
-      "type": "news"
     }
   ],
-  "last_updated": "2026-02-26T11:57:39.476228+00:00",
+  "last_updated": "2026-02-26T14:43:31.243517+00:00",
   "total_fetched": 25,
-  "new_this_run": 15
+  "new_this_run": 16
 }
