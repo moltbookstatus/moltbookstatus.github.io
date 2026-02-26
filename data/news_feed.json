@@ -22,6 +22,13 @@
       "type": "news"
     },
     {
+      "title": "OpenClaw is only the beginning - Axios",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9tQnU5VmpHZG96dTk2cHdBTGdVSnRLUWZrT0xydUVjOHB3Q09Cb2VfV0hlWVVYS1JOWHRmZ1ZUOHdYa0ZoTE1lUUktZzEwTFZUMmc0T001VHVzWEo4UWRvYTQ4THMtb1JXcjRFdGlwd3lhZXM?oc=5",
+      "source": "Axios",
+      "published": "Tue, 24 Feb 2026 14:14:39 GMT",
+      "type": "news"
+    },
+    {
       "title": "Control crisis: What happens when AI learns without us? - The Jerusalem Post",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE42V1pCOVc4QlprLXRLYnFnR3otSGJNVmpTUmV4TWpvR2IxS3lKQVB1MlhfUE9EM1FQbXluM1VRLXNZdHR2alFZNWl4amNVTEZzWmZqNGdWUWstMFlFblNORGlScw?oc=5",
       "source": "The Jerusalem Post",
@@ -692,16 +699,9 @@
       "source": "StudyFinds",
       "published": "Fri, 06 Feb 2026 02:33:41 GMT",
       "type": "news"
-    },
-    {
-      "title": "Moltbook explained: Where AI bots meet to 'discuss' humans - dw.com",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbWpFdkJyY3lPSkJ5VFU4RVpOM01DOUNXLXNXNzBiSk1kdEFUUHB3Ry1EYVBMSlNxQjFrd2ZkTkVHZk4xTUFwRHFVdGx6dXJyUkFoWS1XZ0ZsM0d1NjdqRnI4RGxQYzBsb1pMeHJRd21hZkdzSmdPcS1wRHVhbklOWnhVV25FY3d2M1N4SWhLWm1jUdIBkgFBVV95cUxNN2ZGT0tuZ1h0OGpwVWF3eVVVOF9SOFE4T1NjU3p0Y2xYeTB5Q3VPMUYzVFlIRHVDRWUyRVJiSnM1Yy10REw4cVFUVHVHZ2VXcEU2bkU3NWFoeUstRXRLdVlob09MczJlUWtvczhwak5oWU5jQklmcEZYRl9lYlgzZDVZWUdYQXl5ejZXVHNoSmFKUQ?oc=5",
-      "source": "dw.com",
-      "published": "Thu, 05 Feb 2026 19:32:39 GMT",
-      "type": "news"
     }
   ],
-  "last_updated": "2026-02-26T18:10:05.601685+00:00",
+  "last_updated": "2026-02-26T21:47:20.729212+00:00",
   "total_fetched": 25,
   "new_this_run": 16
 }
