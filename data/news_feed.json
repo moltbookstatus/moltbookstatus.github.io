@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title": "Moltbook: The conversation we should be having - Fast Company",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTTQyeEppMlhxc2lsYnBVY3QxdXMyNWNRUEE5QUgtb0hfbmk3SGc5OWNCMEV4b3oyanZ6U3NLV1pWd2tnLXdnUGZIN1pyRFJZLWZNQmxuVXBFSlNCZFdCNkhrQmd1TlhqLUV5U2dieFJrYzNlZlhOM1NVWHd4dnhMUVFzU18zamdTaXc?oc=5",
+      "source": "Fast Company",
+      "published": "Fri, 27 Feb 2026 13:45:43 GMT",
+      "type": "news"
+    },
+    {
+      "title": "Surprise! The One Being Ripped Off by Your AI Agent Is You - Tech Policy Press",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWFNFOEgwNlg1Q0RrMTFsQUxTVUo0Q3c3a0ZIemFOd3ZwVkFVU3dtUW90Q28wRlktUVFEajFUV3lOQXFZWi1uN0xFMnkyelR0Wm9DUFU0Z1hZUEVFQ0c4UmhReWIwVWgtZnVZS2lqaEY4S3hiV1VWcHBOaTBqVy1TQklWeXZjQVlTTHZhWUNzQQ?oc=5",
+      "source": "Tech Policy Press",
+      "published": "Fri, 27 Feb 2026 12:48:36 GMT",
+      "type": "news"
+    },
+    {
       "title": "OpenClaw and Moltbook: why a DIY AI agent and social media for bots feel so new (but really aren\u2019t) \u2013 Daniel Binns - Inforrm's Blog",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZlF1Nmd2ODBYMzJqVXpDRTc0a1dDVWYyR01XNDBZa3V4RVltSHJUV2M1SmZwQzM5eTJxRWM2MnZsNzlpTzdfZEtrXzlqenFqV2xVbDZ2clRYU3RZOGhQTGxMckVXRXJBdGlVaUc3aWZySFdIdG1rQV9XNDg4dDA3NUpuaGlRdFNKN0FRMUxiSW5PRUt4VEJ2bVFPTEdZTzU1aVoxYUNzOHBxQldvNzZUV0dzWVdZejQ1d3BRTVR3R0hCNW5uR04xb1NNMnc2ckN1bUNaZUJMb9IB3AFBVV95cUxNQWVDVTFja0hJTmdHcHVhZkhCOW9Qc1lnQWxBOWEtSFlMNFB4Wms1aWhpVm1zUUhDZ0VqY2dxX1RzSHpZOWsxemt2M3QzTUI4RlpXYVBiTG9Fd1l3MTc2cXBWUU8zZG1WS245MTZCS1ZWRFF3S0U3bmhhTWJIQ08yZTk4MzNKOHh3QjNWNzdSR1Z2UXpBN1ZoYzY1TklvaE5mOVdRdlRGbHRtcWlJQlNXcElKQ29POGZMaVNEOG9IT3JlNzU1NlRwVkJBOU5wNFRlRzg1U3FzSWZvMl8x?oc=5",
       "source": "Inforrm's Blog",
@@ -685,23 +699,9 @@
       "source": "Business Insider",
       "published": "Fri, 06 Feb 2026 10:30:00 GMT",
       "type": "news"
-    },
-    {
-      "title": "The Social Network Where Humans are Only Allowed to Observe: Inside Moltbook",
-      "link": "https://www.reddit.com/r/singularity/comments/1qxasii/the_social_network_where_humans_are_only_allowed/",
-      "source": "Reddit",
-      "published": "2026-02-06T07:03:55+00:00",
-      "type": "reddit"
-    },
-    {
-      "title": "Agentic AI Site 'Moltbook' Is Riddled With Security Risks - Dark Reading",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBnb1pBOXoyYTAxNFVGT1pBaUgzWUc3SHdmY3M0QUs3X3QzOWJ4UDA2bXc1cjV5TFFMdWUzR1VsR1ozN0JTMl9vY0NLbUtsY1M1RXFsRUtlcHVudk5CVlFTdUlBRGdnd3pZc3JGaWl1Y0oyVmg0Q1F6WkpFUmtYdw?oc=5",
-      "source": "Dark Reading",
-      "published": "Fri, 06 Feb 2026 04:18:45 GMT",
-      "type": "news"
     }
   ],
-  "last_updated": "2026-02-27T11:47:20.220569+00:00",
+  "last_updated": "2026-02-27T17:56:46.779246+00:00",
   "total_fetched": 25,
-  "new_this_run": 16
+  "new_this_run": 17
 }
