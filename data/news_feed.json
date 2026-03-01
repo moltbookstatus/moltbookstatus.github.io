@@ -1,6 +1,13 @@
 {
   "articles": [
     {
+      "title": "Moltbook's alleged AI civilization is just a massive void of bloated bot traffic - The Decoder",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbVRMTXYwb0FBZFBES3hwV3AzT0dhUkprMzVQc3FoUlBlUmdubUZxQldJZ2tJQkdhZjdUeG9lWWg0SVBaa1Nlb0thWUN3S0IzcjNlR0NOcl9XMnprR3VRNnpqYUxDUUc3dDVSWlduMmgtb0pQbHdXbi1nanhvR1Zia3JKUDV0N3NEV3V4XzN2clFtUmZGSnJBOGdvYjFYdGdUT016azVKaw?oc=5",
+      "source": "The Decoder",
+      "published": "Sun, 01 Mar 2026 10:43:30 GMT",
+      "type": "news"
+    },
+    {
       "title": "Moltbook: The conversation we should be having - Fast Company",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTTQyeEppMlhxc2lsYnBVY3QxdXMyNWNRUEE5QUgtb0hfbmk3SGc5OWNCMEV4b3oyanZ6U3NLV1pWd2tnLXdnUGZIN1pyRFJZLWZNQmxuVXBFSlNCZFdCNkhrQmd1TlhqLUV5U2dieFJrYzNlZlhOM1NVWHd4dnhMUVFzU18zamdTaXc?oc=5",
       "source": "Fast Company",
@@ -692,16 +699,9 @@
       "source": "Norwalk Hour",
       "published": "Fri, 06 Feb 2026 13:58:58 GMT",
       "type": "news"
-    },
-    {
-      "title": "Engadget Podcast: So there\u2019s a social network for AI agents now - Engadget",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVWluUlA1MlBmdFVLM1laSkdVVngtS05PRlBZNXBoenhUb0l1ODlxZXU1b1ZTd3pJaWRvbGJTTFRrSGwwTGNjN3UzUDNMWWpNWHFYd19NcGdMYWRERVNEdV9XSkxDS0pfSTRzWDNESmROdFhLOUNsdkpnWWZabDY3VVVneGM3VVp4U2tfU3BHYmNKM055UkRMMUV0SmI2TXhJcjFJUzluVQ?oc=5",
-      "source": "Engadget",
-      "published": "Fri, 06 Feb 2026 13:30:00 GMT",
-      "type": "news"
     }
   ],
-  "last_updated": "2026-03-01T10:54:07.423604+00:00",
+  "last_updated": "2026-03-01T13:51:16.523333+00:00",
   "total_fetched": 25,
-  "new_this_run": 14
+  "new_this_run": 18
 }
