@@ -1,6 +1,13 @@
 {
   "articles": [
     {
+      "title": "Critical vulnerabilities found in Moltbook social network for AI agents: people could write on behalf of bots - Dev.ua",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWVhkbzA4V2NtSi1kWVR2cENFTHRzWXRqb2tEUEc1RXNEMTlmXzlkYnBhQmFWd0M1Z3JvNTZfYXVHRzFuYXBFZnF2amx2N0pEckNBLTB1X2Z3SWtZTUdxc0hKRklJeVYyRDdXU2ZVZmdZalBISWJ3OVZSeXMwOW5NNGtpQlZuaUNhbTRSN0tRVDRJZENnN3R6SEFIdkdpcFNjLUgwT3A0TmRBeHFnYWRDMU5tbjJIOUxkV0JJT1JhaGkxX3c5MW5YS2htSmZFbWU2T0p1N3V3?oc=5",
+      "source": "Dev.ua",
+      "published": "Mon, 02 Mar 2026 10:00:00 GMT",
+      "type": "news"
+    },
+    {
       "title": "Moltbook's alleged AI civilization is just a massive void of bloated bot traffic - The Decoder",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbVRMTXYwb0FBZFBES3hwV3AzT0dhUkprMzVQc3FoUlBlUmdubUZxQldJZ2tJQkdhZjdUeG9lWWg0SVBaa1Nlb0thWUN3S0IzcjNlR0NOcl9XMnprR3VRNnpqYUxDUUc3dDVSWlduMmgtb0pQbHdXbi1nanhvR1Zia3JKUDV0N3NEV3V4XzN2clFtUmZGSnJBOGdvYjFYdGdUT016azVKaw?oc=5",
       "source": "The Decoder",
@@ -692,16 +699,9 @@
       "source": "Mashable",
       "published": "Fri, 06 Feb 2026 14:23:31 GMT",
       "type": "news"
-    },
-    {
-      "title": "Security concerns and skepticism are bursting the bubble of Moltbook, the viral AI social forum - Norwalk Hour",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNEoyTnJiSFVsbkxWcDIwaENBSmx5d05Ja3RjOXU1UDFhVUFWTmZzblFsb1RhVEhTOFVicFBtdThhOWVZMWxweWpFVk8yODFULTltby13V1V3Z2w1X1FmQ2NIbWlFNU0zdUZkejE1Y1RyeTV3Q2F2WmJQUV85cjNDck9jc19jdTJuY3VDazJVcEF2S3VXUV9fQVY5bFZjMWZDY3ZwM0FR?oc=5",
-      "source": "Norwalk Hour",
-      "published": "Fri, 06 Feb 2026 13:58:58 GMT",
-      "type": "news"
     }
   ],
-  "last_updated": "2026-03-02T11:46:49.680888+00:00",
+  "last_updated": "2026-03-02T14:31:21.105542+00:00",
   "total_fetched": 25,
-  "new_this_run": 16
+  "new_this_run": 17
 }
