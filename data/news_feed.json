@@ -1,6 +1,13 @@
 {
   "articles": [
     {
+      "title": "What's the vibe of vibe coding? - marketplace.org",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOem1jRTlXWXphbF85UE5mOFBLNThlUXNnMTREWkpRdWZzS1QtdlRfemxkZHRrbDZLVlRsYkUzdXpkcVVCOGlQaV9HSS0xUWtjWF80NHVYbHRCNEh5WFpfU3dGQWFiUEtXcmtpeDFZdHg2d29kOFJKcnp0QTFuOWxsRlNzNTh1ZUUtNXEzdERWZmdZT1pITU1qZFFMQUpNejkyVTNZaTk2bHVmWDNp?oc=5",
+      "source": "marketplace.org",
+      "published": "Mon, 02 Mar 2026 16:01:00 GMT",
+      "type": "news"
+    },
+    {
       "title": "Critical vulnerabilities found in Moltbook social network for AI agents: people could write on behalf of bots - Dev.ua",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWVhkbzA4V2NtSi1kWVR2cENFTHRzWXRqb2tEUEc1RXNEMTlmXzlkYnBhQmFWd0M1Z3JvNTZfYXVHRzFuYXBFZnF2amx2N0pEckNBLTB1X2Z3SWtZTUdxc0hKRklJeVYyRDdXU2ZVZmdZalBISWJ3OVZSeXMwOW5NNGtpQlZuaUNhbTRSN0tRVDRJZENnN3R6SEFIdkdpcFNjLUgwT3A0TmRBeHFnYWRDMU5tbjJIOUxkV0JJT1JhaGkxX3c5MW5YS2htSmZFbWU2T0p1N3V3?oc=5",
       "source": "Dev.ua",
@@ -33,6 +40,13 @@
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWFNFOEgwNlg1Q0RrMTFsQUxTVUo0Q3c3a0ZIemFOd3ZwVkFVU3dtUW90Q28wRlktUVFEajFUV3lOQXFZWi1uN0xFMnkyelR0Wm9DUFU0Z1hZUEVFQ0c4UmhReWIwVWgtZnVZS2lqaEY4S3hiV1VWcHBOaTBqVy1TQklWeXZjQVlTTHZhWUNzQQ?oc=5",
       "source": "Tech Policy Press",
       "published": "Fri, 27 Feb 2026 12:48:36 GMT",
+      "type": "news"
+    },
+    {
+      "title": "This AI Agent Is Designed to Not Go Rogue - WIRED",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9sbXZuMG4xMTltcFl3MllpOTFWWG92TndsRXJoazRaLThYcS1ZZkZDTTgtb1JMbFlzczdoa0hNdlVCM0dmM01Ldm81SU9nNUxJbTJpVUZyQkZua2I0U0l1Mk41bFZkN1NyQWc?oc=5",
+      "source": "WIRED",
+      "published": "Thu, 26 Feb 2026 20:54:00 GMT",
       "type": "news"
     },
     {
@@ -685,23 +699,9 @@
       "source": "Spiceworks",
       "published": "Fri, 06 Feb 2026 15:02:54 GMT",
       "type": "news"
-    },
-    {
-      "title": "Security concerns and skepticism are bursting the bubble of Moltbook, the viral AI social forum - apnews.com",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcXgwdlVkYlJYeWRYWUtOb1ZDWnRXZHFQQUdBeTdjUi1IbmNhdEN3NXZFS01pMkl6V3kxMWJqRXBXQndhaDMzWEc2LWxPbEY1R284SmVKbzJhYlprcVQwWFd0LThCVnc2Nm9DVVkxS3VMS1RlU0FOckh6LVViYzNiUXhnc2R2THc3TElEODd6ejBNQkhRSEZZaEZXUjdmYTQ?oc=5",
-      "source": "apnews.com",
-      "published": "Fri, 06 Feb 2026 14:30:00 GMT",
-      "type": "news"
-    },
-    {
-      "title": "Rent-a-Human wants AI Agents to hire humans as gig workers - Mashable",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE42cy1wRFVYWUtwUTU4dTRuQWRVYm9QSVFKbEFKc1diSGJQd3dkNkxSVjNWcVkzMkZ4ZXU3bzA0VGg5QzdZUDZEVDA3MHVCclYyZkY2OGRITzhFeDg3X1BUaHZvUjhZdUU4TVFjM19YdHkxQkxodnBZcA?oc=5",
-      "source": "Mashable",
-      "published": "Fri, 06 Feb 2026 14:23:31 GMT",
-      "type": "news"
     }
   ],
-  "last_updated": "2026-03-02T14:31:21.105542+00:00",
+  "last_updated": "2026-03-02T18:02:40.517815+00:00",
   "total_fetched": 25,
   "new_this_run": 17
 }
