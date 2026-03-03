@@ -1,6 +1,13 @@
 {
   "articles": [
     {
+      "title": "The AI Advantage: Moltbook Signals the Rise of a Machine-to-Machine Internet - Colorado Springs Business Journal",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVDNGV0lUbjk2VUMxYktGZzJjUkpndl9qZFliVVA5dGdhMHJwMzFzMElobzBBQ0QtWTAxeU1LTGd3cDFuZEJMamlIVGRYUEo4b2VpODNsSnZjbGlCOVliMGYzNUdGWDg1Z2pWdmozM2FEZFFjSUFkUUYzYWM2MWZ4c1hxdF9pMERBaExpYTBHbXpTamxJR0RXRTFwS3pidmtudXJrUUVtb3VhSzNBRG1n?oc=5",
+      "source": "Colorado Springs Business Journal",
+      "published": "Tue, 03 Mar 2026 01:15:22 GMT",
+      "type": "news"
+    },
+    {
       "title": "What's the vibe of vibe coding? - marketplace.org",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOem1jRTlXWXphbF85UE5mOFBLNThlUXNnMTREWkpRdWZzS1QtdlRfemxkZHRrbDZLVlRsYkUzdXpkcVVCOGlQaV9HSS0xUWtjWF80NHVYbHRCNEh5WFpfU3dGQWFiUEtXcmtpeDFZdHg2d29kOFJKcnp0QTFuOWxsRlNzNTh1ZUUtNXEzdERWZmdZT1pITU1qZFFMQUpNejkyVTNZaTk2bHVmWDNp?oc=5",
       "source": "marketplace.org",
@@ -692,16 +699,9 @@
       "source": "MIT Technology Review",
       "published": "Fri, 06 Feb 2026 16:38:11 GMT",
       "type": "news"
-    },
-    {
-      "title": "Moltbook: The AI-only social network where bots run wild - Spiceworks",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQS1RzUDRHQlUxeWZOVkJXVFB5LUJNejV1YXJkdWFVOFBvMWFweDcwTkMwekppTGZ1NEUxaHFMdlJrY0szZFRyTXlKc2ZpWURxaXBHLUNVcjZFNDU1Ukt3RlNoMGNlTHpIVkkzUGtPdElSYWI0RmtsaktaMUMxaVR0eEhQN08ybUE3MHRxWmgweWVKemNSOFFF?oc=5",
-      "source": "Spiceworks",
-      "published": "Fri, 06 Feb 2026 15:02:54 GMT",
-      "type": "news"
     }
   ],
-  "last_updated": "2026-03-02T22:57:09.095405+00:00",
+  "last_updated": "2026-03-03T05:06:00.303661+00:00",
   "total_fetched": 25,
   "new_this_run": 16
 }
