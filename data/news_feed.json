@@ -1,6 +1,13 @@
 {
   "articles": [
     {
+      "title": "The Governance Gap That Moltbook Reveals and OpenAI Just Made Urgent - Tech Policy Press",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOczF3ZlJXaWU1N1Vpd2dPYzZRY3hsVjgwNDhndmVKMWZlWmhlZnpnZmg3TWFhejNRU21TWEF1OHVvSGFvUlIxRUY5OFdZRjN5MnI3bl8zRW9qelN2eUZEMGVjVFkxM3E5ODd5T3JocTB1blB1WVpGM2JzdHdXR1gtaW41dVJOMDQtdXRRTEJTX1gwUDZsdGpwRXpMMUpCMW8?oc=5",
+      "source": "Tech Policy Press",
+      "published": "Tue, 03 Mar 2026 14:24:28 GMT",
+      "type": "news"
+    },
+    {
       "title": "The AI Advantage: Moltbook Signals the Rise of a Machine-to-Machine Internet - Colorado Springs Business Journal",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVDNGV0lUbjk2VUMxYktGZzJjUkpndl9qZFliVVA5dGdhMHJwMzFzMElobzBBQ0QtWTAxeU1LTGd3cDFuZEJMamlIVGRYUEo4b2VpODNsSnZjbGlCOVliMGYzNUdGWDg1Z2pWdmozM2FEZFFjSUFkUUYzYWM2MWZ4c1hxdF9pMERBaExpYTBHbXpTamxJR0RXRTFwS3pidmtudXJrUUVtb3VhSzNBRG1n?oc=5",
       "source": "Colorado Springs Business Journal",
@@ -692,16 +699,9 @@
       "source": "the-independent.com",
       "published": "Fri, 06 Feb 2026 16:57:00 GMT",
       "type": "news"
-    },
-    {
-      "title": "Moltbook was peak AI theater - MIT Technology Review",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcEFnX255VWhJTmQxZ1RUdjdNUDlLVm5YT3JVUTRkd1J1UkJPVG5qUzJCQnRIMlcxalc0MV9oWVpxb1pYMlYzOEVxQXNYSHVfWnN4NHNmeGJxZHQzZ3h4R2FVdXktbUtxcDhZdG00OVdEY2JfNGtjd3dZdVJhQkdwN0lJbEwxV0540gGOAUFVX3lxTE1TWDVqSVBrNkVoTEd0V0M1NDBWODZiZHhGMmNWaGhXS3N4OVpjTTZfcTEzM1cwQW1kN2FrUDBDc01iVEVqSFRpS2NiRlRMRVo2M3Z6c1RYekxjOXF2WmhsT0JQeUg1QTJUNGRtcVV3WlU1WGw4VGtpY2U3ME9RZl8zdmpYNkxCZWVvLW9GQmc?oc=5",
-      "source": "MIT Technology Review",
-      "published": "Fri, 06 Feb 2026 16:38:11 GMT",
-      "type": "news"
     }
   ],
-  "last_updated": "2026-03-03T10:07:06.161778+00:00",
+  "last_updated": "2026-03-03T14:32:34.118482+00:00",
   "total_fetched": 25,
-  "new_this_run": 17
+  "new_this_run": 18
 }
