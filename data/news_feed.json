@@ -1,6 +1,13 @@
 {
   "articles": [
     {
+      "title": "Moltbook, the social network for AI agents - Telquel.ma",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVi1sZnViZGs0Wko0R0czdGpsSkJLNURqQUt6VHNoMWo2c2QydkVUN1VpbHF0Rjl3aUIxck1BckcwTDI3Vm05TlZ5YlVCVUVIdThkZHBacFgta2gtN3hRVUdTY015alA0eDdqQ1RwZWNDc0lfNnVKSXdrNnRjYV96SnRiUWlOdw?oc=5",
+      "source": "Telquel.ma",
+      "published": "Fri, 06 Mar 2026 14:11:42 GMT",
+      "type": "news"
+    },
+    {
       "title": "Are AI-to-AI platforms the next step?",
       "link": "https://www.reddit.com/r/artificial/comments/1rlg1sd/are_aitoai_platforms_the_next_step/",
       "source": "Reddit",
@@ -692,16 +699,9 @@
       "source": "Mashable SEA",
       "published": "Sat, 07 Feb 2026 10:00:00 GMT",
       "type": "news"
-    },
-    {
-      "title": "Moltbook Could Have Been Better",
-      "link": "https://www.reddit.com/r/artificial/comments/1qy6x48/moltbook_could_have_been_better/",
-      "source": "Reddit",
-      "published": "2026-02-07T06:53:12+00:00",
-      "type": "reddit"
     }
   ],
-  "last_updated": "2026-03-06T13:05:22.128563+00:00",
+  "last_updated": "2026-03-06T14:40:53.753184+00:00",
   "total_fetched": 25,
-  "new_this_run": 18
+  "new_this_run": 19
 }
