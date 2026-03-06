@@ -29,6 +29,20 @@
       "type": "news"
     },
     {
+      "title": "On Moltbook - Security Boulevard",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE52NlczUlV3T0lhZlg4aF8xeHNqSjhqNjItNVBLSzNqdjRMSHM4OHVOZFREWmdlamtwUkg4U05OZVBjazU1ZG5NYlp2Zkk3NHFydThWTTVQczlzUy1NR09n?oc=5",
+      "source": "Security Boulevard",
+      "published": "Tue, 03 Mar 2026 15:06:54 GMT",
+      "type": "news"
+    },
+    {
+      "title": "The Governance Gap That Moltbook Reveals and OpenAI Just Made Urgent - Tech Policy Press",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxONWVzU2FQVnBQRmItMXVELUdnYjNDQXBfYjdZaUpwb0xZSFREcldWRjhuUDJvRVg4R0V0Z3U0WnBwZ0t5djN1X0RxNThpSk9jQWNjQVh6U1lFWHc1LWYyeTZSbURuZk8wYTNCLWtCUENwMFNtZE8yMFlFLWJySnB4T3pKWFJ0WVRldGJ2SklpMlVRNlJXdjV6MkRxb1RxZw?oc=5",
+      "source": "Tech Policy Press",
+      "published": "Tue, 03 Mar 2026 14:24:28 GMT",
+      "type": "news"
+    },
+    {
       "title": "The Governance Gap That Moltbook Reveals and OpenAI Just Made Urgent - Tech Policy Press",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOczF3ZlJXaWU1N1Vpd2dPYzZRY3hsVjgwNDhndmVKMWZlWmhlZnpnZmg3TWFhejNRU21TWEF1OHVvSGFvUlIxRUY5OFdZRjN5MnI3bl8zRW9qelN2eUZEMGVjVFkxM3E5ODd5T3JocTB1blB1WVpGM2JzdHdXR1gtaW41dVJOMDQtdXRRTEJTX1gwUDZsdGpwRXpMMUpCMW8?oc=5",
       "source": "Tech Policy Press",
@@ -685,23 +699,9 @@
       "source": "Reddit",
       "published": "2026-02-07T06:53:12+00:00",
       "type": "reddit"
-    },
-    {
-      "title": "Security concerns and skepticism are bursting the bubble of Moltbook, the viral AI social forum - The Press Democrat",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5oeTQ5Z2ZmRXBNSnY3amFMRVFBTnhxTjFOTjhoX0FxVTRDNzJ5VEFSOHJ0am5jYldjZ2lyZ0pvYWZJRVdRa2I0MEJlLWlzS3AyWkM5ektzTEFKOHZOZ3lINWJ4LXBiY1hvMHpxSg?oc=5",
-      "source": "The Press Democrat",
-      "published": "Sat, 07 Feb 2026 01:01:34 GMT",
-      "type": "news"
-    },
-    {
-      "title": "Moltbook Gave Everyone Control of Every AI Agent - BankInfoSecurity",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQS0FmMjM4dnMwXy1YdXNPNWEtYmpVLTNsRlEwVlNpcEl1VFJTSE5pS3NtaXBRUU1TeFJLQjBnY1RjOXFUUnhUTUJNVmY1WmFqT3IxX3BYUzhqMGVhWHl6RDRIWk5SazR2S3RzWmN5NlFON0djd3VhNUFjZnF0MWVPM0Yya1BfVERnZ1h3dUhtYw?oc=5",
-      "source": "BankInfoSecurity",
-      "published": "Fri, 06 Feb 2026 23:12:58 GMT",
-      "type": "news"
     }
   ],
-  "last_updated": "2026-03-06T06:56:33.641000+00:00",
+  "last_updated": "2026-03-06T08:43:49.863038+00:00",
   "total_fetched": 25,
-  "new_this_run": 16
+  "new_this_run": 19
 }
