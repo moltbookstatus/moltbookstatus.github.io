@@ -1,6 +1,13 @@
 {
   "articles": [
     {
+      "title": "AI agents pose untold risk to humanity. We must act to prevent that future | David Krueger - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdXJVN0ItVWE4UWFTcm5zZ1V6YWlKSS1IN1ZNR2w5aWswS2ZJZndfbWJRRDlxcDhQa0JCQ3E5X1pMOWk4R0hNWGlRREl6bkZVSGN5TjA5bmxHZHBXenAtSEJNRVRLRzFzY3BiQmtjZkJGM0hhcGhVYm9ocnMwb3FtLVlsbHMwTk1MemJybnhmTHZucmt5cml4ZA?oc=5",
+      "source": "The Guardian",
+      "published": "Fri, 06 Mar 2026 17:00:00 GMT",
+      "type": "news"
+    },
+    {
       "title": "Moltbook, the social network for AI agents - Telquel.ma",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVi1sZnViZGs0Wko0R0czdGpsSkJLNURqQUt6VHNoMWo2c2QydkVUN1VpbHF0Rjl3aUIxck1BckcwTDI3Vm05TlZ5YlVCVUVIdThkZHBacFgta2gtN3hRVUdTY015alA0eDdqQ1RwZWNDc0lfNnVKSXdrNnRjYV96SnRiUWlOdw?oc=5",
       "source": "Telquel.ma",
@@ -692,16 +699,9 @@
       "source": "Mashable",
       "published": "Sat, 07 Feb 2026 11:00:00 GMT",
       "type": "news"
-    },
-    {
-      "title": "Moltbook, the viral AI sensation, isn't exactly Skynet. So what is it? - Mashable SEA",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVXJ5bkIxalF3Z21wRERpYUNDMExfMlN2WUxvTXI0bzVqdl9IWEV3ZGhOWFJSZU4yZmRXdDFocUpBZTA3SkxxY3U2LXBpSzhhRW5WZmVSWUMyLUFQd0NoTlg1Nm81WDJaZ3JmdUpKTnlYYWlQczN4X1BPZDJBTVJ4RnJqU01yRmstNmVQQ21oNU0tVjJVeWZtTmpEMFJvbkVDQ2dN?oc=5",
-      "source": "Mashable SEA",
-      "published": "Sat, 07 Feb 2026 10:00:00 GMT",
-      "type": "news"
     }
   ],
-  "last_updated": "2026-03-06T16:49:31.171100+00:00",
+  "last_updated": "2026-03-06T18:53:41.059451+00:00",
   "total_fetched": 25,
-  "new_this_run": 18
+  "new_this_run": 19
 }
