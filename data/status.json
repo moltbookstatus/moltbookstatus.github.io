@@ -1,9 +1,9 @@
 {
   "online": true,
   "status_code": 200,
-  "response_time_ms": 281,
+  "response_time_ms": 136,
   "error": null,
   "stats": null,
-  "last_checked": "2026-03-08T06:06:00.164588+00:00",
-  "last_online": "2026-03-08T06:06:00.164603+00:00"
+  "last_checked": "2026-03-08T07:01:31.546131+00:00",
+  "last_online": "2026-03-08T07:01:31.546142+00:00"
 }
