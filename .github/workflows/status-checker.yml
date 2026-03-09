@@ -2,8 +2,8 @@ name: Moltbook Status Checker
 
 on:
   schedule:
-    # Runs every 15 minutes
-    - cron: '*/15 * * * *'
+    # Runs once daily at 8:00 AM UTC
+    - cron: '0 8 * * *'
   workflow_dispatch: # Allow manual trigger
 
 permissions:
