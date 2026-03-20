@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "title": "Meta acquires AI agent network Moltbook that Sam Altman once mocked - MSN",
+      "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxNT0NjMlVpZDdmOFp4ZTdtYjh4aGo5WVVjRXhCYl9CcWxmU1doOHE1akhJZXIyemtuZlRMMDYybktuZTVZZHdtbmdNSEszeDhEbWZoRl9WLXpQS1pSSExtdVFOQ3hQSWM0ejRuZUdfX0I1dnNFVTMyZGtDU1F5Q3Axc3VEQTJxWjFhUXNUenM0YjBJdzNJODY1VVpCNmdDV0Fja2VuV0VaOEdSVlp2ZVhfZXIwbXFNSWdXNDV0RmYtRVljQi1lLVBkUFhMYld0S3BDSzN2aDZzZ0ZfUDNzVUtyaWRWUUpva08tUzlMb2VCRmYwRUZ1b1YyelFvOUpQREEwNTktZmhHVWxiUDdZRGgwbWtyWFM1TnNNTXg5N3dtNUpiYmEwcVJOWTZwSE1JZ3hZRlYxUEdNeWRvS2ZYRGY5NWs1YllLQ1owd0s0UG5nLWdkeHhTM1F0QVNBQUo0dw?oc=5",
+      "source": "MSN",
+      "published": "Thu, 19 Mar 2026 22:50:05 GMT",
+      "type": "news"
+    },
+    {
+      "title": "\u201cAnyone Know How to Sell Your Human?\u201d: Moltbook, the Strange Social Network Where AI Agents Chat Among Themselves - Le Figaro",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQck51ZFlUWFF0OVUtNFZlZy1HYXF3UXVSdXNRdjk0U0dhZWVfb0R3RW1heGI2dlRRVDN3c0EwNkgxSzhGS0hOTndPcFMyeUVmYlNCZklIWThaTk95b2dsdXBIVkdKZXMwdGZDN0hhZVg3ek50MWZWVVJvX3MtWV9ZOFY4d19Bb0ZGQnNuUGpkelg1V2lYaEhzRTZYM0t5LU9XdjVEV0lLWVE0bWFHQWItMDNBNkkzcWptQ1Ruam1rbUhuZlhiTzNfZnhrdGs0ZmR3YXI0dmZYTjBVMUgxaTZ3SmJaSFY?oc=5",
+      "source": "Le Figaro",
+      "published": "Thu, 19 Mar 2026 20:19:50 GMT",
+      "type": "news"
+    },
+    {
+      "title": "Why Meta's Moltbook Acquisition Changes All 03/11/2026 - MediaPost",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaXN0T0J0b25TaHF1b2pfUUc3ODlyTjBxSGIyU2gzbFB5NFpQOVk0ZldRX1g1SFBCbDROMk40cU5uZDdod0hNUVo4SzJBTVNMaUVhUF9TOWhtQmw4aUJKc1VjMS1OYXpRdU5ZYWRRRHFtZGc3MnZmemowVm5iRm9xbXhURjdJdFZUWXc4SFpTNmgxQjZJU3Brck1jME52SG13ZlF2MFZRNl9SSm1aN2tiRTRFUWF6aTQ?oc=5",
+      "source": "MediaPost",
+      "published": "Thu, 19 Mar 2026 15:50:27 GMT",
+      "type": "news"
+    },
+    {
       "title": "Moltbook updated its terms after the Meta acquisition \u2014 and you're officially responsible for your agent - AOL.com",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQk9DREhFbnREcmdMclhpRFJYcVdlS0tjMkpRNTllZHQ5UTRrcU1hV1o5NG1VSHR5NUNsdHh2RXpSYkRmMlc3TFg4VTlvMlFlQmZLNUtfd3Z0SEhnVzhxeXJUT1kyTzRrV1NkeWlsYVdhWkdHb09mWnRRdGdYUXBLeXZsbkdpYWZIYnc?oc=5",
       "source": "AOL.com",
@@ -285,6 +306,13 @@
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUEU1MFpGMnREVGVDUGk2V0ttQ1V4UzVXd3Z4UENiOU1fWWRpZFFVODNDZkJIdnlFMkRsTU5Kc3FsLTBYVVVKeG5mZVR0QnBuZ1hwMXJFWUZfNklKMzBDbzJRblZJaGNrR3JpekNWT3ZqNkFkQTc1cWFiTi10MmRYUnQwYVZzSmhWNDluekVpRnc0LTc0Nm5J?oc=5",
       "source": "Meyka",
       "published": "Wed, 11 Mar 2026 07:18:45 GMT",
+      "type": "news"
+    },
+    {
+      "title": "Meta Just Bought a Social Media Platform\u2014for AI Bots - Barron's",
+      "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxNeGRscWpxN3RGMDJqSWdfSm1lMnU4c05fNFpjTTNSQzVpLTJHbXgzMG9RSHdhOW1iSkg0RnpJanhXaXVXYkdBTE9NNnF5VmE3LWJjQUI3TTRrTWthRk9aME11c3VSaE9yMl9RT0VhZkFUV2h5ZUtza2N2OGF3UGs0VVBzN1RibmFlVG5SSGVaR2xGWXVHbmpFZUk0NjRzN0c2LWJwM0VvRlRqR0U1ZlZJZ2w0eFlkeXU5bXJFNzV6dm9sa2RPWDlQdERrRXdiMXNFWDZjakRXX1FYOC1CS1dlcGpCN2dERU8yVTl1RHFhOTlvQ1pQSk1ONGVWajhLdldXMXAwT1VvclF4M205YzA3Q0ZMNGdCUmR3U3hrVDJhT1FZSzVoWVNWTXExMzF1NzdiSGNKOGFVNU9Pb2FKalZjdVQ1aVhNdm1kdnZoWk5aWmY1eGRacmNBU0oySkV3cVpiV21VMDl4bmlmTTVJb3pKUXJOdDBpT2hkSU1VZUdFeHJJNW8xZW1COQ?oc=5",
+      "source": "Barron's",
+      "published": "Wed, 11 Mar 2026 07:00:00 GMT",
       "type": "news"
     },
     {
@@ -671,37 +699,9 @@
       "source": "The Jerusalem Post",
       "published": "Tue, 24 Feb 2026 10:23:18 GMT",
       "type": "news"
-    },
-    {
-      "title": "What Moltbook Reveals About the Hidden Security Risks of Autonomous AI Agents - CX Today",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQaS1pTEFnV3Jnak52ckNiM1FGZnFzZDQ5dWx1OHJmNGNhekEyUmw3cEx0Q0M4bGxwcDV5Z3hDLXNPVmdGWEpYcVVnbVhhOEtYSlUwME5NUng4d0FIUVd1S3h3aEcyNTRpQTE4R0g4TVdJYlB0T3NfbmFBQUFsZV9kdFVCSmRoY0o2d2wtazNiaEF3SFI1dzZodWM2VHBVNFlyUWpJZHhTMFJrZHBzNnVXYzVHMERuOHBFbUNrTEtmaElkRTUtb1FRUkFn?oc=5",
-      "source": "CX Today",
-      "published": "Tue, 24 Feb 2026 10:19:52 GMT",
-      "type": "news"
-    },
-    {
-      "title": "A Meta AI security researcher said an OpenClaw agent ran amok on her inbox - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeldJSkthZG5Kam4xUU56cnhEa1I4YjFRUjZtQU1ld0YtMzloUzdGMDdMZG15ZlU5eVBGeFBlb0xPR09NMWtTNUJoa3lqZGFwam1hQnR4MG10TzA1dklIcEJTSWdFODY5MzNkSk1xRHFrTHl1OFFpcmUweVpJT0g1R2FBdnB0eEJvZ0o5UXlDN212Ym5WLVNLTF9ZUXpBanBoRGhXaTQ5OWRmeWF3QlE?oc=5",
-      "source": "TechCrunch",
-      "published": "Tue, 24 Feb 2026 00:57:14 GMT",
-      "type": "news"
-    },
-    {
-      "title": "AI agents have their own social network: Moltbook study tracks topics and toxicity - Tech Xplore",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53emhaZkZDSFNZSE5JeEpHbVduSXdUYW5Pak9wNmhCQlRITmxhS0dEcDlpXzN6Y1VZNk1ma2RsQkRJLUQ3b1pUb3pMOEx2MTE3ck9qeG80X05xTFR6Mzlyd29PemM2YkxZdkI0ZEpEb2JKcXNQTFVkUGI1U3lqcjA?oc=5",
-      "source": "Tech Xplore",
-      "published": "Mon, 23 Feb 2026 17:20:03 GMT",
-      "type": "news"
-    },
-    {
-      "title": "AI or human? Researchers question who\u2019s posting on AI bot social media site Moltbook - MSN",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRFRNNVptT0EtRWE1ZnU5VXZjWlhBdkd6UElhSjBHNDAwWURZNVlRaU9SSlR1bXBBUUktUFhaaGhyN29EeVZtMFZlQS1TUi0xc3UwOWpYYmZIZU9McGVaX21tbTVDMm1yd0tuRi1KMmpzZzczdk9VNXZPYlRrZFVUM0VjNzBHNEkzTFFQVGhvdnJ6am0xbW5PYjlBem5qb2hySWVZckVEUVBtZE1BUDRtck13Vkd6ZUZDSkRmLTJfQkp1QUw3M0JPcmF5YUstN1pyV25N?oc=5",
-      "source": "MSN",
-      "published": "Mon, 23 Feb 2026 03:06:26 GMT",
-      "type": "news"
     }
   ],
-  "last_updated": "2026-03-19T08:58:40.882051+00:00",
+  "last_updated": "2026-03-20T08:56:12.923935+00:00",
   "total_fetched": 29,
   "new_this_run": 16
 }
