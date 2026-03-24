@@ -1,6 +1,13 @@
 {
   "articles": [
     {
+      "title": "After buying Moltbook, Mark Zuckerberg hires former Google execs to work on AI agents - India Today",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNdU5ZSzJXUjNKdTlxOWpXTG1jVFVIRzNFci1ybHdIeTBOUUxaWkxHRVdYZTJ4Y0RHeHFSdTdZLVpoSkJ6elhBV2FfZGl5c2FEMzZ2OGJDU0t2SVp6M1paUjNsNHhUdFpyUVFfbTltNVFzUmxNLVl3QTF3TjFCTDNjTHFvYmhoQjJXcnVqUklTYVIxLWRjQ2p1VlJKcWhYQjVTZ3Z5Qk1UZDhsQzdXRXRFSU5CVlNEZ2k2RkduOWtPNWswUENqSElkbWdObVczZEhUdGFWOWpRWVNab3Vha25qZzdHcHhKZ9IB6wFBVV95cUxPaFJoV0VueE1mYXBzZTF6S3d6N2d5emo2dFEwRTZ6U0N1SWNQQlNrWnJNTFJiSV9PcHE1VzhlcERpczJvaC1OeWRRUjZSXzdENlYxLWJoT2hvVkkzRVc2TlBISFBOcmg0SFI4eDhmald0c09fWHZuY3QxbmZxYWJLaXRSbkRoYjJtMnY3NzZKOVJBekVCZWVxU0tJX2o2bllDd3FNZG45akhvZzVkSy04eVI3azJ2S1BvTkM3WWo2SXlXWFZYTEVSdjFXRVpka29BeTRwS3V0eFJ3YklBNzAtN0ZGdXUxT0w0VTdJ?oc=5",
+      "source": "India Today",
+      "published": "Tue, 24 Mar 2026 06:44:31 GMT",
+      "type": "news"
+    },
+    {
       "title": "Keeping Tabs On Moltbook: Agents Discuss Memory - Forbes",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUkZJWGt6RFo4QnZlaW9nM0hHU1R3Ql8zWjZLX2YxcFF3X0tlOE5UU1Jla1pvTlFPN0V5QWdDTzdqZjhDTV8xb2JvWDFtXzBreF81dVRaNXNxYlcwX2VwanIweDRiTkpnVGtmeWJhNmhUYmg5VlVmZWRGdG51R3lYTHQzaUU5Z05kUGtEOUZiNEVJUWVFeElrZnExWXZ3Wms?oc=5",
       "source": "Forbes",
@@ -320,6 +327,13 @@
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUEU1MFpGMnREVGVDUGk2V0ttQ1V4UzVXd3Z4UENiOU1fWWRpZFFVODNDZkJIdnlFMkRsTU5Kc3FsLTBYVVVKeG5mZVR0QnBuZ1hwMXJFWUZfNklKMzBDbzJRblZJaGNrR3JpekNWT3ZqNkFkQTc1cWFiTi10MmRYUnQwYVZzSmhWNDluekVpRnc0LTc0Nm5J?oc=5",
       "source": "Meyka",
       "published": "Wed, 11 Mar 2026 07:18:45 GMT",
+      "type": "news"
+    },
+    {
+      "title": "Meta Just Bought a Social Media Platform\u2014for AI Bots - Barron's",
+      "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxPLVFtbnQ5TXlDbkVUZzJVXzdtdW9xYkdMNEpiaXpydkFRUU9oelNxYVlBNi1jSGRmN09PdTV0R0VMSkJmU3JCSnhNZHE5SEhvOWZPVUJwSTBtWFlBRnN4U2ZLeHlQcWFwZW5UWkgzZnhJMXhHTVRHMl9nWUF1MFRLQUstRXY0RmdnNUNGS0lDUVR2blZDRXRJRW82MTdteU4wR20tbEdwdm9fTkEwNzB1V01xVjVQay1uNzlTYVhwVEtlcUduLWgtTlFUOE1HWXNaeFNNeEE0YTRrcnpBMXhtdDNVWVNHMUlSOW9WZmhtckNNcWcxZWt3U1JhTTBqdGNZQkNyeVlmd21SMHZWNUR1Q1p1a3MtZlFQY3BYZkRjM0IwVjg1S1JCemd3Q09XY2NXYVViR0J2Y1RIanRGUjBTR1E4MmhEdkZxVE5rOTFCZ1JzYjMyNUxpRTZhRFh2Z1RvOG1EaW14b05WM0tsNEFVN3dFYzdOYk9CamtJUnp0YWxuMDJZeUhCMg?oc=5",
+      "source": "Barron's",
+      "published": "Wed, 11 Mar 2026 07:00:00 GMT",
       "type": "news"
     },
     {
@@ -685,23 +699,9 @@
       "source": "WIRED",
       "published": "Thu, 26 Feb 2026 20:54:00 GMT",
       "type": "news"
-    },
-    {
-      "title": "The problem with Moltbook as AI agents run wild on their own social network - AOL.com",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAzZGFEQlA3blhJZ1h0V0U1M2pNUWMwZXZtdkZBTDNDMTlMT0JzWW5DSmlKVUZpWXEwLWNwVlZwWVBDMi1JTWRldFYxc2EtNDVzSGNxODlsYUk4aTU4anY2cWVqN3RTekhjQmJLZVhjeGpqdmVNVzFhVnBQTWtGUTA?oc=5",
-      "source": "AOL.com",
-      "published": "Thu, 26 Feb 2026 20:05:49 GMT",
-      "type": "news"
-    },
-    {
-      "title": "OpenClaw and Moltbook: why a DIY AI agent and social media for bots feel so new (but really aren\u2019t) \u2013 Daniel Binns - Inforrm's Blog",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZlF1Nmd2ODBYMzJqVXpDRTc0a1dDVWYyR01XNDBZa3V4RVltSHJUV2M1SmZwQzM5eTJxRWM2MnZsNzlpTzdfZEtrXzlqenFqV2xVbDZ2clRYU3RZOGhQTGxMckVXRXJBdGlVaUc3aWZySFdIdG1rQV9XNDg4dDA3NUpuaGlRdFNKN0FRMUxiSW5PRUt4VEJ2bVFPTEdZTzU1aVoxYUNzOHBxQldvNzZUV0dzWVdZejQ1d3BRTVR3R0hCNW5uR04xb1NNMnc2ckN1bUNaZUJMb9IB3AFBVV95cUxNQWVDVTFja0hJTmdHcHVhZkhCOW9Qc1lnQWxBOWEtSFlMNFB4Wms1aWhpVm1zUUhDZ0VqY2dxX1RzSHpZOWsxemt2M3QzTUI4RlpXYVBiTG9Fd1l3MTc2cXBWUU8zZG1WS245MTZCS1ZWRFF3S0U3bmhhTWJIQ08yZTk4MzNKOHh3QjNWNzdSR1Z2UXpBN1ZoYzY1TklvaE5mOVdRdlRGbHRtcWlJQlNXcElKQ29POGZMaVNEOG9IT3JlNzU1NlRwVkJBOU5wNFRlRzg1U3FzSWZvMl8x?oc=5",
-      "source": "Inforrm's Blog",
-      "published": "Thu, 26 Feb 2026 09:17:23 GMT",
-      "type": "news"
     }
   ],
-  "last_updated": "2026-03-23T09:10:20.446706+00:00",
+  "last_updated": "2026-03-24T09:05:10.013133+00:00",
   "total_fetched": 29,
-  "new_this_run": 14
+  "new_this_run": 15
 }
