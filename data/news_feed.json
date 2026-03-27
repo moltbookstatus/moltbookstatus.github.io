@@ -1,6 +1,13 @@
 {
   "articles": [
     {
+      "title": "Generative AI Digest: OpenClaw And Moltbook Make A Splash - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZ3hrU05vWlhtMkhFYmpYRy1VcjNUZUh0S1pOR2RoVHdZWVRxdndkYS1NSnZaNkYxYjlvdzh4TTYzdm9aV1pOUEd1bmQ1QTVjWXFxMzVZazBIWEdtVjlvc2hTNnY2Z2hRd0hkdE5odkdzc3VtY1VhRGJkTk5qc0RaOF8yWHNfNWgyODZ5Mk9lXzIzR0lwM1E?oc=5",
+      "source": "Seeking Alpha",
+      "published": "Thu, 26 Mar 2026 16:51:00 GMT",
+      "type": "news"
+    },
+    {
       "title": "Meta just acqui-hired its 4th AI startup in 4 months. Dreamer, Manus, Moltbook, and Scale AI's founder. Is anyone else watching this pattern?",
       "link": "https://www.reddit.com/r/artificial/comments/1s3xr4l/meta_just_acquihired_its_4th_ai_startup_in_4/",
       "source": "Reddit",
@@ -26,6 +33,13 @@
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNdU5ZSzJXUjNKdTlxOWpXTG1jVFVIRzNFci1ybHdIeTBOUUxaWkxHRVdYZTJ4Y0RHeHFSdTdZLVpoSkJ6elhBV2FfZGl5c2FEMzZ2OGJDU0t2SVp6M1paUjNsNHhUdFpyUVFfbTltNVFzUmxNLVl3QTF3TjFCTDNjTHFvYmhoQjJXcnVqUklTYVIxLWRjQ2p1VlJKcWhYQjVTZ3Z5Qk1UZDhsQzdXRXRFSU5CVlNEZ2k2RkduOWtPNWswUENqSElkbWdObVczZEhUdGFWOWpRWVNab3Vha25qZzdHcHhKZ9IB6wFBVV95cUxPaFJoV0VueE1mYXBzZTF6S3d6N2d5emo2dFEwRTZ6U0N1SWNQQlNrWnJNTFJiSV9PcHE1VzhlcERpczJvaC1OeWRRUjZSXzdENlYxLWJoT2hvVkkzRVc2TlBISFBOcmg0SFI4eDhmald0c09fWHZuY3QxbmZxYWJLaXRSbkRoYjJtMnY3NzZKOVJBekVCZWVxU0tJX2o2bllDd3FNZG45akhvZzVkSy04eVI3azJ2S1BvTkM3WWo2SXlXWFZYTEVSdjFXRVpka29BeTRwS3V0eFJ3YklBNzAtN0ZGdXUxT0w0VTdJ?oc=5",
       "source": "India Today",
       "published": "Tue, 24 Mar 2026 06:44:31 GMT",
+      "type": "news"
+    },
+    {
+      "title": "OpenClaw and Moltbook explained: The latest AI agent craze - TechTarget",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUWw0c2VDbUlpU25WY3NUVklSTUxBNVRTcWl6dThMaDRLS3hSZklya1VPNTdIV2FZc1ktTnFxTUtqSUg5RWFMWEpORy1fQUxQYlI5MHJPakVUNTk0elR6S1hhWjNHZHdiRThEMXZwMjFROU1hYnQ0WUdYVUFhdnMxTGU4SzUzVDhYd1ZSYjFIMG9VWThuTTBnblpwRVFHanowYmpvSA?oc=5",
+      "source": "TechTarget",
+      "published": "Mon, 23 Mar 2026 07:00:00 GMT",
       "type": "news"
     },
     {
@@ -685,23 +699,9 @@
       "source": "Tech Policy Press",
       "published": "Tue, 03 Mar 2026 14:24:28 GMT",
       "type": "news"
-    },
-    {
-      "title": "The AI Advantage: Moltbook Signals the Rise of a Machine-to-Machine Internet - Colorado Springs Business Journal",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVDNGV0lUbjk2VUMxYktGZzJjUkpndl9qZFliVVA5dGdhMHJwMzFzMElobzBBQ0QtWTAxeU1LTGd3cDFuZEJMamlIVGRYUEo4b2VpODNsSnZjbGlCOVliMGYzNUdGWDg1Z2pWdmozM2FEZFFjSUFkUUYzYWM2MWZ4c1hxdF9pMERBaExpYTBHbXpTamxJR0RXRTFwS3pidmtudXJrUUVtb3VhSzNBRG1n?oc=5",
-      "source": "Colorado Springs Business Journal",
-      "published": "Tue, 03 Mar 2026 01:15:22 GMT",
-      "type": "news"
-    },
-    {
-      "title": "What's the vibe of vibe coding? - marketplace.org",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOem1jRTlXWXphbF85UE5mOFBLNThlUXNnMTREWkpRdWZzS1QtdlRfemxkZHRrbDZLVlRsYkUzdXpkcVVCOGlQaV9HSS0xUWtjWF80NHVYbHRCNEh5WFpfU3dGQWFiUEtXcmtpeDFZdHg2d29kOFJKcnp0QTFuOWxsRlNzNTh1ZUUtNXEzdERWZmdZT1pITU1qZFFMQUpNejkyVTNZaTk2bHVmWDNp?oc=5",
-      "source": "marketplace.org",
-      "published": "Mon, 02 Mar 2026 16:01:00 GMT",
-      "type": "news"
     }
   ],
-  "last_updated": "2026-03-26T09:10:42.863187+00:00",
+  "last_updated": "2026-03-27T09:05:18.435588+00:00",
   "total_fetched": 30,
-  "new_this_run": 16
+  "new_this_run": 15
 }
