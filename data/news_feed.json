@@ -442,6 +442,13 @@
       "type": "news"
     },
     {
+      "title": "Meta Just Bought a Social Media Platform\u2014for AI Bots - barrons.com",
+      "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxOWHRhaDZ6RE14N2J6aXNocWtyNkJhaHRKaUF6aExvalh2bHhPZF9PSEo0ek51LVNiYW94NW9zLXZ4N3V6QlNvOS1GcUtlb1p3aUFPVVVaS2J2SmRXcXlOeXlrZWVubjlkdGhaVXdrUm0zRG1iNzlqZ3NXYmZ3OXpFN3dZc2YyNm1KSnctNDl0YzNfNmpSa2FaUmZ2MU5hcjkyVWExdExJblQwYk45Qm10WFFBcXBaWnh6RWkxM0VPUDgwM1R0bDRiSm9YbjkwRlRKZHJkckhnMlpTVjFhTXNYMlhXSXk5QU9QN1Y4SFZTS1U0UjVUV2s0MjA1SjlHV2t3RVEwUVlaZXdRNjJXbUV2Q1I0YUdOUTdHTVdUclZUR2hPeFk4TzNmZjMyX01VU0VPa05KUGE1MjdNcFdHZEtSUHRNODNkRTdBWDloMlVtQ3MyYnlJTlR1YWxqS1gxTmFKNjdXa2FGMzVSY3B2OTNwUzQxLW9SMFJ3MWV6Y2E1R2I3TG54SHphaA?oc=5",
+      "source": "barrons.com",
+      "published": "Wed, 11 Mar 2026 07:00:00 GMT",
+      "type": "news"
+    },
+    {
       "title": "Meta to Acquire AI-Only Social Media Platform Moltbook - WSJ",
       "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxOM2RLN0dHTWVVV0hNbmtaMXJrNmVoT29Tc295eU1mNURsQ3hISHpVYVRadGlXaFlOR3NXLTFKYmdRbDlHWndvUXM5czhCNW9wejNUa2luQzNiYUJEa25OZXRiTzdLWFdJX2ZRbzd3azNTblFoQU5sb05NS1Zwbmw0eWp2bGR6RTVNN2pzSVBKMmdQc0hPU3ZWdGtKX1RXVlI1aWNzZDJ5bWZoS3hUb0Z1Z1ZtQlZrWU5tVElUR0NUdUFTMlppQjFsWXE3V0RDdXFUekYweVR3YUp6RlBvcFlmT1NtbkEyelowMzdCN0hNSnVKaUxGMGtaNzNVSC1ST3c2MDJ4aElKYnkxX0JUVXFEVEtPeUZzS0F3QVFaQlRrYWt1YTlFVjVPZERWSnV1NWRnUS1SdHM2QUtkTlhMTm9mRGVpUExueE5HOTJyTWpRNHdvZ25EZFdjLUR0dWU0aWlLZHhPTHRtczJXVUxGLXo5eVdEY1RiX3dwUDd0d2dJS2pPTGwtNjh4ellGdUwwMlFOTE1JaDN5ZmFlcEk?oc=5",
       "source": "WSJ",
@@ -692,16 +699,9 @@
       "source": "The Guardian",
       "published": "Tue, 10 Mar 2026 17:27:00 GMT",
       "type": "news"
-    },
-    {
-      "title": "Meta acquires AI agent social network Moltbook",
-      "link": "https://www.reddit.com/r/singularity/comments/1rq2yju/meta_acquires_ai_agent_social_network_moltbook/",
-      "source": "Reddit",
-      "published": "2026-03-10T17:15:52+00:00",
-      "type": "reddit"
     }
   ],
-  "last_updated": "2026-04-06T09:21:38.401327+00:00",
-  "total_fetched": 10,
-  "new_this_run": 5
+  "last_updated": "2026-04-07T09:17:40.660696+00:00",
+  "total_fetched": 30,
+  "new_this_run": 15
 }
