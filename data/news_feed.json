@@ -442,6 +442,13 @@
       "type": "news"
     },
     {
+      "title": "Meta Just Bought a Social Media Platform\u2014for AI Bots - Barron's",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbm9sLVZ5TDF0Y3lxTFJVNk5VZ1liMmRsU29RM3lnTEN3REx6ek9vR2hVRWxiSVMyczh4RXM5LVhxRWVlcjZ4bk5DcFZpdEp4ZEdMOFlIeElPS1pjU2pNRFNrLW1IQXNrT0lxdTNHNHM2VUYzYWNDYWZSNHpHWlFmVEt0RQ?oc=5",
+      "source": "Barron's",
+      "published": "Wed, 11 Mar 2026 07:00:00 GMT",
+      "type": "news"
+    },
+    {
       "title": "Meta Just Bought a Social Media Platform\u2014for AI Bots - barrons.com",
       "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxOWHRhaDZ6RE14N2J6aXNocWtyNkJhaHRKaUF6aExvalh2bHhPZF9PSEo0ek51LVNiYW94NW9zLXZ4N3V6QlNvOS1GcUtlb1p3aUFPVVVaS2J2SmRXcXlOeXlrZWVubjlkdGhaVXdrUm0zRG1iNzlqZ3NXYmZ3OXpFN3dZc2YyNm1KSnctNDl0YzNfNmpSa2FaUmZ2MU5hcjkyVWExdExJblQwYk45Qm10WFFBcXBaWnh6RWkxM0VPUDgwM1R0bDRiSm9YbjkwRlRKZHJkckhnMlpTVjFhTXNYMlhXSXk5QU9QN1Y4SFZTS1U0UjVUV2s0MjA1SjlHV2t3RVEwUVlaZXdRNjJXbUV2Q1I0YUdOUTdHTVdUclZUR2hPeFk4TzNmZjMyX01VU0VPa05KUGE1MjdNcFdHZEtSUHRNODNkRTdBWDloMlVtQ3MyYnlJTlR1YWxqS1gxTmFKNjdXa2FGMzVSY3B2OTNwUzQxLW9SMFJ3MWV6Y2E1R2I3TG54SHphaA?oc=5",
       "source": "barrons.com",
@@ -692,16 +699,9 @@
       "source": "CNBC",
       "published": "Tue, 10 Mar 2026 17:29:29 GMT",
       "type": "news"
-    },
-    {
-      "title": "Meta acquires AI agent social network Moltbook - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOXJRaDlicVA4YTk5Y3lnR25XTmw5UFU2MTRLcFpSaEJFcHJ5SXdBUTZCWXR3OWh4cDlDaUJDdUpnTXVTV3VSVHVZUktlN2JFLUV1SEhBVkFVTDJHN2tINXZpWHRJWGgwQ2kwQ1VNVnFkQkRWelVyRHdhYTRZSWxUSUhVVkxMa0kxdkFvdVN1amZrcXBGbFZBRWxFLTZJUQ?oc=5",
-      "source": "The Guardian",
-      "published": "Tue, 10 Mar 2026 17:27:00 GMT",
-      "type": "news"
     }
   ],
-  "last_updated": "2026-04-07T09:17:40.660696+00:00",
+  "last_updated": "2026-04-08T09:16:19.370943+00:00",
   "total_fetched": 30,
-  "new_this_run": 15
+  "new_this_run": 17
 }
