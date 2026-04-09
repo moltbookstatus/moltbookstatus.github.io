@@ -442,6 +442,13 @@
       "type": "news"
     },
     {
+      "title": "Meta to Acquire AI-Only Social Media Platform Moltbook - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZER1amg3TC1NaU9YdU45RjI0bHNVSTRWZkxTZG5ySHVhVGY0eEJ2Y2pDRnRzWUZKdWdHUDNfTEt0S3BMQWNZU1NMWXY5NkZyWHJLYTNLZVdXQTBWRTZLR0RLLWhKTFBnTlRoOFBueUlNX2J0Sl9qaDlZSFA2VGdIMlk2TmFMSmtZU0d5VnF2eV9hZHh1S1E?oc=5",
+      "source": "WSJ",
+      "published": "Wed, 11 Mar 2026 07:00:00 GMT",
+      "type": "news"
+    },
+    {
       "title": "Meta Just Bought a Social Media Platform\u2014for AI Bots - Barron's",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbm9sLVZ5TDF0Y3lxTFJVNk5VZ1liMmRsU29RM3lnTEN3REx6ek9vR2hVRWxiSVMyczh4RXM5LVhxRWVlcjZ4bk5DcFZpdEp4ZEdMOFlIeElPS1pjU2pNRFNrLW1IQXNrT0lxdTNHNHM2VUYzYWNDYWZSNHpHWlFmVEt0RQ?oc=5",
       "source": "Barron's",
@@ -692,16 +699,9 @@
       "source": "The New York Times",
       "published": "Tue, 10 Mar 2026 18:19:41 GMT",
       "type": "news"
-    },
-    {
-      "title": "Meta gets into social networks for AI agents with acquisition of viral Moltbook platform - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdG5MZlgxVjVWUWRub0cweHNYdk5mYzlsWmFLczBWVlhzS3d1cDZEWlRSOERaRWFUcmwwOXRzUkVLM2o3cFBlUUs0SG1KSzZKdTZqaUlGWHY2U2hZRnF0UF94azJVUkdrTnZsTXJjUDRYaDRJdy04bVk2X1FXU015NzBrZ3Y1X0dyMkxUQzV0a01PZ9IBlwFBVV95cUxOVHpfTExiVEEwNFNES2lfcEs5Z0ZaOGsxWk5qbXk4cDlfUFNtdU1FckV4dkhEbTl6UGxMc0VIQlFiUXlBSEc0eVUtY0NyWU5DYXFCczE2QmN4eTJHLVJtQ2ZvaXZIQVVwZXBxM1Utay1XMHVOX19PYkJRMDhfOWRlNTVINlp4MkZXTmpzVm1BYmpjYjZkWk9R?oc=5",
-      "source": "CNBC",
-      "published": "Tue, 10 Mar 2026 17:29:29 GMT",
-      "type": "news"
     }
   ],
-  "last_updated": "2026-04-08T09:16:19.370943+00:00",
+  "last_updated": "2026-04-09T09:21:38.390282+00:00",
   "total_fetched": 30,
-  "new_this_run": 17
+  "new_this_run": 19
 }
