@@ -1,6 +1,13 @@
 {
   "articles": [
     {
+      "title": "End of the \"Dead Internet\"? Agent Guardian with the First Serial Number is Bringing Order to Moltbook - The AI Journal",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPM3RXSlpYZ2RGUGJoVTJYOGF2dTBBUDdGWUZSakJoRFNMbW1QdjdsOTE3RWJvUFRKTmYtWmtaSlZpa3ZoRHdPRkktX0RIaGdnU2JFenJYQkZNdUp6d1kzTEVISXN6VS1PaEtfWEFKTUpvUXlFVm0ya1VsWGJQdjZxWl9sdlNCVEoxSzFHVlhra2ZiUGp5djZjUU9DWFlPNGpMVTBDUWplNDBiUmVCeDgtVkpqUHlpdGJ4bmdz?oc=5",
+      "source": "The AI Journal",
+      "published": "Fri, 10 Apr 2026 14:19:11 GMT",
+      "type": "news"
+    },
+    {
       "title": "Meta to acquire AI-only social media platform Moltbook - MSN",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNb0FHdk5XX2xkQld2MXZ1Z1Y4cGpBVFdHYmpsWS1PT3RsYXNwdXUxTnZabkl2SHVpdXBVbW1ITHc0bkd2bkRZdWh5aGR3TlRkSTl2c3JqcV9aU3dHd0FIanUwZkt0UHVJMTBETVJwV1NXUnBLRUROWHhhQzZ4SkZ6Q3lKdy03UTU3R1RUbGNrZFFCUTlWMW1NQnlrb0ZaM2ZodE96cTE4Rnp0V2NPNng4ODM3OEJ5amVUT0dzeFplM0dFZw?oc=5",
       "source": "MSN",
@@ -692,16 +699,9 @@
       "source": "CNN",
       "published": "Tue, 10 Mar 2026 18:40:35 GMT",
       "type": "news"
-    },
-    {
-      "title": "Meta Acquires Moltbook, the Social Network Just for A.I. Bots - The New York Times - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSkFKaDd0T09iOWJ2V3VraW1fVWtveHBSU185NU9Ebm5NVnFCaV9iY3JiUXE2ZXNxN205SmRJN050X3huYVVPeGFjZGlyQnRoTk5URWVHQ05JMEpLbG5oOEZGNFNVSXphWG1YZW9FbHFUSDkyalNSdzZoeGhaT0l4ZnZmN0ZxZw?oc=5",
-      "source": "The New York Times",
-      "published": "Tue, 10 Mar 2026 18:19:41 GMT",
-      "type": "news"
     }
   ],
-  "last_updated": "2026-04-10T09:21:58.365680+00:00",
+  "last_updated": "2026-04-11T08:57:37.142644+00:00",
   "total_fetched": 30,
-  "new_this_run": 19
+  "new_this_run": 20
 }
