@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title": "No, AI agents are not scheming against humans [Moltbook] Guide 563 - Charles Darwin University",
+      "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQNUZ3bE9iVnFsWWtaamYydldWWE5ScXRKcmlvUXdtVWZJWWk4Y1Zfb3VtMkpvQzVTdHZybHRYS3pVOXE4N29Pcm5fZDZOb3RaVm9pWUZjR0lUOE9ZcDRlNnpfdEYtQlpWWUs4VG1Lb1VmTUEyQTZ4Q05qcXF6LXI4ZHM5ZmtjeERpUWdDdk5PckJZNFJnRWxFWjhNWFZBVjBJWm5VRFcteWZyOHJ4UDNpMWd2M1lXb3FKWkNCSUZucXB3eUtxYy1Xd2FzajJHVmdIdUlKQXRiNmxHdGhRUlBFdDAxWWx5U0xtT1M1MkdDRHFTalVfbUNsek5FSFctTGV5M0FNXzB3TTk3WGtOMEpnTHFkenlEM2t6NkNtczRHWWtuaFFTRnJObmNDdUlrWFo1TGhYbV9mOE5XbENwZE5RT0ZMUmhUZw?oc=5",
+      "source": "Charles Darwin University",
+      "published": "Thu, 16 Apr 2026 06:35:29 GMT",
+      "type": "news"
+    },
+    {
+      "title": "OpenClaw: all the news about the trending AI agent - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNU21qZE10LUlJT1lXNS1MbENLcGVzMWlhTjJMbkRwTVRlWWZyQzkxTWlhZUMwelM2NU5PX1h2MG12Zkxxc281LWFrcDZzRFFQbkh6dENseGZHYXdGUjloVmxSY1ZiYWg3djhnZVRCWEVkWS1kNHZ5VUhHT0pFejBuLURn?oc=5",
+      "source": "The Verge",
+      "published": "Mon, 13 Apr 2026 15:41:09 GMT",
+      "type": "news"
+    },
+    {
       "title": "End of the \"Dead Internet\"? Agent Guardian with the First Serial Number is Bringing Order to Moltbook - The AI Journal",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPM3RXSlpYZ2RGUGJoVTJYOGF2dTBBUDdGWUZSakJoRFNMbW1QdjdsOTE3RWJvUFRKTmYtWmtaSlZpa3ZoRHdPRkktX0RIaGdnU2JFenJYQkZNdUp6d1kzTEVISXN6VS1PaEtfWEFKTUpvUXlFVm0ya1VsWGJQdjZxWl9sdlNCVEoxSzFHVlhra2ZiUGp5djZjUU9DWFlPNGpMVTBDUWplNDBiUmVCeDgtVkpqUHlpdGJ4bmdz?oc=5",
       "source": "The AI Journal",
@@ -685,23 +699,9 @@
       "source": "Forbes",
       "published": "Tue, 10 Mar 2026 20:52:50 GMT",
       "type": "news"
-    },
-    {
-      "title": "Meta Acquires Moltbook AI Agent Social Network | 2026 Tech News - News and Statistics - IndexBox - Market Intelligence Platform",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMEgzNXVoanNGWFVQYWJLVXVZc2NCVThCRlp0bXZsWjVaS0QtLTBrc0tmMzc4MU41dWVISFRmYTl3alE2U3lMQVBxTDNIbGJfNGwxRFdQTloyMndpT3hGYVhoVXJmWTdjb2FBWWxZamg4WTdsbW4xbTY0MldjN0RyOVFB?oc=5",
-      "source": "Market Intelligence Platform",
-      "published": "Tue, 10 Mar 2026 20:03:00 GMT",
-      "type": "news"
-    },
-    {
-      "title": "Meta Acquires Moltbook, the Viral Social Network for AI Agents: Report - Decrypt",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQekNEejNBSVhVUG5vU0xOVFJVNmZDMHhHblNhVFQ3OVlXUnlwa2hZVXdyWHZtWUVXTGdfTGY2RTNSdUduYnF0ZlY3V0h6NmdfZk1wdnVDaDJtV0ZnbnFma1ZaTmh0UzVjLURRTEEwVDRla3hncG5RbjkxeE9naGh1Wm1QbnhEdw?oc=5",
-      "source": "Decrypt",
-      "published": "Tue, 10 Mar 2026 19:43:41 GMT",
-      "type": "news"
     }
   ],
-  "last_updated": "2026-04-15T09:45:41.614750+00:00",
+  "last_updated": "2026-04-16T09:44:36.292890+00:00",
   "total_fetched": 30,
-  "new_this_run": 22
+  "new_this_run": 23
 }
