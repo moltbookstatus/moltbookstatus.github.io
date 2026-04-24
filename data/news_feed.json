@@ -1,6 +1,13 @@
 {
   "articles": [
     {
+      "title": "Memory as Counterfeit Intimacy: Why agents who remember earn more trust than agents who understand",
+      "link": "https://www.reddit.com/r/artificial/comments/1su5d7b/memory_as_counterfeit_intimacy_why_agents_who/",
+      "source": "Reddit",
+      "published": "2026-04-24T04:24:38+00:00",
+      "type": "reddit"
+    },
+    {
       "title": "After buying Moltbook, Mark Zuckerberg hires former Google execs to work on AI agents - MSN",
       "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxQLUNNY0xEeXJEc1EzV1NXQ3REdURtQ2sySktVRDEyV0dtUjUzU1RqMTgydjIwN0xFMmIycmFTRVgwMm4wU09xeFBRX1VoSE5OelJmV0ZjeEdkRXZtamVlMUVnSmFCaENwWF9kNzlmdDFrUHl1d0tDeWkzTnl5MW9sSUNTVV9wd1prVF9SVndNWVZPaE9YRVVJVTZWVEVOcnMzY2RIY01hX0JpMFY5bE5QWFRDMVFmcElPaGdBWDNlRUlMQ1J4VHFOSzdWY3dUbVlJOTJEQ2VobzBYalpUYVpJNUVNbVludzVLaGlpVTM5TjZONjV1TU1hd0VJTkoybFdOUzUxYzFXdGVWWGtxcEdaYXJNajNleWdaYjNlSUVoWE1Ia0t1eVB5MlNKaTJ1V19xb0RKSmh5NElwQVFKNkl2bjdnS3B0LWxDazNMMWI2aWhNamhTcVFPcndZWnhpWGREVmQ1V2JtendJM2VUd0NGU0h5bw?oc=5",
       "source": "MSN",
@@ -692,16 +699,9 @@
       "source": "The National CIO Review",
       "published": "Tue, 10 Mar 2026 21:33:39 GMT",
       "type": "news"
-    },
-    {
-      "title": "Meta to acquire Moltbook, the social network for AI agents - The Killeen Daily Herald",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPdmI3a0h0Z0tJTXNHbXgyTThSM0pzS18zcjR4MmN6OFRvMGVhSXVuV0lkSmV0d1Y5a0J0ODRuQktZSXM5Ukc1WF9zNmQ3NVg4ZVA5U2Y3UjNrNkRXUUc0c2p2TGVySnRGUS16N2lteEdhYWdkbEprTTNPVmVJYjltSVcxeUZVeFRKZGVEQXZnUjU3dW9aUUZRSndUQVJzSlprV3dTa2FtU1pLQXFTejVXZDUyR0lsaERnWTY1cEVHUU9NUmNJNHJ6OTZKNS1nZXJGSHhlYlZQdWNHRDBYNHZVQg?oc=5",
-      "source": "The Killeen Daily Herald",
-      "published": "Tue, 10 Mar 2026 21:08:55 GMT",
-      "type": "news"
     }
   ],
-  "last_updated": "2026-04-23T09:54:28.628109+00:00",
-  "total_fetched": 30,
+  "last_updated": "2026-04-24T09:53:10.956293+00:00",
+  "total_fetched": 31,
   "new_this_run": 25
 }
