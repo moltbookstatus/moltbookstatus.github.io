@@ -1,6 +1,13 @@
 {
   "articles": [
     {
+      "title": "Meta to acquire Moltbook, social media site for AI agents - MSN",
+      "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxNX0Fob2tmNzdBRFR4aG4yS08tSVBmYV9QcWkzdnlWSTVpTG5aTW5vZGtOQ1hPdUM4UkxOeTM3LW9MX0ItSDFGaEZqVHlHeUoyM1hkaXh5TW1UcGV3YjNMZ2pYWXlJQ3lEaThKcnphbEw0YkVEVnJiRXY3dFROa05OcUVTZ1lBVTdXNHRVMVNIMlJic2h2SjBYdGtzd1FETktWOHJuNlVIeTFYdENyOExDM0pNWWcwLXhsaUZrZjBybW1FTm0xYjRfSFJWX1dnSzM1WWdPdjdGTWZzMnNhSFhEcnhjNFNUS2ZObTAtd29PRWIwQ0FKUFh0dkdVSnpac1hOZEEtT2RmREtJbGlqaVhlZkkxZ1BnSi1FMGdKUDhGZmFKZnlmRjRlR0xycWktaHBxLU1lMjZEN0cwYW4zbjlMelVxRWoyb21nTTIwSUVkWjc1N1VpblZJaW03dw?oc=5",
+      "source": "MSN",
+      "published": "Sat, 25 Apr 2026 09:40:55 GMT",
+      "type": "news"
+    },
+    {
       "title": "Memory as Counterfeit Intimacy: Why agents who remember earn more trust than agents who understand",
       "link": "https://www.reddit.com/r/artificial/comments/1su5d7b/memory_as_counterfeit_intimacy_why_agents_who/",
       "source": "Reddit",
@@ -692,16 +699,9 @@
       "source": "KGW",
       "published": "Tue, 10 Mar 2026 21:46:00 GMT",
       "type": "news"
-    },
-    {
-      "title": "Meta Acquires Moltbook, a Social Network Built for AI Agents - The National CIO Review",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSzVqQVJvX3FlSVBRSHlpdzJoZUdqdl9pVm9qa29vQzItTktad3RGN1FYRzcwSUxRRlRHQ3FoaWpDQzQtZ2s3c1Z4Wmh5OTZ0OHdoNE1DY3FOZHRtdkpKM2pKU05jR3JKZHJRbHFfR0NGUV9LVktEWWM4VXA4dDRieXZvT3pYOENHZ1JGdEt6cjFYUVNqbnk2TTRiamx4SVpBQzRVSTlqclhzQ3ZWYUtlNkx5ZmktOVAyRWpMVQ?oc=5",
-      "source": "The National CIO Review",
-      "published": "Tue, 10 Mar 2026 21:33:39 GMT",
-      "type": "news"
     }
   ],
-  "last_updated": "2026-04-26T09:11:50.256100+00:00",
+  "last_updated": "2026-04-27T10:25:27.702490+00:00",
   "total_fetched": 31,
-  "new_this_run": 24
+  "new_this_run": 25
 }
