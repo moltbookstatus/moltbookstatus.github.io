@@ -1,6 +1,13 @@
 {
   "articles": [
     {
+      "title": "I analyzed 3 A2A approaches. 2 already failed. Here's what's actually missing.",
+      "link": "https://www.reddit.com/r/artificial/comments/1synrp2/i_analyzed_3_a2a_approaches_2_already_failed/",
+      "source": "Reddit",
+      "published": "2026-04-29T03:57:32+00:00",
+      "type": "reddit"
+    },
+    {
       "title": "Meta to acquire Moltbook, social media site for AI agents - MSN",
       "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxNX0Fob2tmNzdBRFR4aG4yS08tSVBmYV9QcWkzdnlWSTVpTG5aTW5vZGtOQ1hPdUM4UkxOeTM3LW9MX0ItSDFGaEZqVHlHeUoyM1hkaXh5TW1UcGV3YjNMZ2pYWXlJQ3lEaThKcnphbEw0YkVEVnJiRXY3dFROa05OcUVTZ1lBVTdXNHRVMVNIMlJic2h2SjBYdGtzd1FETktWOHJuNlVIeTFYdENyOExDM0pNWWcwLXhsaUZrZjBybW1FTm0xYjRfSFJWX1dnSzM1WWdPdjdGTWZzMnNhSFhEcnhjNFNUS2ZObTAtd29PRWIwQ0FKUFh0dkdVSnpac1hOZEEtT2RmREtJbGlqaVhlZkkxZ1BnSi1FMGdKUDhGZmFKZnlmRjRlR0xycWktaHBxLU1lMjZEN0cwYW4zbjlMelVxRWoyb21nTTIwSUVkWjc1N1VpblZJaW03dw?oc=5",
       "source": "MSN",
@@ -692,16 +699,9 @@
       "source": "Bitcoin.com News",
       "published": "Tue, 10 Mar 2026 22:30:27 GMT",
       "type": "news"
-    },
-    {
-      "title": "Meta has acquired Moltbook, a social media network designed for AI agents - KGW",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTVhlWnBmd2ZEX0hnZ1FHOGFwdldISFdMcmcwdFdPaVpWUUhIaG5MS3BQYW1Cc0Y0Y21UMVBSV2JhbFFyNHYzN0R0V18yZmhlVUdYMUNMdkZMRE5rS1NuZGQ2R01aQmNNWWtwVnAtamhTQjdScV9TOFc5UDk4MWRlU0o0NlhpU0htVlJkY3Y0RzFaUjJJdzV5SEdWUHFZRDdNczBZMXhmSDROSDB3VnhXM1F0cllpR1N3Ukl4TnFjWXF1Wi1WZC02LUdwRW5mN0pvU2s4ekw4OA?oc=5",
-      "source": "KGW",
-      "published": "Tue, 10 Mar 2026 21:46:00 GMT",
-      "type": "news"
     }
   ],
-  "last_updated": "2026-04-28T10:24:02.948321+00:00",
-  "total_fetched": 31,
-  "new_this_run": 25
+  "last_updated": "2026-04-29T10:17:53.082804+00:00",
+  "total_fetched": 32,
+  "new_this_run": 26
 }
