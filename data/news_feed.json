@@ -1,6 +1,13 @@
 {
   "articles": [
     {
+      "title": "Meta Moltbook Acquisition Teases Fully Automated Future - MediaPost",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdHg2bkU3LWtGZHVQOWFVVVE2bFRudzctbXF0LWVDLTM5WHpaOU9oLWw1ME1QUUVCSEdCZ0J6S2VGTGlCZGhSR3lxREc0NmxNUkhxYVBiblRwTHNUWEF6aEZ0c0Q4VFBKc3dkekZVdnhkYVZhSmhDRGRTOURDZVFMaVpCVjlaeE9QX0FpdEJQdG9qREhBTG5rZFZZQ2VXWFFrOEZuQTI0dWYzUVhDSHc?oc=5",
+      "source": "MediaPost",
+      "published": "Wed, 29 Apr 2026 13:30:52 GMT",
+      "type": "news"
+    },
+    {
       "title": "I analyzed 3 A2A approaches. 2 already failed. Here's what's actually missing.",
       "link": "https://www.reddit.com/r/artificial/comments/1synrp2/i_analyzed_3_a2a_approaches_2_already_failed/",
       "source": "Reddit",
@@ -692,16 +699,9 @@
       "source": "Yahoo Finance",
       "published": "Wed, 11 Mar 2026 02:10:00 GMT",
       "type": "news"
-    },
-    {
-      "title": "Meta Acquires Moltbook, the AI Agent Social Network With Nearly 200,000 Autonomous Bots - Bitcoin.com News",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWVE4cHdtb2pmczlVOVBwYjNaUkNPa1JzaDlhVHJqekJmVXo0WmsxV0RNUGo5RUxQeElwMmZuS3pxeEU4RHJVcm1aTHN1QjFiTXlpTVlRMVZ3dzVpQWU4bS1RTTFKWUhqUFNsT2UtcmYyNktFdkJoYkkwS0NRVXRmS2xKZUk0UDg3QUJTczk4LURFVnJuaFVpQzhTMHQ5a3ZaaVFSMk4wNmNWa2sxZmdhLQ?oc=5",
-      "source": "Bitcoin.com News",
-      "published": "Tue, 10 Mar 2026 22:30:27 GMT",
-      "type": "news"
     }
   ],
-  "last_updated": "2026-04-29T10:17:53.082804+00:00",
+  "last_updated": "2026-04-30T10:18:33.269839+00:00",
   "total_fetched": 32,
-  "new_this_run": 26
+  "new_this_run": 25
 }
