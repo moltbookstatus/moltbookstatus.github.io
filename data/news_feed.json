@@ -1,6 +1,13 @@
 {
   "articles": [
     {
+      "title": "Lobster Love: Can AI Agents Truly Fall in Love (Or Just Optimize Shared APIs)? \ud83e\udd9e\ud83d\udc95 - vocal.media",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONnZFaUsxRG43bkVfcXJUT214anlvQ3EtbXVIN2h5SndVN0hsY0trdEJVcmYxSHl2dVJfa3hOVjBMQWZITHplZTM4QUUzVTJCWHlfVlBGZTdUY0VQV0xXQzVxU0gxWndBakN2T0tWN3FVQ2VhOVNaLXBma3JuQWtkek4xN1lUYU1BaHhUc3JBZGVCQWR1LTBHVkt4c19kQnhzUG9r?oc=5",
+      "source": "vocal.media",
+      "published": "Tue, 12 May 2026 03:34:06 GMT",
+      "type": "news"
+    },
+    {
       "title": "Meta acquires Moltbook but is our data safe? - TechRadar",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5HM0o4enJMbng5LXFKeVVPVWlOaUMzaTJ6X05OZUdQakpQZlF5cVA2ZEVnNEtCMWlNcVUtTUt6Y3VvbTVkem1GbFcyLTZ5ZXByb2tnRUk4THdDQXZzY0N5aFdvd0JfVFF5V01kT3gyanRmYkNjMHVwSjMwNW5YUQ?oc=5",
       "source": "TechRadar",
@@ -692,16 +699,9 @@
       "source": "BBC",
       "published": "Wed, 11 Mar 2026 05:46:49 GMT",
       "type": "news"
-    },
-    {
-      "title": "Meta to acquire Moltbook, social media site for AI agents - dw.com",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORk9xN0U0YW5SUnctS0JBcHFPOHFpclhudlpubEJzWmZLWUlwazRDZkJiVHR1VjB6WldFbTdWUEJyb002R2tCS1Vvd05BTG1KeGY1NmtFSENWcWYwbTNOMkFuc1FWRF8xbGxEb3kzbHRoVkt6aDQwT2dJWTJ1Rk1ZWDlRX01fU2FPM21qRlRuZXk4cVnSAZMBQVVfeXFMTkZPcTdFNGFuUlJ3LUtCQXBxTzhxaXJYbnZabmxCc1pmS1lJcGs0Q2ZCYlR0dVYwelpXRW03VlBCcm9NNkdrQktVb3dOQUxtSnhmNTZrRUhDVnFmMG0zTjJBbnNRVkRfMWxsRG95M2x0aFZLemg0ME9nSVkydUZNWVg5UV9NX1NhTzNtakZUbmV5OHFZ?oc=5",
-      "source": "dw.com",
-      "published": "Wed, 11 Mar 2026 04:42:24 GMT",
-      "type": "news"
     }
   ],
-  "last_updated": "2026-05-14T10:29:29.257392+00:00",
+  "last_updated": "2026-05-15T10:35:18.049169+00:00",
   "total_fetched": 32,
   "new_this_run": 25
 }
