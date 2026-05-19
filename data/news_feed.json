@@ -1,6 +1,13 @@
 {
   "articles": [
     {
+      "title": "OpenClaw and Moltbook \u2013 AI works independently and networks - pr-agent.media",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV0l1T3dqSmxEWnJxM0toWjBiR0ZqRUhqYnBBQXg0NXVQZlhXN09NU0t3a0drM0lsdWhxbDVJenBCMDU0cXl6TlJlVXpvelpyNElxcVdFLUdYckJvc05UN1lqazFwbFRWcEdZSXpmUzdZZFc5TWxPYlU1R0ZjZUpQQ2tvUkdrT0Iyb3BXODBhdDNUMHUxU013S1RkRFI1MzdSWk9Na3hwbHl1TTA?oc=5",
+      "source": "pr-agent.media",
+      "published": "Sun, 17 May 2026 04:36:14 GMT",
+      "type": "news"
+    },
+    {
       "title": "Lobster Love: Can AI Agents Truly Fall in Love (Or Just Optimize Shared APIs)? \ud83e\udd9e\ud83d\udc95 - vocal.media",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONnZFaUsxRG43bkVfcXJUT214anlvQ3EtbXVIN2h5SndVN0hsY0trdEJVcmYxSHl2dVJfa3hOVjBMQWZITHplZTM4QUUzVTJCWHlfVlBGZTdUY0VQV0xXQzVxU0gxWndBakN2T0tWN3FVQ2VhOVNaLXBma3JuQWtkek4xN1lUYU1BaHhUc3JBZGVCQWR1LTBHVkt4c19kQnhzUG9r?oc=5",
       "source": "vocal.media",
@@ -692,16 +699,9 @@
       "source": "Qazinform",
       "published": "Wed, 11 Mar 2026 06:15:57 GMT",
       "type": "news"
-    },
-    {
-      "title": "Meta buys 'social media network for AI' Moltbook - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnTHZlOHJGOEtKOFdSdFc4dzFkTkxOME5hYTk5Q3RKNjhBRVBRY3FFWFptd09Fal9nLWVvZmJPZWJiS0VWZV9CY2tfVC1LcVhYR2dQeTNzbExMdw?oc=5",
-      "source": "BBC",
-      "published": "Wed, 11 Mar 2026 05:46:49 GMT",
-      "type": "news"
     }
   ],
-  "last_updated": "2026-05-18T11:52:09.258361+00:00",
+  "last_updated": "2026-05-19T11:30:08.916835+00:00",
   "total_fetched": 32,
   "new_this_run": 25
 }
