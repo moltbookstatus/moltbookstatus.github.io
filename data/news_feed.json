@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title": "ASEAN isn\u2019t yet ready for the AI agent swarm - Lowy Institute",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWmRySmpGMldkRkkzUW5SZ1VpbldiY1dQSlBXSjM0WC10SjJkdDVQRDFFTUlCY1gyaTNRMDdnYkw4REZjMXU0MTJNWnpGRG82RDY1cWRtanFVa1JoTXRkOVk3YUR0OC0xTFBJSjk0bndGR0NlSnNoV3JNRkotR0dqbDdXRkJfalFhWVE?oc=5",
+      "source": "Lowy Institute",
+      "published": "Mon, 25 May 2026 17:01:28 GMT",
+      "type": "news"
+    },
+    {
+      "title": "AI Agents MoLTbook Explained: Tool Use and Safety - Blockchain Council",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOb3NsVW5wRmhteTJFT3d1a2FJQWJwZ1puenFZM3FXWDJHVHpMZjA0eHo2Yk9IMzlEZm8tV0gxQWxuODJkQlBoUk1kNzFRcUcwcVprN0lmMEx4Y09XNm5oQWNnX3FYajN2enJUV2RRRFJVZ2U4QWpsOXNfcktYWEdybmstUDZhM0xRMjNoV3lneTVLZFotek40MzlmZ29MUWtSR3pXQ3Vhci1NZEFfbWxsalliRmZFTGI0RGxqYWZIZXM?oc=5",
+      "source": "Blockchain Council",
+      "published": "Mon, 25 May 2026 07:24:36 GMT",
+      "type": "news"
+    },
+    {
       "title": "OpenClaw and Moltbook \u2013 AI works independently and networks - pr-agent.media",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV0l1T3dqSmxEWnJxM0toWjBiR0ZqRUhqYnBBQXg0NXVQZlhXN09NU0t3a0drM0lsdWhxbDVJenBCMDU0cXl6TlJlVXpvelpyNElxcVdFLUdYckJvc05UN1lqazFwbFRWcEdZSXpmUzdZZFc5TWxPYlU1R0ZjZUpQQ2tvUkdrT0Iyb3BXODBhdDNUMHUxU013S1RkRFI1MzdSWk9Na3hwbHl1TTA?oc=5",
       "source": "pr-agent.media",
@@ -685,23 +699,9 @@
       "source": "WSJ",
       "published": "Wed, 11 Mar 2026 06:33:00 GMT",
       "type": "news"
-    },
-    {
-      "title": "Meta to Acquire AI-Only Social Media Platform Moltbook - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxNbzdjeDZkNXI5M2pTOWRfQ3BMT3g5c1BnRU5keFFISkY3MS1WcVlmeWx1UkdNbEJkTHhMQVM5RWZNdVVpVmVVUmhhem9PMERNYlM3Rl9ESE9NX2w1SWY3QkxROUdhQTltdG5ldjdaTE9JRTBoSUlCVTZDYmJXeWt2YXp2X1dOY1RTLWR3X3R0TTN2Y2QzZlFKM0ZDNzlBeV9LelZPMWxPVnh5UERucU55TjdoRTFCNmhTMHNPOEF1ci1CYklKcERKTF8zRFVuWUh1bTc4bnVibkNBcTJjSmdteFlMbVlEbjFxMW02WFExclhDVm4xMVVqM2JPWFJpRGxVSmF1Y1M1LVhEeVpLNFRvclVuR0ROOHpRdW1YTTlTUU9TSzhoVzR1Z3JyOEFTQkJnUVpCZHVacjJWTlVjdGFKX29YOXVBM1ZVVWhfSlMwX2xtZmgwWDRXVjhCREZvNVUwRTY3UzRxdzR5MGxIOEliaUtvUEsxeE51bm4wU1ZXM0syR05LODdLRUlXc25VY2UxOTRRcWtJVURvVTA?oc=5",
-      "source": "WSJ",
-      "published": "Wed, 11 Mar 2026 06:33:00 GMT",
-      "type": "news"
-    },
-    {
-      "title": "Meta acquires AI agent network Moltbook - Qazinform",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBLT0thYklxVjI4UGlmMmFlWENXWVRXVlpzVm56ekxQd0pDMVZhY2pOTkJZa1dqdlU3MndCWFFpU0tyTS00UlBDVGV0VU11ZEVtOGxjejd1Zmg2Mlp2ZUp6UlJiVEpRX3pRWWZHSXcwOEs0OWNhaXU4QkViWFIxQdIBfkFVX3lxTFAzYkY5emRvYjNSbEdTa05jdG0yQnNPbmh6WnY0bmtxZGRYWDEzdkhvYUFKTG5vdFdHRlFiY0Jici0zUXRaM1Z5M3ZEa1V2MElDLXo2OVBZeTczRE9aOFpuNEtPRjE2UUtWU2xJS0FyblRKNWZtQ2pocXQ1VGg0Zw?oc=5",
-      "source": "Qazinform",
-      "published": "Wed, 11 Mar 2026 06:15:57 GMT",
-      "type": "news"
     }
   ],
-  "last_updated": "2026-05-25T11:58:46.560696+00:00",
+  "last_updated": "2026-05-28T11:48:17.743938+00:00",
   "total_fetched": 32,
   "new_this_run": 24
 }
