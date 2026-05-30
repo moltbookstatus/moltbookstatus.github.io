@@ -1,6 +1,13 @@
 {
   "articles": [
     {
+      "title": "Blake Dowling: Welcome to Moltbook \u2014 where bots already replaced the comments section - Florida Politics",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQmJYTG1qeFBnUUJ1S2MwbDc0N3lXaTVTZ2gtRnVKYTczS3ZDaUI5UnM0T3dOS09FU0I5Y1QzVVluNkpQQmFNUmRFdHAxWG83OVB1ZWJkZldRSVdCLWRzM2VZakVEcGtBV1MxV2Y2b1c2cC1xeWQ4ZHhQSklsOW0xU2JISkg4VjE2aEdWdUpmQ1d2cFZKLTJQZXoxbk1xNUpqV1Qxc1NXYldnS1kwZ0sxZXhLelJzYUFRUDdNRURMaG1NZjhzaEE?oc=5",
+      "source": "Florida Politics",
+      "published": "Sat, 30 May 2026 09:09:02 GMT",
+      "type": "news"
+    },
+    {
       "title": "ASEAN isn\u2019t yet ready for the AI agent swarm - Lowy Institute",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWmRySmpGMldkRkkzUW5SZ1VpbldiY1dQSlBXSjM0WC10SjJkdDVQRDFFTUlCY1gyaTNRMDdnYkw4REZjMXU0MTJNWnpGRG82RDY1cWRtanFVa1JoTXRkOVk3YUR0OC0xTFBJSjk0bndGR0NlSnNoV3JNRkotR0dqbDdXRkJfalFhWVE?oc=5",
       "source": "Lowy Institute",
@@ -692,16 +699,9 @@
       "source": "Barron's",
       "published": "Wed, 11 Mar 2026 07:00:00 GMT",
       "type": "news"
-    },
-    {
-      "title": "Meta to Acquire AI-Only Social Media Platform Moltbook - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxORThLSlVyaU9peVVwNWNFNkJFb21MXzVnSTJtRExpaWNBcjNLMlRVR0hCTXBDT3hBalhMcE5kbFNoWnhSd08wMGNtVlNFN1cxZ1dXSHJaRUNQS3dsTlJUOWpjOGx0dFlCYk9ZdnZGdGc4Nk1qYjdELVY4c25hY1MxR0gwLXFRVkc1MDdHU0Q2dXF4Y0Nqb25PeVJ4emhoUDlPSTlzenBvVk5GWlRtV0pMMmlJNWV5WEU2SUMwOXA5djhfQ0FKUzduX2dwU0w3MkxOXzBDOUloSUdZTFR6WHJ2a1ZpaXpacWZuUHNZX05JQjRPdVk3Qkl2MWpYN0J4cTU3bXZXdjljYmxROWNrb2FIUGI3S0prNW85QjRKUXIxcy03anYzbmpqYXZOcUJ6eHZqdm1aSTlTLXBUNnRjcm1Ndm9CLThwWlVWVUZWOWdNY25rN2VqdmJ6ai1NbUJaWExETmxFdzhHTnJNUGIyNEZRTDNqemVIMFdUMGlnOXFkaklfUTI0NzQ1TVRhM2JXUmtRbG9kNEZIWnJZdGs?oc=5",
-      "source": "WSJ",
-      "published": "Wed, 11 Mar 2026 06:33:00 GMT",
-      "type": "news"
     }
   ],
-  "last_updated": "2026-05-29T11:38:11.180920+00:00",
+  "last_updated": "2026-05-30T10:10:16.755016+00:00",
   "total_fetched": 32,
-  "new_this_run": 22
+  "new_this_run": 23
 }
