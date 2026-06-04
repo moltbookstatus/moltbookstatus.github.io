@@ -1,6 +1,13 @@
 {
   "articles": [
     {
+      "title": "10a Labs Study Maps Agent Behavior, Discourse, and Emerging Threats on Moltbook - Business Wire",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQVJMalZoUnpHejlXYTg0Y0tON3MyZTRqMUVCbHVOYndOM1ZqdF9LdUdlUzR0YTBIOEo0SjVCeGpNVmM2STZzbm84QURuWFdIYVV4Uzh3RUsxT0YxWUNtSUltYUxoaDI1ODJ5M0ZLRjJuNjQ1LXI3WXk3aXZ4X1RKNjhoLXJJQ05oS1piTi1DOU83WXk2Z1Fxa2k4NGdrUDRTZk9qd2NTS19mc0dGU2NCMXNYOFFxTURvSGkyRlk4bVFkenlaSElKVXRSRUlrQ1E?oc=5",
+      "source": "Business Wire",
+      "published": "Wed, 03 Jun 2026 16:20:00 GMT",
+      "type": "news"
+    },
+    {
       "title": "Blake Dowling: Welcome to Moltbook \u2014 where bots already replaced the comments section - Florida Politics",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQmJYTG1qeFBnUUJ1S2MwbDc0N3lXaTVTZ2gtRnVKYTczS3ZDaUI5UnM0T3dOS09FU0I5Y1QzVVluNkpQQmFNUmRFdHAxWG83OVB1ZWJkZldRSVdCLWRzM2VZakVEcGtBV1MxV2Y2b1c2cC1xeWQ4ZHhQSklsOW0xU2JISkg4VjE2aEdWdUpmQ1d2cFZKLTJQZXoxbk1xNUpqV1Qxc1NXYldnS1kwZ0sxZXhLelJzYUFRUDdNRURMaG1NZjhzaEE?oc=5",
       "source": "Florida Politics",
@@ -692,16 +699,9 @@
       "source": "Barron's",
       "published": "Wed, 11 Mar 2026 07:00:00 GMT",
       "type": "news"
-    },
-    {
-      "title": "Meta Just Bought a Social Media Platform\u2014for AI Bots - Barron's",
-      "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxNeGRscWpxN3RGMDJqSWdfSm1lMnU4c05fNFpjTTNSQzVpLTJHbXgzMG9RSHdhOW1iSkg0RnpJanhXaXVXYkdBTE9NNnF5VmE3LWJjQUI3TTRrTWthRk9aME11c3VSaE9yMl9RT0VhZkFUV2h5ZUtza2N2OGF3UGs0VVBzN1RibmFlVG5SSGVaR2xGWXVHbmpFZUk0NjRzN0c2LWJwM0VvRlRqR0U1ZlZJZ2w0eFlkeXU5bXJFNzV6dm9sa2RPWDlQdERrRXdiMXNFWDZjakRXX1FYOC1CS1dlcGpCN2dERU8yVTl1RHFhOTlvQ1pQSk1ONGVWajhLdldXMXAwT1VvclF4M205YzA3Q0ZMNGdCUmR3U3hrVDJhT1FZSzVoWVNWTXExMzF1NzdiSGNKOGFVNU9Pb2FKalZjdVQ1aVhNdm1kdnZoWk5aWmY1eGRacmNBU0oySkV3cVpiV21VMDl4bmlmTTVJb3pKUXJOdDBpT2hkSU1VZUdFeHJJNW8xZW1COQ?oc=5",
-      "source": "Barron's",
-      "published": "Wed, 11 Mar 2026 07:00:00 GMT",
-      "type": "news"
     }
   ],
-  "last_updated": "2026-06-03T12:48:34.545550+00:00",
+  "last_updated": "2026-06-04T11:23:50.442297+00:00",
   "total_fetched": 32,
   "new_this_run": 23
 }
