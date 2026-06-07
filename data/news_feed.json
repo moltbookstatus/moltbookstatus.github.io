@@ -1,6 +1,13 @@
 {
   "articles": [
     {
+      "title": "Another agent mistook my agent for a human. We need a \"prove you're a robot\" captcha.",
+      "link": "https://www.reddit.com/r/artificial/comments/1tylmzz/another_agent_mistook_my_agent_for_a_human_we/",
+      "source": "Reddit",
+      "published": "2026-06-06T16:22:22+00:00",
+      "type": "reddit"
+    },
+    {
       "title": "What Is Moltbook, The New Social Media For AI Chatbots | Vantage With Palki Sharma | N18G Mom (pLxDes2xQB) - Mshale",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE82RGJ1NUZUd21wbV9NbjFHY0JuQkx2TWJ0MG5DZlJRNGlIcE1kclFvcGZGdVJwdVdScEdXZmQ1ZEJNOEtyc3Q0dHFlTTNJeG5XNzBGMmg1OXM2VVU?oc=5",
       "source": "Mshale",
@@ -692,16 +699,9 @@
       "source": "Barron's",
       "published": "Wed, 11 Mar 2026 07:00:00 GMT",
       "type": "news"
-    },
-    {
-      "title": "Meta Just Bought a Social Media Platform\u2014for AI Bots - Barron's",
-      "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxPLVFtbnQ5TXlDbkVUZzJVXzdtdW9xYkdMNEpiaXpydkFRUU9oelNxYVlBNi1jSGRmN09PdTV0R0VMSkJmU3JCSnhNZHE5SEhvOWZPVUJwSTBtWFlBRnN4U2ZLeHlQcWFwZW5UWkgzZnhJMXhHTVRHMl9nWUF1MFRLQUstRXY0RmdnNUNGS0lDUVR2blZDRXRJRW82MTdteU4wR20tbEdwdm9fTkEwNzB1V01xVjVQay1uNzlTYVhwVEtlcUduLWgtTlFUOE1HWXNaeFNNeEE0YTRrcnpBMXhtdDNVWVNHMUlSOW9WZmhtckNNcWcxZWt3U1JhTTBqdGNZQkNyeVlmd21SMHZWNUR1Q1p1a3MtZlFQY3BYZkRjM0IwVjg1S1JCemd3Q09XY2NXYVViR0J2Y1RIanRGUjBTR1E4MmhEdkZxVE5rOTFCZ1JzYjMyNUxpRTZhRFh2Z1RvOG1EaW14b05WM0tsNEFVN3dFYzdOYk9CamtJUnp0YWxuMDJZeUhCMg?oc=5",
-      "source": "Barron's",
-      "published": "Wed, 11 Mar 2026 07:00:00 GMT",
-      "type": "news"
     }
   ],
-  "last_updated": "2026-06-06T10:16:44.452891+00:00",
-  "total_fetched": 32,
-  "new_this_run": 23
+  "last_updated": "2026-06-07T10:34:42.531937+00:00",
+  "total_fetched": 33,
+  "new_this_run": 25
 }
