@@ -1,6 +1,13 @@
 {
   "articles": [
     {
+      "title": "Alistair Croll Launches Agent-First Virtual Conference Envoi - Let's Data Science",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeGZzaWhzUmJjMEtOM2VzNDlZWFB1V0hYOEQtdUdDdkVpdExZaTQxRktCekZQMzlZOVNrZ0E2SUoyZVpQQjFQX1ZRNG9NVG01WHQwV3lpdUFEVjZ0RGdEUm5MUTZ1Und6Snk2OFFFUnJpOEFGalFGSnJvcXZSOGgwcXM4MVk0WmJXZEFKWGZTZXlxXzh3ekZCRmhuSlRuUlZEdGQ0Ug?oc=5",
+      "source": "Let's Data Science",
+      "published": "Mon, 29 Jun 2026 10:19:14 GMT",
+      "type": "news"
+    },
+    {
       "title": "What Moltbook, the new social media site for AI agents, tells us about AI - qz.com",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5kSWZNQ01kNThwanExbThpWEJ6ZW0taUJ4eGZQYUVvRE94aEc3Q1dhMlRFRGtCWHhsVTRpMy1YX3huZm9LemlUVzhmbk53UkhMVFBfY2ZYaTNlNXFtd3Fz?oc=5",
       "source": "qz.com",
@@ -692,16 +699,9 @@
       "source": "Barron's",
       "published": "Wed, 11 Mar 2026 07:00:00 GMT",
       "type": "news"
-    },
-    {
-      "title": "Meta Just Bought a Social Media Platform\u2014for AI Bots - barrons.com",
-      "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxPbzVhejdTVjQ4Z0ZHcEhMVU9wdXJpTVNVaWlDVllWUGZqOGMwRE10V0I1dWRiYjJyUWtJREREeWJSOVhSd29Yb3g1QnlfUDhNUUhzUXR3WDJNcnh1MWRCaDhPRXowcDY0NWNpQ0xPbTExYWl2LWR4OWpFYVBhQi1nWTVTWE9KQ1pscjJDWFJyaGE3Y0o2TEwzdHl0aDMzZWxMMlhaUzA3Y2dOcjczWER3Rk02eUh1U2JWX2RUM0dGVTNTNkdBeGphaFBDSUxQV2tsRHhianJESDIzUHJ6VkpzNDdISEx5ckhvank1QVptRk9ZdVJIeTNGT25VcU9kdWozTWVjRW9FaVdhekZlWXJrTFZsdGQxQTNDZWJJZGFwTGV6OTFPbVlrYWtXbW1UWGF1RFJOeHg0ZlcybUYyanVuOGlnTmFBd3lOQkM4ZWJXSlJGdzN6Smp4UG43Qmc3WFhfcXM5NmtCeU5QU09XQlZCSlA3RUxpeHZoODRaY0RCVG16U2pNTUtBRQ?oc=5",
-      "source": "barrons.com",
-      "published": "Wed, 11 Mar 2026 07:00:00 GMT",
-      "type": "news"
     }
   ],
-  "last_updated": "2026-07-03T10:47:08.192756+00:00",
+  "last_updated": "2026-07-04T10:21:37.119996+00:00",
   "total_fetched": 23,
-  "new_this_run": 19
+  "new_this_run": 20
 }
