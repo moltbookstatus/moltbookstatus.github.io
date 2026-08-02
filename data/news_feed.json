@@ -1,6 +1,13 @@
 {
   "articles": [
     {
+      "title": "Meta acquires Moltbook, the social network for AI agents, and hires its co-founders - Goodreturns",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNam5HaGJNYnZjdnBFN0JuWm02Wl93LWJVMTR4WDlUT3RUZkpZNGVxQld2Ym9rUHVIZm43YW9odXhRY0VzRlByUGVjckVqZU04dFE0TXA4M2YxcGtSc3liV0VQMzhVbWduMHVOUEFLNS1JT1RSeDhEbmNERG9jZTRtbWZqZ3pwWi1lOWh3LTNTYW03Q0pkbkFtdEJvNE1JRmtBWVpUeE0xRHBSbkNyZUxaY0ln?oc=5",
+      "source": "Goodreturns",
+      "published": "Sat, 01 Aug 2026 14:37:38 GMT",
+      "type": "news"
+    },
+    {
       "title": "AI Singularity Moment Just Hit: Moltbook AI Behavior Freaks People Out Jus De Canneberge (anySKta38c) - Mshale",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE96akxZZm5QZjBMREk4c3hBNzJRejA1OWJhVDhBRms2VXZNdGJWSmc5Y0RTTDRpMWVEaE1ydjV2SEI5LTF1T1ExOWEwN28tdUZmTW1rS1VId2JPNi1VbUUzTQ?oc=5",
       "source": "Mshale",
@@ -692,16 +699,9 @@
       "source": "WSJ",
       "published": "Wed, 11 Mar 2026 07:00:00 GMT",
       "type": "news"
-    },
-    {
-      "title": "Meta Just Bought a Social Media Platform\u2014for AI Bots - barrons.com",
-      "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxNSFpQYk9aS0ZZNG15dE51WW94RmJMM1AyNXRVeVplWF9uczdITWZOY0RVVmxidDZ0VVV6TGhHeW90U2JVYU04ZElmVGZZRkdmejlITW9QNWpORXZsU2x3ZTF1NmhfMTVOZWJOeWdSdTJrMDdyYndNelBmdXcwRzI4ZHdtdEdmYWtrUzVlNEY4cWMwVXA0bkxIaXJKanpnZnZ1MlBRWllnSE9QUDF0ZEpUdWZMNHU3ZHZYRy1xSldEUW5wQ3Q1bnpOQ0hmaE1tdjNJMnJIZUtTMEQ0bklhYjN5SjBwNWF1THB3ZGxqTXBpOC00dmRQTjZPQzN4ZWxOUnlRTzFBMlBJMDgxYm0zSHV1S2tkaXlCbzNOUy1tSVZya09ERGwyTEFJZkxZTHU1RU9hRUtBbUNZY0JGMEJQM29obDlkbUVGYmRjUjZ1SS1xNnZJNThZeEIzVzllR0hCU01rT0h2MFg1TGVRWVJwUUM5YkJjTzlSS0U1blR5S1Fwc2cxR1NYbkMyXw?oc=5",
-      "source": "barrons.com",
-      "published": "Wed, 11 Mar 2026 07:00:00 GMT",
-      "type": "news"
     }
   ],
-  "last_updated": "2026-08-01T10:07:27.701291+00:00",
+  "last_updated": "2026-08-02T10:05:13.475176+00:00",
   "total_fetched": 23,
-  "new_this_run": 19
+  "new_this_run": 20
 }
