@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "title": "Can An AI Agent Actually Sue You? Moltbook's Autonomous Agents Are Testing Legal Boundaries - Yellow.com",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWGR4Ym1kdks1bW9rb2Y3aTBkTGk5OWlyVVplUkNUOG9ORmdINk83YmdJaWN0QWpYdXVoYWFwWk5sQUtHb1oyWWI3bHpoU1VCRnhsTEdWcWEtMXBQV1g2R2tESDNLMXg3Q2paR2sxNXFHamVDM3RqUndmVWVRSi12Q01ZTDBGWktjNFRLZ29WWlNPdzFiaE5YUURsMUZyV3c0N0I5Vi1WeDZTZXBDWFVYZlhBajlhYTJxekNBcDFxWGhhb1o4N2c?oc=5",
+      "source": "Yellow.com",
+      "published": "Tue, 11 Aug 2026 17:57:37 GMT",
+      "type": "news"
+    },
+    {
+      "title": "Meta Buys Moltbook, The AI Agent 'Social Network' That Went Viral On A Security Flaw - Yellow.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQ09veTlhenVqS0Y2dnZUMm0xT1JDblhDWXgyTUh6bm1Xcmx5QWZUUnpNMUI4SGg1QURRMC1CR1ljVHhjazR5aGJsbzhYVXNBMk5VWjZidVRZaVlybWVucXRkbF8xOUFzc29TbHNyY19mN25kbmhud1NmTUhBV18wMEtRMjhGd0VfeDF0OUhPUFpUemJRZ2pjVzI0WmFUNHRqNERtSUZpX1Bud0pOUzRQNl8tcGc?oc=5",
+      "source": "Yellow.com",
+      "published": "Tue, 11 Aug 2026 15:58:41 GMT",
+      "type": "news"
+    },
+    {
       "title": "Meta acquires Moltbook, the social network for AI agents, and hires its co-founders - Goodreturns",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNam5HaGJNYnZjdnBFN0JuWm02Wl93LWJVMTR4WDlUT3RUZkpZNGVxQld2Ym9rUHVIZm43YW9odXhRY0VzRlByUGVjckVqZU04dFE0TXA4M2YxcGtSc3liV0VQMzhVbWduMHVOUEFLNS1JT1RSeDhEbmNERG9jZTRtbWZqZ3pwWi1lOWh3LTNTYW03Q0pkbkFtdEJvNE1JRmtBWVpUeE0xRHBSbkNyZUxaY0ln?oc=5",
       "source": "Goodreturns",
@@ -685,23 +699,9 @@
       "source": "Barron's",
       "published": "Wed, 11 Mar 2026 07:00:00 GMT",
       "type": "news"
-    },
-    {
-      "title": "Meta Just Bought a Social Media Platform\u2014for AI Bots - barrons.com",
-      "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxOWHRhaDZ6RE14N2J6aXNocWtyNkJhaHRKaUF6aExvalh2bHhPZF9PSEo0ek51LVNiYW94NW9zLXZ4N3V6QlNvOS1GcUtlb1p3aUFPVVVaS2J2SmRXcXlOeXlrZWVubjlkdGhaVXdrUm0zRG1iNzlqZ3NXYmZ3OXpFN3dZc2YyNm1KSnctNDl0YzNfNmpSa2FaUmZ2MU5hcjkyVWExdExJblQwYk45Qm10WFFBcXBaWnh6RWkxM0VPUDgwM1R0bDRiSm9YbjkwRlRKZHJkckhnMlpTVjFhTXNYMlhXSXk5QU9QN1Y4SFZTS1U0UjVUV2s0MjA1SjlHV2t3RVEwUVlaZXdRNjJXbUV2Q1I0YUdOUTdHTVdUclZUR2hPeFk4TzNmZjMyX01VU0VPa05KUGE1MjdNcFdHZEtSUHRNODNkRTdBWDloMlVtQ3MyYnlJTlR1YWxqS1gxTmFKNjdXa2FGMzVSY3B2OTNwUzQxLW9SMFJ3MWV6Y2E1R2I3TG54SHphaA?oc=5",
-      "source": "barrons.com",
-      "published": "Wed, 11 Mar 2026 07:00:00 GMT",
-      "type": "news"
-    },
-    {
-      "title": "Meta to Acquire AI-Only Social Media Platform Moltbook - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxOM2RLN0dHTWVVV0hNbmtaMXJrNmVoT29Tc295eU1mNURsQ3hISHpVYVRadGlXaFlOR3NXLTFKYmdRbDlHWndvUXM5czhCNW9wejNUa2luQzNiYUJEa25OZXRiTzdLWFdJX2ZRbzd3azNTblFoQU5sb05NS1Zwbmw0eWp2bGR6RTVNN2pzSVBKMmdQc0hPU3ZWdGtKX1RXVlI1aWNzZDJ5bWZoS3hUb0Z1Z1ZtQlZrWU5tVElUR0NUdUFTMlppQjFsWXE3V0RDdXFUekYweVR3YUp6RlBvcFlmT1NtbkEyelowMzdCN0hNSnVKaUxGMGtaNzNVSC1ST3c2MDJ4aElKYnkxX0JUVXFEVEtPeUZzS0F3QVFaQlRrYWt1YTlFVjVPZERWSnV1NWRnUS1SdHM2QUtkTlhMTm9mRGVpUExueE5HOTJyTWpRNHdvZ25EZFdjLUR0dWU0aWlLZHhPTHRtczJXVUxGLXo5eVdEY1RiX3dwUDd0d2dJS2pPTGwtNjh4ellGdUwwMlFOTE1JaDN5ZmFlcEk?oc=5",
-      "source": "WSJ",
-      "published": "Wed, 11 Mar 2026 07:00:00 GMT",
-      "type": "news"
     }
   ],
-  "last_updated": "2026-08-11T09:10:24.738310+00:00",
+  "last_updated": "2026-08-12T09:20:06.671370+00:00",
   "total_fetched": 23,
   "new_this_run": 20
 }
