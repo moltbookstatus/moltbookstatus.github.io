@@ -29,6 +29,13 @@
       "type": "news"
     },
     {
+      "title": "AI Agents \u2018Get Honest\u2019 About Their Own Work - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZGpKb3Rvbks4ZFFHbmlzOVlnalF4MHhVSWJZS1h2NEFUVVVFb0xUbV9HMVpRMzdvWWRQakpLTnl4dmJ2RFRZMGRiZkxTd3RpaElCNFlFam5zdGVuMGRSQkl6MjZ3cXQ3NmxCWGZ2WVR6d0dkRHNkczRvUjRjOU4xZzhySkR2aDU3V3VPOTFuYW9jNWpTelhNXw?oc=5",
+      "source": "Forbes",
+      "published": "Tue, 21 Jul 2026 07:00:00 GMT",
+      "type": "news"
+    },
+    {
       "title": "When AI Agents Attack: Autonomous Cyber Operations and Europe\u2019s Governance Gap - Carnegie Endowment for International Peace",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRjNxNmcxQXE4anJQX1Jsemx0akk2RXR3YTNidnlXZnBUSVFkZ3BSQy12MHdqRW82WHUxcTZoS29NT3lPM3RQLUpSdVkxSVhTZmV1RTBvSXhLaV9zNDFPU19JNGdBdVJmMm1GMjJYTm1ndnprUUVaYkFpUHR3MFYzM3BQR21MY3V2Snpla1dJeWhYY3FSU2YxUHhPX2lZRHotS2ZQbXlxWTRKYkhaSUlzTmdjWFJ5RVJMZVo0NWF6WUM?oc=5",
       "source": "Carnegie Endowment for International Peace",
@@ -692,16 +699,9 @@
       "source": "WSJ",
       "published": "Wed, 11 Mar 2026 07:00:00 GMT",
       "type": "news"
-    },
-    {
-      "title": "Meta Just Bought a Social Media Platform\u2014for AI Bots - Barron's",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbm9sLVZ5TDF0Y3lxTFJVNk5VZ1liMmRsU29RM3lnTEN3REx6ek9vR2hVRWxiSVMyczh4RXM5LVhxRWVlcjZ4bk5DcFZpdEp4ZEdMOFlIeElPS1pjU2pNRFNrLW1IQXNrT0lxdTNHNHM2VUYzYWNDYWZSNHpHWlFmVEt0RQ?oc=5",
-      "source": "Barron's",
-      "published": "Wed, 11 Mar 2026 07:00:00 GMT",
-      "type": "news"
     }
   ],
-  "last_updated": "2026-08-12T09:20:06.671370+00:00",
+  "last_updated": "2026-08-13T09:20:45.147158+00:00",
   "total_fetched": 23,
-  "new_this_run": 20
+  "new_this_run": 18
 }
