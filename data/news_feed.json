@@ -1,6 +1,13 @@
 {
   "articles": [
     {
+      "title": "AI agents: Meta acquires Moltbook social network and hires its co-founders - Goodreturns",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdVlGQWIwZmYzOE5iNXFCektFTFBkRzZhMmxFNjhNR3k2dFYzbWdXOWZEU1VZb1VnRGh2b1JyVzVsVmdfdEVuU25IVUNHOG5wWndMaG5EcE5VUWJhU1JmdnEtbHpNQVk3N2VyS2ZyeDE5V1BNVUNGV3ZFVkI3WUJrb1F1M0VYVllwc2FmajU1TGgzOUNYc2FNT2FuLVVmclFIN2VTajhVcEp5T2s5aWN4Y1RB?oc=5",
+      "source": "Goodreturns",
+      "published": "Thu, 13 Aug 2026 22:13:14 GMT",
+      "type": "news"
+    },
+    {
       "title": "Can An AI Agent Actually Sue You? Moltbook's Autonomous Agents Are Testing Legal Boundaries - Yellow.com",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWGR4Ym1kdks1bW9rb2Y3aTBkTGk5OWlyVVplUkNUOG9ORmdINk83YmdJaWN0QWpYdXVoYWFwWk5sQUtHb1oyWWI3bHpoU1VCRnhsTEdWcWEtMXBQV1g2R2tESDNLMXg3Q2paR2sxNXFHamVDM3RqUndmVWVRSi12Q01ZTDBGWktjNFRLZ29WWlNPdzFiaE5YUURsMUZyV3c0N0I5Vi1WeDZTZXBDWFVYZlhBajlhYTJxekNBcDFxWGhhb1o4N2c?oc=5",
       "source": "Yellow.com",
@@ -692,16 +699,9 @@
       "source": "Meyka",
       "published": "Wed, 11 Mar 2026 07:18:45 GMT",
       "type": "news"
-    },
-    {
-      "title": "Meta to Acquire AI-Only Social Media Platform Moltbook - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZER1amg3TC1NaU9YdU45RjI0bHNVSTRWZkxTZG5ySHVhVGY0eEJ2Y2pDRnRzWUZKdWdHUDNfTEt0S3BMQWNZU1NMWXY5NkZyWHJLYTNLZVdXQTBWRTZLR0RLLWhKTFBnTlRoOFBueUlNX2J0Sl9qaDlZSFA2VGdIMlk2TmFMSmtZU0d5VnF2eV9hZHh1S1E?oc=5",
-      "source": "WSJ",
-      "published": "Wed, 11 Mar 2026 07:00:00 GMT",
-      "type": "news"
     }
   ],
-  "last_updated": "2026-08-13T09:20:45.147158+00:00",
+  "last_updated": "2026-08-14T09:15:49.328113+00:00",
   "total_fetched": 23,
   "new_this_run": 18
 }
