@@ -1,6 +1,13 @@
 {
   "articles": [
     {
+      "title": "Meta Buys Moltbook, The AI Agent 'Social Network' That Went Viral On A Security Flaw - Yellow.com",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOc3ZXZEdOZldOWS04cC1qZmJuRmt2aXh0WExnS3ZtQ3N2dEZXalZZNE1xdkphc0NxSXJPMi1CaWpMRVJoMVdZN3RfejN5bV84d3I3bVROVjU2ZHNEdEZIYzBlYmNYZXVlYVZFMWM2bG9WN1lBWHNGMjNHNEtxb2xNNGtRNE4tSG4wSGlTNzNiWXhmRnJ2MHFCRm1LRk1Fc25FbTJzdW1GMXlFa1NpbXVjQTFuaWQ1QlU?oc=5",
+      "source": "Yellow.com",
+      "published": "Wed, 19 Aug 2026 20:14:58 GMT",
+      "type": "news"
+    },
+    {
       "title": "AI agents: Meta acquires Moltbook social network and hires its co-founders - Goodreturns",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdVlGQWIwZmYzOE5iNXFCektFTFBkRzZhMmxFNjhNR3k2dFYzbWdXOWZEU1VZb1VnRGh2b1JyVzVsVmdfdEVuU25IVUNHOG5wWndMaG5EcE5VUWJhU1JmdnEtbHpNQVk3N2VyS2ZyeDE5V1BNVUNGV3ZFVkI3WUJrb1F1M0VYVllwc2FmajU1TGgzOUNYc2FNT2FuLVVmclFIN2VTajhVcEp5T2s5aWN4Y1RB?oc=5",
       "source": "Goodreturns",
@@ -692,16 +699,9 @@
       "source": "Barron's",
       "published": "Wed, 11 Mar 2026 11:25:00 GMT",
       "type": "news"
-    },
-    {
-      "title": "Why Tech Is Obsessed With Moltbook, a Social Network for Bots - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRTVCWE1JTnVoTzlFSUNFRnJZX2ZRZ1RZLVRjTzNZczVuZ3lYQnQ3d0FRNGtfNU5rb1h4cnF1WVl4MVI3Z0txYU1kOXRkcVFDSGhSa3dHRlBIVjN1SHlCQk9uQlZxZ012MFFCTjNqV2x3RUEtOTJ0Z1NnUnFnMjlvaXBpT1lneG1MWTAwTHlIWlE3Tl9leFRQWGxn?oc=5",
-      "source": "Bloomberg.com",
-      "published": "Wed, 11 Mar 2026 09:30:00 GMT",
-      "type": "news"
     }
   ],
-  "last_updated": "2026-08-19T08:49:48.660940+00:00",
+  "last_updated": "2026-08-20T08:51:28.193902+00:00",
   "total_fetched": 23,
   "new_this_run": 20
 }
