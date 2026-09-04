@@ -1,6 +1,13 @@
 {
   "articles": [
     {
+      "title": "Meta Buys Moltbook, The AI Agent 'Social Network' That Went Viral On A Security Flaw - yellow.com",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWHc4QUE1MmtpbmYxck5hd29lcGhKWU41NnB2X0hDME5RRTFpam9WdkJJeTZTLVh6YXQ3TFRfRmtpUUNDMkJMN29qRjZSdlM2YXlsWHhfTk1oUFd5ZkswVkhXVzN4ZVlvZWh1TnAweXAydGdsVjdkZE9ZNlpjZjRsRjFEUmg4TXE0TXBtYk4zakVwWmc5ZF9teDR2dG1qX1dzVVBHZzJQaFZONXBIcmw1YzRXc1ZVY1BOSlp6LUVKbw?oc=5",
+      "source": "yellow.com",
+      "published": "Wed, 02 Sep 2026 11:52:51 GMT",
+      "type": "news"
+    },
+    {
       "title": "Meta Buys Moltbook, The AI Agent 'Social Network' That Went Viral On A Security Flaw - Yellow.com",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOc3ZXZEdOZldOWS04cC1qZmJuRmt2aXh0WExnS3ZtQ3N2dEZXalZZNE1xdkphc0NxSXJPMi1CaWpMRVJoMVdZN3RfejN5bV84d3I3bVROVjU2ZHNEdEZIYzBlYmNYZXVlYVZFMWM2bG9WN1lBWHNGMjNHNEtxb2xNNGtRNE4tSG4wSGlTNzNiWXhmRnJ2MHFCRm1LRk1Fc25FbTJzdW1GMXlFa1NpbXVjQTFuaWQ1QlU?oc=5",
       "source": "Yellow.com",
@@ -692,16 +699,9 @@
       "source": "Barron's",
       "published": "Wed, 11 Mar 2026 11:25:00 GMT",
       "type": "news"
-    },
-    {
-      "title": "Meta Just Bought a Social Media Platform\u2014for AI Bots - Barron's",
-      "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxPd0FwQU0xdjgzd2p0UTVoQ1dXM2Y2dG9XaTd1aFcxajBPQVgxazA1bHdiNnNhTi1vV0NQUEQ1NEs4QWk5QTJBZVhEZlBmVmtCaTlEV0JCVU5JeG5ja1doTDFmaXpzTk05ZTNqbUZwaG4zdW9YS2dKYWhRWFFSbVExbUItSFdvLXExMEpHVEs3SXJJbmFsdnlTeVRCeEg1MkJEcHNDaHdtT2RQODVwckNMbVF5bzRuVW1nRy1fRTdlYm9USklUOFVKcERkcjA1WGs2ZjN6NGtBMTBUSmw1YWJtOTB3b3E0NDJaZTBQUm5JVXlMTDZITGRTREpidHZab1VMaU5VNlc1Q1lzRzJyU3NYTHZJMWxfTkp6UWJwZTBoQmQtUnRHQlhQY2RvdklCUjZzcVlBR3dCYWd5VE1ScUxzbDNHQkhzTl8yNjViQjZYbmhrNlF1dUZGTUg1YU50a19zaG5nTG5YV0d2NExtWXRzLTZTSnZxdUVVcUJRUUl0aGdydjB3WkFTRg?oc=5",
-      "source": "Barron's",
-      "published": "Wed, 11 Mar 2026 11:25:00 GMT",
-      "type": "news"
     }
   ],
-  "last_updated": "2026-09-03T12:46:45.534887+00:00",
-  "total_fetched": 3,
-  "new_this_run": 3
+  "last_updated": "2026-09-04T12:40:46.231021+00:00",
+  "total_fetched": 23,
+  "new_this_run": 20
 }
