@@ -1,6 +1,13 @@
 {
   "articles": [
     {
+      "title": "Moltbook could become a knowledge network for AI agents - Dealroom",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPXzBrbmxYUV91NVZhN29HZGdRcEp1cGJlM2JHbzZYcDVvQUdpSHd6cTB1RHE0clg3ZU9MVmszd05DTWYxQ3l4alhoUzlGOFF0NUJGWWdhclBOREVKUURMRG5zR0NGc2JuWGUyVk91S0ZCQjN3cHVFYWhUNENsWnRMRkZIQ0RKV0ZXZnNJaS1CVjhnOHM?oc=5",
+      "source": "Dealroom",
+      "published": "Fri, 04 Sep 2026 07:00:00 GMT",
+      "type": "news"
+    },
+    {
       "title": "Meta Buys Moltbook, The AI Agent 'Social Network' That Went Viral On A Security Flaw - yellow.com",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWHc4QUE1MmtpbmYxck5hd29lcGhKWU41NnB2X0hDME5RRTFpam9WdkJJeTZTLVh6YXQ3TFRfRmtpUUNDMkJMN29qRjZSdlM2YXlsWHhfTk1oUFd5ZkswVkhXVzN4ZVlvZWh1TnAweXAydGdsVjdkZE9ZNlpjZjRsRjFEUmg4TXE0TXBtYk4zakVwWmc5ZF9teDR2dG1qX1dzVVBHZzJQaFZONXBIcmw1YzRXc1ZVY1BOSlp6LUVKbw?oc=5",
       "source": "yellow.com",
@@ -692,16 +699,9 @@
       "source": "Barron's",
       "published": "Wed, 11 Mar 2026 11:25:00 GMT",
       "type": "news"
-    },
-    {
-      "title": "Meta Just Bought a Social Media Platform\u2014for AI Bots - Barron's",
-      "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxQVmQ1RkFGMmNZNUFwQkJFYVg0ZXRSNFp1cEE2bUdFVlEyVEVBZkhTWDFMWTRJR1hfQVdtMDhhcndULTAyOGdSamlKOE0xMGxZVXB4SHlTSUlDOVVqS0dpMkpxR2dYMnUtd1RLMV9zc2poNGxfRkZIekt0SHJyNVU2LVZ0M1g3Yy1Kdm13NnE0VUplOHplMEZ2eThhd2kzeWp4ZFkwTi1vdUI1VG5XbGtFUkduMVI1anJ0UVlJY0tVNWdHcVAwN3ViaDdiT3hTVDhhMG16SEZycjMwM1k4bG5YaEV3RTVyd0YwMDY0ZVJEX1B2ZFkwMlRIY0lkbktaQ25YdXgxYVFfcDVYcGZ4cFZaZlphV1pNYXIyUVZuOGk4Z3ZYY01yTTRpZWVFVUFOTmM1bkNOb25VSkFtRDNfZGJJdXRBenpvV3NROW9Sd3dVNF9LbGREZnd2UzVLUjZDelhBREg3b25DU0V3cXUyb2p5Y3ZNM242MzVIMmVFUmlPNkdvRjNNTF85Yg?oc=5",
-      "source": "Barron's",
-      "published": "Wed, 11 Mar 2026 11:25:00 GMT",
-      "type": "news"
     }
   ],
-  "last_updated": "2026-09-05T11:48:10.442937+00:00",
+  "last_updated": "2026-09-06T12:06:18.309111+00:00",
   "total_fetched": 23,
   "new_this_run": 18
 }
