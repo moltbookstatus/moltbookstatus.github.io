@@ -1,6 +1,13 @@
 {
   "articles": [
     {
+      "title": "Meta Buys Moltbook, The AI Agent 'Social Network' That Went Viral On A Security Flaw - Yellow.com",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeUlQOWdxcWhBTEhOeDBnajFtNmVsWUI1WGVCUUxQYmNhdDdIOVVwZGZFQ2pja0s0OG1YSmluaktsa3V4Nk4ycnZ0UWtEZUFTMS03Mk5sbG1rN1p5djZPSTRsb0hqTkJJOVlybDN0UURyUVBfd2ZHbmRDOGJzMU1EUUtEUkpHNGJyM1A4RU5HNnlrcFE4T0dIOTAzRGpZb2wxS29GaHM4YWJTekVzQmpxazVva1I4SWxC?oc=5",
+      "source": "Yellow.com",
+      "published": "Tue, 08 Sep 2026 05:49:13 GMT",
+      "type": "news"
+    },
+    {
       "title": "Moltbook could become a knowledge network for AI agents - Dealroom",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPXzBrbmxYUV91NVZhN29HZGdRcEp1cGJlM2JHbzZYcDVvQUdpSHd6cTB1RHE0clg3ZU9MVmszd05DTWYxQ3l4alhoUzlGOFF0NUJGWWdhclBOREVKUURMRG5zR0NGc2JuWGUyVk91S0ZCQjN3cHVFYWhUNENsWnRMRkZIQ0RKV0ZXZnNJaS1CVjhnOHM?oc=5",
       "source": "Dealroom",
@@ -692,16 +699,9 @@
       "source": "Barron's",
       "published": "Wed, 11 Mar 2026 11:25:00 GMT",
       "type": "news"
-    },
-    {
-      "title": "Meta Just Bought a Social Media Platform\u2014for AI Bots - Barron's",
-      "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxPMkF0bXlPdEZSRnhMY3VRTnBqc3lJa2RuTkczRXhTYTF5ZElWaU5JNjhWUF84ZlRCUHlzenRyeVdDT3FKV19Fc1AtTHV0dTNac1dGS2s2Z1ZkVGd1UWRjQmlIdnJ5dGNPcWtpTHVYWkdKaGdWWC1JRWMtWlJrb011Z2VVY0tESjE1WXZ3UHB2NGEwT2E4WDNOOVpwWWZzMi0ycEM3WndtWjd4MHNtZlZOeVd4aXhtdkx1LUZUUmVhRzRmQldXSnRrZkp6MF9iRmVZR2tRM0MyY3UwMzVyb3R5ckhNNVAwalhzOTNrcGRxUWl3V2xkMzdhVjM3anFmMGtwcGx2RTd6dC1uNlhEeGk4M1VhT2M4QWNlNjFOclZvbXhQbTRMWHFpdVBQZ213dVNMQXBzZnRkc1VOaTdEMmx5VUJZQmt6ZjJLT3BtU1RUXzI1Y04taTAxR2FicmZsOVVpbVlqcnU1RjI0LWVaaHVPb2ZTSVlzVFVYa0YtQ3lfcm00WVFlUmR0Nw?oc=5",
-      "source": "Barron's",
-      "published": "Wed, 11 Mar 2026 11:25:00 GMT",
-      "type": "news"
     }
   ],
-  "last_updated": "2026-09-08T12:49:50.166348+00:00",
+  "last_updated": "2026-09-09T12:55:07.415066+00:00",
   "total_fetched": 23,
-  "new_this_run": 18
+  "new_this_run": 19
 }
