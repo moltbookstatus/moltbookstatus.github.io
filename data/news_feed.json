@@ -2,6 +2,13 @@
   "articles": [
     {
       "title": "Meta Buys Moltbook, The AI Agent 'Social Network' That Went Viral On A Security Flaw - Yellow.com",
+      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQSUVQWWdabTVoZWxna0tJalRSYmhZZkw4UkY4MXBTaTZDcGRJb1FwMzVia1BGVFM1dHhqZ1Vwd2JGUG5qcl9hQ1JxRnktMlBXUWoxcld6elNFaUROSGJQZkpqNTE3Q2gzVVNVaWdBbEtla3gxdE80NXdBZU40LW80UThRWW9YcXlXcndWOGNhV0R0OWZ3Vlc5dHdvNkFiYlU4YXBxdkhibkdoU19sMVJCalRDVThncHo3WUNUMkNsZl94bjZRZmxNeEhfdXFCc3hOQnE0bHJoYWtZNENXNkJDV1ZmT2tVT0JIUTNVbWdLS0ZWSXhOVWFfQkczQXUyQ2RhakxaTlJZY1VnNm9VU0ZqTzc2TFU?oc=5",
+      "source": "Yellow.com",
+      "published": "Fri, 11 Sep 2026 23:03:54 GMT",
+      "type": "news"
+    },
+    {
+      "title": "Meta Buys Moltbook, The AI Agent 'Social Network' That Went Viral On A Security Flaw - Yellow.com",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeUlQOWdxcWhBTEhOeDBnajFtNmVsWUI1WGVCUUxQYmNhdDdIOVVwZGZFQ2pja0s0OG1YSmluaktsa3V4Nk4ycnZ0UWtEZUFTMS03Mk5sbG1rN1p5djZPSTRsb0hqTkJJOVlybDN0UURyUVBfd2ZHbmRDOGJzMU1EUUtEUkpHNGJyM1A4RU5HNnlrcFE4T0dIOTAzRGpZb2wxS29GaHM4YWJTekVzQmpxazVva1I4SWxC?oc=5",
       "source": "Yellow.com",
       "published": "Tue, 08 Sep 2026 05:49:13 GMT",
@@ -692,16 +699,9 @@
       "source": "Barron's",
       "published": "Wed, 11 Mar 2026 11:25:00 GMT",
       "type": "news"
-    },
-    {
-      "title": "Meta Just Bought a Social Media Platform\u2014for AI Bots - Barron's",
-      "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxPM192RjdZaEh6MGdSWU9tZjlrR1dZS212dkVEWTlwaU9iTkY4OXpfa3JMUTdXLWE1R3NQSjM0ekxrZzQ0dnYzcklYdUIwZ1JHckhDV3V3emVzeWlCV1lTdG4tUDN0bURMOVA5NFV0QmNmU1Rkb0gzYWNGOGplYWNiXzhzMEZ1SXNLM1lYaHJMNUZuekhTWDQwQ1J4SXJZXzVtQmtNY2hzdDBtbEY4WWFrQkllakVyc1A2alFmN05rSjNhdkNVRUp2RWhsRmxVRXY5bEZnNkVhUjBsSWVKLWxrMkRINHVLLUcyaEZJZkdvbzUwWmtkV0ZXLVduaS1lV0JpaERtMmljNjFGOU5STXBsdl9XbGx5dkxKN3E4TEZmR1RybDQ4LS1JTGsxZHhtblBJV0JsOWRPTnRXY2R6V0x5MDRIR19EdzVNX0M0R3Q0Q3pNbjlGQ1VZeTFZeHl4bGpvaGF1Z3lVMXA2eDFxc1ctTlZmdnJIekw3ZFBWSmpTRnJTVElpTTlvMA?oc=5",
-      "source": "Barron's",
-      "published": "Wed, 11 Mar 2026 11:25:00 GMT",
-      "type": "news"
     }
   ],
-  "last_updated": "2026-09-11T12:47:18.640627+00:00",
+  "last_updated": "2026-09-12T12:07:27.036218+00:00",
   "total_fetched": 23,
-  "new_this_run": 18
+  "new_this_run": 19
 }
