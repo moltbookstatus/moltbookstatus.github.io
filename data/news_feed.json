@@ -1,6 +1,13 @@
 {
   "articles": [
     {
+      "title": "Who Gets to Decide A.I.\u2019s Moral Code? - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWFJlUllsTnZXWkl3WVdDbF9ZbmFzRDczSWJuYjFQVm90eEFCY2Z2a0VEVEZob29FY2ZNbWozOVJYMnVzWmZubi05Yi1qM1REUElvMTUtZUJXSWd4TzJmdi1ILW1pQmJoTkxCUFVNVmt5VVVrdS0wTHdUOHA1T1VfZHBMUDEzU2ZrQTcydzRWSnROZkU?oc=5",
+      "source": "The New York Times",
+      "published": "Sun, 20 Sep 2026 11:14:49 GMT",
+      "type": "news"
+    },
+    {
       "title": "Meta Buys Moltbook, The AI Agent 'Social Network' That Went Viral On A Security Flaw - Yellow.com",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTDlSandJUkdtNUQ3OHRqcWhLYk1DUVRUZmVTaDFRMDg5dE13TVVLMVQ3YlluMlZEdXJBbmJZM2tyRkdUcy16Yml5TUwxVjVOajdmeFFOWmVxWUN0emZQM2swSXpYNjdlcUE0MVNGQ01JWWs2dDJseUsxelJEZ0Iya3czZTVKTkctNHpfZWpWRE4xdmQ1ZXRJal9fRHcxN05hNzg2a3IxQWZMbUhkTkFoLWpTVlVoWHlOREpjSEdaTmI5MmJmalk0?oc=5",
       "source": "Yellow.com",
@@ -692,16 +699,9 @@
       "source": "TechRadar",
       "published": "Wed, 11 Mar 2026 13:15:00 GMT",
       "type": "news"
-    },
-    {
-      "title": "Meta to acquire Moltbook, social media site for AI agents - dw.com",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNOVZienFKZUtOQzdKSkZicGFPUF82NVhqWjRaWDBuRXBTdHozR3FSd3hLZ3ZMUkphZ204ZUNFM2VOQjJyR1dIakM5d0w1Tl9FeHBPeHRwZ2ljd0lVLUJVcE5BclhjazNLcDc4V1k2WjltaUg4dUFkaTNJQkhhUXN0QWJYVURmRF93aWJ4MVFFRi1sc03SAZMBQVVfeXFMTkZPcTdFNGFuUlJ3LUtCQXBxTzhxaXJYbnZabmxCc1pmS1lJcGs0Q2ZCYlR0dVYwelpXRW03VlBCcm9NNkdrQktVb3dOQUxtSnhmNTZrRUhDVnFmMG0zTjJBbnNRVkRfMWxsRG95M2x0aFZLemg0ME9nSVkydUZNWVg5UV9NX1NhTzNtakZUbmV5OHFZ?oc=5",
-      "source": "dw.com",
-      "published": "Wed, 11 Mar 2026 12:11:54 GMT",
-      "type": "news"
     }
   ],
-  "last_updated": "2026-09-23T13:34:59.834391+00:00",
+  "last_updated": "2026-09-24T13:30:04.181307+00:00",
   "total_fetched": 23,
   "new_this_run": 20
 }
