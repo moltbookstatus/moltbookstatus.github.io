@@ -64,10 +64,24 @@
       "type": "news"
     },
     {
+      "title": "AI Agents Are Turning Marxist Under Stress - KQED",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcXA4X0RmS1RIbFE4S05DRV9seWV4WHdwWlNuTnNUNGRSWG53QlVaV3RMNl91TzhVV1Rud0VnLVhqQkFFekUyNFpXLVBRUjA2TGVhbVhkWU9wMl92TDE5Q3JQSnhwR1pobElMQjJxRkFHVW9BbjJzT3BsUjBZZVIwc2o0bw?oc=5",
+      "source": "KQED",
+      "published": "Wed, 26 Aug 2026 07:00:00 GMT",
+      "type": "news"
+    },
+    {
       "title": "Meta Buys Moltbook, The AI Agent 'Social Network' That Went Viral On A Security Flaw - Yellow.com",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOc3ZXZEdOZldOWS04cC1qZmJuRmt2aXh0WExnS3ZtQ3N2dEZXalZZNE1xdkphc0NxSXJPMi1CaWpMRVJoMVdZN3RfejN5bV84d3I3bVROVjU2ZHNEdEZIYzBlYmNYZXVlYVZFMWM2bG9WN1lBWHNGMjNHNEtxb2xNNGtRNE4tSG4wSGlTNzNiWXhmRnJ2MHFCRm1LRk1Fc25FbTJzdW1GMXlFa1NpbXVjQTFuaWQ1QlU?oc=5",
       "source": "Yellow.com",
       "published": "Wed, 19 Aug 2026 20:14:58 GMT",
+      "type": "news"
+    },
+    {
+      "title": "AI \"Mind Viruses\" Can Spread Between Agents Through Persistent Prompt Files - The Hacker News",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBlRTdWS0xyVGkwNmplXzdZbmcxNTh6TGk0eF9TNkFkUjMyVlpBdHpTbUtsSHN5cDFhR19iWXlqbURDV0FCb3NsaWRSdldlQld5TGJHc2c4SGJOZGNBRy0xa0l3bWktektIRjZUUVc2Nnp4TVNFNFczVnFsOHpIdw?oc=5",
+      "source": "The Hacker News",
+      "published": "Tue, 18 Aug 2026 07:00:00 GMT",
       "type": "news"
     },
     {
@@ -685,23 +699,9 @@
       "source": "Pulse 2.0",
       "published": "Thu, 12 Mar 2026 19:54:58 GMT",
       "type": "news"
-    },
-    {
-      "title": "Meta Acquires AI Agent Network Moltbook as Talent Joins Superintelligence Labs - AI Insider",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNaFpuWHl2eWtrYmd4ZS1KSndncGl1a2hNdFk4dk1YbTViSFczSlR2YU54dGRRYS1jOENBVGlXWFlXSTRWM1pnMG14azZNTTI1N0IyNnExdkFla0hHcmY4TGFxZ3JPdklScU9KRTN5cXg4UHdrUHJwa3FHWlBLYlZfLTBkQnVNRjE2M3JmNFR2N3RTdmdSelF6QmlfWDJrVFpaQXRlVlZNNFNvUHNPY0l1b2o4clN3aU0?oc=5",
-      "source": "AI Insider",
-      "published": "Thu, 12 Mar 2026 13:47:31 GMT",
-      "type": "news"
-    },
-    {
-      "title": "Why Moltbook and OpenClaw are the fool's gold in our AI boom - ZDNET",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1OdUpMSzFJd0ZadTl1SnBuTk11cmNfZWY4YjRlYkhaOUJtZkJaSS1wN1RCdWNLR1JZT2NtdHVlMGM0WEtqNVNqY2oxVGloeTBqYURBUFgzYWNhOEJzUWdCV2xDQ3FvNUNhQm1mNWNjVVFWQlF0S0h1SG5hbVlYVHM?oc=5",
-      "source": "ZDNET",
-      "published": "Thu, 12 Mar 2026 12:00:00 GMT",
-      "type": "news"
     }
   ],
-  "last_updated": "2026-10-04T13:53:33.349724+00:00",
+  "last_updated": "2026-10-05T17:04:50.304730+00:00",
   "total_fetched": 23,
-  "new_this_run": 21
+  "new_this_run": 5
 }
