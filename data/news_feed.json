@@ -1,6 +1,13 @@
 {
   "articles": [
     {
+      "title": "Studying the AI agent internet, from the inside - LSE Blogs",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPS0lsYzJkMHgzVWh3NXNZSDA5WjFCNDh6ZnVvdnRYeU5MSTdibkhKUmpYanBPZHRTYUJKaFkzSnBENHJoR2xQcWdrdFd5Q2U2Y2c0djRBakg3d0x6ZlAtWTNqaXUwZ21LTVIwVzgtX0xRWV9WU1ZPSlVIc2RrN09sQmxuZ043eXJTQWhXYUpDY3RPdE9qUmc?oc=5",
+      "source": "LSE Blogs",
+      "published": "Fri, 09 Oct 2026 00:22:19 GMT",
+      "type": "news"
+    },
+    {
       "title": "Who Gets to Decide A.I.\u2019s Moral Code? - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWFJlUllsTnZXWkl3WVdDbF9ZbmFzRDczSWJuYjFQVm90eEFCY2Z2a0VEVEZob29FY2ZNbWozOVJYMnVzWmZubi05Yi1qM1REUElvMTUtZUJXSWd4TzJmdi1ILW1pQmJoTkxCUFVNVmt5VVVrdS0wTHdUOHA1T1VfZHBMUDEzU2ZrQTcydzRWSnROZkU?oc=5",
       "source": "The New York Times",
@@ -692,16 +699,9 @@
       "source": "thekeyword.co",
       "published": "Thu, 12 Mar 2026 20:06:49 GMT",
       "type": "news"
-    },
-    {
-      "title": "Meta: AI Agent Social Network Moltbook Acquired To Bolster Superintelligence Labs - Pulse 2.0",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVEJwTU1XUThqX19seVFzV2xlSGdEaFJYeVlKWUhEcEhabVhWUUJNSS1EcV9YaTQ5SloxdEl1V1A1RXF2ZXhNRG5nYzV5MlktaWdPczZhSWlJSnRqVWVZVGd5MlJOaEYzU1hPeHREZmxRVFc2SnpiU3dTMUM5UndOcUdVN3JTY2xlOE10c3FiNEdFNlpuX0owMXFGa3pDMFFhNnfSAacBQVVfeXFMUEFwWjdJY25RSm9fUHYxSUVQa0dtN2czaGNEZDVSMk1EOGV3bWFBbzFka0JkZlJzUzRTX3YxdXhyaWJ5Y1p5dkhuNy1JUG9aS3EwTHpEc2Y0bzVyZlRHYXZ1VmhIaDhWVG1RZVA2ajM0ZktxUVVzZ2o4OFRKVVo2eXRvWHozeGhaYlNzUHdHMGRDRjJqUjVIUDFhV18yTndXMk1aRDl1T1U?oc=5",
-      "source": "Pulse 2.0",
-      "published": "Thu, 12 Mar 2026 19:54:58 GMT",
-      "type": "news"
     }
   ],
-  "last_updated": "2026-10-13T15:53:07.980144+00:00",
+  "last_updated": "2026-10-14T13:37:49.850891+00:00",
   "total_fetched": 22,
   "new_this_run": 21
 }
