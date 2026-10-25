@@ -218,6 +218,13 @@
       "type": "news"
     },
     {
+      "title": "Moltbook and the ethics of invisible AI communities: A conversation with Raymond Odiaga - Technext24.com",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE12a2hub3l6aEdmNW1RV0JpSHR4X2dhVDJrRWFGb1B4RmtVOWRTb2VqMTJsNlZ4RGhGUHU5Q1RhbG4tVC1tcnFYRE1Pc1lRYVVJNUdJQmxrZ2hvNk1KNExGM0x4Y1BkYWxSd0p6REF1NmVUaDJGOFloNlNHZUw?oc=5",
+      "source": "Technext24.com",
+      "published": "Mon, 06 Jul 2026 11:29:13 GMT",
+      "type": "news"
+    },
+    {
       "title": "When AI Agents Attack: Autonomous Cyber Operations and Europe\u2019s Governance Gap - Carnegie Endowment for International Peace",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYmR1MkwybWlSak1iSmRpQ1k1OWtRN05xTUpOQzdMMjVrdDREZWc1RFVnaUJpUWVNOXp6TXctcVNFV3Z3Xy14dGd3cWRRLURxbkU0N2x6dHJldGl2ZkVEODVCa3hVTGlsMDJqR1ZtZVdsRGJtYXJiUHFBQnR4SGdCdzlGUm80SlB6MGt1b3hwd0M1V2NxWkNTVnZoZlZVVG1zNEhSQmJ3VW1zQURQSjBiMVUwQkd5NTVwOUh1R28xd3dISUIweEdfTklB?oc=5",
       "source": "Carnegie Endowment for International Peace",
@@ -692,16 +699,9 @@
       "source": "AI: Reset to Zero",
       "published": "Fri, 13 Mar 2026 05:02:40 GMT",
       "type": "news"
-    },
-    {
-      "title": "Meta to Acquire Moltbook, the Social Network for AI Agents - Broadband Breakfast",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNDcyck5ielRFZjJjZVZOa1RxQWQzX0xNVkN6V0pVcnZUS0I0dFBzZmFBM181RkRnTWp3cHdiMDFHYWdqcXZjWTQ2Slh2RGV3TkFxbXFobWZQUlQ5UEZNdUpsNDcyRE9xUHpLRjExU2hWUDlfZlBMdDVNVmtPbFBsVVhiMU10MDdZWkRhVnloS3FNUmc?oc=5",
-      "source": "Broadband Breakfast",
-      "published": "Fri, 13 Mar 2026 01:00:42 GMT",
-      "type": "news"
     }
   ],
-  "last_updated": "2026-10-24T12:37:07.298411+00:00",
+  "last_updated": "2026-10-25T13:08:31.864251+00:00",
   "total_fetched": 22,
-  "new_this_run": 19
+  "new_this_run": 5
 }
