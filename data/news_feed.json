@@ -1,6 +1,13 @@
 {
   "articles": [
     {
+      "title": "When social media no longer needs people, what does the \u2018social\u2019 part mean? - The Conversation",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSG91T1FrYzhwdFVLVzdQNlR1SHBCOGhBc1JvekZMOUllQnc2QW1fTGVvU0dkd2hzUGZITldMLVI0Mkc4TkZHOEpEUmU3LVFaa1F3RXBGVWlzeEJWbTcxRHlhQnhaQWpEOE5kbWRiSEo5ekI5YXlNT3J1MElLeDlsMHpPWkM5QUw0Q3ZRUUZOTG5yZ0hUUmFET0o4NFhkZVM2THVKeVFUZXlDZw?oc=5",
+      "source": "The Conversation",
+      "published": "Wed, 04 Nov 2026 12:28:28 GMT",
+      "type": "news"
+    },
+    {
       "title": "Studying the AI agent internet, from the inside - LSE Blogs",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPS0lsYzJkMHgzVWh3NXNZSDA5WjFCNDh6ZnVvdnRYeU5MSTdibkhKUmpYanBPZHRTYUJKaFkzSnBENHJoR2xQcWdrdFd5Q2U2Y2c0djRBakg3d0x6ZlAtWTNqaXUwZ21LTVIwVzgtX0xRWV9WU1ZPSlVIc2RrN09sQmxuZ043eXJTQWhXYUpDY3RPdE9qUmc?oc=5",
       "source": "LSE Blogs",
@@ -692,16 +699,9 @@
       "source": "thebulletin.org",
       "published": "Fri, 13 Mar 2026 07:00:00 GMT",
       "type": "news"
-    },
-    {
-      "title": "AI: Meta leans further into AI Agents. RTZ #1024 - AI: Reset to Zero",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5KZERJYWRYUGJPcWY3RUFHT3lrTGh4X3Fwd1pHcU1FeFRwdHNZSUdDYjd2MERUbjZxdlZqa2ZaNENfVGxvWWtEMUNKckRJNl9Sa19UVkJvTFZtbTNENjhhbGFVRUFwNlhSWlF1MmVXZE9SY2VBQm5SNlV2WDUyQQ?oc=5",
-      "source": "AI: Reset to Zero",
-      "published": "Fri, 13 Mar 2026 05:02:40 GMT",
-      "type": "news"
     }
   ],
-  "last_updated": "2026-11-03T16:06:23.920648+00:00",
+  "last_updated": "2026-11-04T16:11:22.394888+00:00",
   "total_fetched": 22,
   "new_this_run": 21
 }
