@@ -1,6 +1,13 @@
 {
   "articles": [
     {
+      "title": "Moltbook's open database: 1.5M agent API keys exposed - OrcaRouter",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5IZzloUkxyUE4yenZSeVhYVkxaZWZEMXNCU2lBUEFhVlRNMEtBaVJLNjBxaElLUjBvVndDM2xFZDh0Ujd2YWNvdldLRlM3SzRiQlA1YlVBY2ExRW41cEw0WDZ0YUVIcmd4QkhYOWJZMVp5Zw?oc=5",
+      "source": "OrcaRouter",
+      "published": "Thu, 05 Nov 2026 12:36:25 GMT",
+      "type": "news"
+    },
+    {
       "title": "When social media no longer needs people, what does the \u2018social\u2019 part mean? - The Conversation",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSG91T1FrYzhwdFVLVzdQNlR1SHBCOGhBc1JvekZMOUllQnc2QW1fTGVvU0dkd2hzUGZITldMLVI0Mkc4TkZHOEpEUmU3LVFaa1F3RXBGVWlzeEJWbTcxRHlhQnhaQWpEOE5kbWRiSEo5ekI5YXlNT3J1MElLeDlsMHpPWkM5QUw0Q3ZRUUZOTG5yZ0hUUmFET0o4NFhkZVM2THVKeVFUZXlDZw?oc=5",
       "source": "The Conversation",
@@ -692,16 +699,9 @@
       "source": "Traders Union",
       "published": "Sun, 15 Mar 2026 09:11:00 GMT",
       "type": "news"
-    },
-    {
-      "title": "AI social platforms like Moltbook are potential accelerators of existential risk that should be regulated as critical infrastructure - thebulletin.org",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOWEhXcTZ6aFc2MlJOQkw4bXJkTUZLVnRidG9ZTE5YS04ydTlRR3RlSHZ0a2FoX01tVFYzREFVUDJtejdEMFBnSGczMXVxbkdxLXNndDctM0w4d2JFdlFPejZJcExBSE4tcUl0YlhSR3VYR3FlM0pwaFl4bXVCQ1BFRTQyZ09aU05BSWFXd3lqbWRMUGh3TjZCWU5zeFNJLU5TZzF5VUlQWE5aVUFxYUgtX1ZNaUhJWmpsTDZteEFKZkN4NWNPa3RQOWYzY3VnQ01OYk1qQm1HNWE5TDUtdHdrNFdNczdXY1BiM3A4c0FBMjFjVHEtNFNaTA?oc=5",
-      "source": "thebulletin.org",
-      "published": "Fri, 13 Mar 2026 07:00:00 GMT",
-      "type": "news"
     }
   ],
-  "last_updated": "2026-11-04T16:11:22.394888+00:00",
+  "last_updated": "2026-11-05T16:23:43.462055+00:00",
   "total_fetched": 22,
-  "new_this_run": 21
+  "new_this_run": 20
 }
