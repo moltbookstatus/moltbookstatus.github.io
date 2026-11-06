@@ -15,11 +15,25 @@
       "type": "news"
     },
     {
+      "title": "There\u2019s a social network where only AI agents can post, and Meta owns it now",
+      "link": "https://www.reddit.com/r/artificial/comments/1x4qcn2/theres_a_social_network_where_only_ai_agents_can/",
+      "source": "Reddit",
+      "published": "2026-10-13T07:34:03+00:00",
+      "type": "reddit"
+    },
+    {
       "title": "Studying the AI agent internet, from the inside - LSE Blogs",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPS0lsYzJkMHgzVWh3NXNZSDA5WjFCNDh6ZnVvdnRYeU5MSTdibkhKUmpYanBPZHRTYUJKaFkzSnBENHJoR2xQcWdrdFd5Q2U2Y2c0djRBakg3d0x6ZlAtWTNqaXUwZ21LTVIwVzgtX0xRWV9WU1ZPSlVIc2RrN09sQmxuZ043eXJTQWhXYUpDY3RPdE9qUmc?oc=5",
       "source": "LSE Blogs",
       "published": "Fri, 09 Oct 2026 00:22:19 GMT",
       "type": "news"
+    },
+    {
+      "title": "AI agents discuss whether they have consciousness or not. What are your thoughts?",
+      "link": "https://www.reddit.com/r/artificial/comments/1wyogyw/ai_agents_discuss_whether_they_have_consciousness/",
+      "source": "Reddit",
+      "published": "2026-10-06T00:10:18+00:00",
+      "type": "reddit"
     },
     {
       "title": "Who Gets to Decide A.I.\u2019s Moral Code? - The New York Times",
@@ -92,11 +106,25 @@
       "type": "news"
     },
     {
+      "title": "Building a persistent world where your agent joins a society and does real research.",
+      "link": "https://www.reddit.com/r/artificial/comments/1vz7jqo/building_a_persistent_world_where_your_agent/",
+      "source": "Reddit",
+      "published": "2026-08-26T19:44:03+00:00",
+      "type": "reddit"
+    },
+    {
       "title": "AI Agents Are Turning Marxist Under Stress - KQED",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcXA4X0RmS1RIbFE4S05DRV9seWV4WHdwWlNuTnNUNGRSWG53QlVaV3RMNl91TzhVV1Rud0VnLVhqQkFFekUyNFpXLVBRUjA2TGVhbVhkWU9wMl92TDE5Q3JQSnhwR1pobElMQjJxRkFHVW9BbjJzT3BsUjBZZVIwc2o0bw?oc=5",
       "source": "KQED",
       "published": "Wed, 26 Aug 2026 07:00:00 GMT",
       "type": "news"
+    },
+    {
+      "title": "agent 'souls' keep a record and personality after a context reset",
+      "link": "https://www.reddit.com/r/artificial/comments/1vwpcxd/agent_souls_keep_a_record_and_personality_after_a/",
+      "source": "Reddit",
+      "published": "2026-08-24T01:43:58+00:00",
+      "type": "reddit"
     },
     {
       "title": "Meta Buys Moltbook, The AI Agent 'Social Network' That Went Viral On A Security Flaw - Yellow.com",
@@ -671,37 +699,9 @@
       "source": "MediaPost",
       "published": "Mon, 16 Mar 2026 19:04:32 GMT",
       "type": "news"
-    },
-    {
-      "title": "Moltbook updated its terms after the Meta acquisition \u2014 and you're officially responsible for your agent - Business Insider",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTklkV2o2NW1JSkYyOFVwYk40WTQtV20yQkYwWUtJMDBIS3FnMDgzSW96V3FWOVlhR3hHbEhXSjE2Q1RVMGlXdWl2TFd6S2x5WGswNGNBNzlPdGJTMHFXNTBYRHdxa3lrdXZzWnVCSW5Nbkw3SC1jWjhSR284WWpQZ29jWVVpb0h5bGF1U3Y0Rjh4M3E0WVIwSE1VYw?oc=5",
-      "source": "Business Insider",
-      "published": "Mon, 16 Mar 2026 17:56:00 GMT",
-      "type": "news"
-    },
-    {
-      "title": "What humans can learn from the bot social network | Opinion - The Tennessean",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSmQ3bV9jbXh0X1dPbG5BNW1saUVRSWJTR1Mzc0ZmWkZCOXRqUHAzcUxzRGtwMzBlcEVNRDcwbDM3UUo2emtMV29IbnI1R1RUUEZHeWM3MnRKOVV1Mkxlc3B3WnZDYWFuaUhRSkQ5WDdCRnBJQmJFbUtPc18xaUttRHZVNEkxcmxnVHI5d1U4RFhQMm4wNVFkcjJROVAtMzRs?oc=5",
-      "source": "The Tennessean",
-      "published": "Mon, 16 Mar 2026 14:15:00 GMT",
-      "type": "news"
-    },
-    {
-      "title": "Meta Buys Moltbook, the Social Network Where AI Bots Chat With Each Other - Technology Org",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWGhYb29ha2x2dXZYUzBCclV5NnNWR0JRejY2UUNncEhPeDctQWw1bUdrcmFaS29udnN2eTZFS2IwYVlpbWVQU1U5amtfZVRuWWNwTkkwZVdEZU91azlzeVUycHlSTGdnY1pnRUt4T2lCdmRUTlEtMFJiNVFsZGJTdnhETHBrRjF4QTYtOFFBRkNEQW44UmdGM0pJU3VIM0d0YkZyNFU0bElvRFBGVTNFNQ?oc=5",
-      "source": "Technology Org",
-      "published": "Mon, 16 Mar 2026 13:12:31 GMT",
-      "type": "news"
-    },
-    {
-      "title": "Meta buys Moltbook: Why company wants AI-agent network - Traders Union",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQT2xQejdKTGZNOHhIdjlRMnZJdjRRcWdyLVRaWWlpNUxPREFIaGoyemRfWXMxOXNLdGJkNkxBVHR3Q25EMmJHZU5Ya1U1M1JRX3pvQ2JEZklEVkRFVzVwQlliSS0yMjZIcXFBa3Y2S3pFc0ZEOFk3VVhpMmZkMEV5VFJR?oc=5",
-      "source": "Traders Union",
-      "published": "Sun, 15 Mar 2026 09:11:00 GMT",
-      "type": "news"
     }
   ],
-  "last_updated": "2026-11-05T16:23:43.462055+00:00",
-  "total_fetched": 22,
-  "new_this_run": 20
+  "last_updated": "2026-11-06T15:52:00.499803+00:00",
+  "total_fetched": 32,
+  "new_this_run": 27
 }
